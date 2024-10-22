@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Kotlin](#kotlin)
 *   [JavaScript](#javascript)
 *   [HTML](#html)
 *   [SCSS](#scss)
@@ -19,7 +20,6 @@
 *   [Swift](#swift)
 *   [Dart](#dart)
 *   [Go](#go)
-*   [Kotlin](#kotlin)
 *   [Java](#java)
 *   [C#](#c-2)
 *   [CSS](#css)
@@ -46,6 +46,22 @@
 *   [QML](#qml)
 *   [Matlab](#matlab)
 *   [LiveScript](#livescript)
+
+## Kotlin
+
+*   [anilbeesetti/nextplayer](https://github.com/anilbeesetti/nextplayer) - An Android native video player
+
+*   [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️  Demo服务器由于未备案已被关停，建议自行搭建
+
+*   [UjuiUjuMandan/EhViewer](https://github.com/UjuiUjuMandan/EhViewer) - EhViewer overhauled with censorship circumvention and no more
+
+*   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+
+*   [czp3009/bilibili-api](https://github.com/czp3009/bilibili-api) - Bilibili API library for Kotlin
+
+*   [VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - Android application to analyze WiFi signals.
+
+*   [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
 
 ## JavaScript
 
@@ -855,7 +871,7 @@
 
 *   [ljxi/NetworkPanel](https://github.com/ljxi/NetworkPanel) - 测试您的网速，多出口查询您的ip地址
 
-*   [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Graphical Scrcpy to display and control Android, devices powered by Electron. - 使用图形化的 Scrcpy 显示和控制您的 Android 设备，由 Electron 驱动。
+*   [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Graphical Scrcpy to display and control Android, devices powered by Electron.
 
 *   [zyronon/douyin](https://github.com/zyronon/douyin) -  Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 .  Imitate TikTok ，Vue Best practices on Mobile
 
@@ -1577,20 +1593,6 @@
 
 *   [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
 
-## Kotlin
-
-*   [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️  Demo服务器由于未备案已被关停，建议自行搭建
-
-*   [UjuiUjuMandan/EhViewer](https://github.com/UjuiUjuMandan/EhViewer) - EhViewer overhauled with censorship circumvention and no more
-
-*   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
-
-*   [czp3009/bilibili-api](https://github.com/czp3009/bilibili-api) - Bilibili API library for Kotlin
-
-*   [VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - Android application to analyze WiFi signals.
-
-*   [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
-
 ## Java
 
 *   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
@@ -1674,8 +1676,6 @@
 *   [mono/monodevelop](https://github.com/mono/monodevelop) - MonoDevelop is a cross platform .NET IDE
 
 *   [jshackles/idle\_master](https://github.com/jshackles/idle_master) - Get your Steam Trading Cards the Easy Way
-
-*   [Guad/GTACoop](https://github.com/Guad/GTACoop) - An online co-op modification for GTA5
 
 ## CSS
 
