@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-*   [Dart](#dart)
 *   [Kotlin](#kotlin)
+*   [Dart](#dart)
 *   [JavaScript](#javascript)
 *   [HTML](#html)
 *   [SCSS](#scss)
@@ -47,15 +47,9 @@
 *   [Matlab](#matlab)
 *   [LiveScript](#livescript)
 
-## Dart
-
-*   [Pacalini/PicaComic](https://github.com/Pacalini/PicaComic) - A comic app built with Flutter, supporting multiple comic sources.
-
-*   [wgh136/PicaComic](https://github.com/wgh136/PicaComic) - A comic app built with Flutter, supporting multiple comic sources.
-
-*   [jiangtian616/JHenTai](https://github.com/jiangtian616/JHenTai) - A cross-platform manga app made for e-hentai & exhentai by Flutter
-
 ## Kotlin
+
+*   [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
 
 *   [anilbeesetti/nextplayer](https://github.com/anilbeesetti/nextplayer) - An Android native video player
 
@@ -70,6 +64,14 @@
 *   [VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - Android application to analyze WiFi signals.
 
 *   [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
+
+## Dart
+
+*   [Pacalini/PicaComic](https://github.com/Pacalini/PicaComic) - A comic app built with Flutter, supporting multiple comic sources.
+
+*   [wgh136/PicaComic](https://github.com/wgh136/PicaComic) - A comic app built with Flutter, supporting multiple comic sources.
+
+*   [jiangtian616/JHenTai](https://github.com/jiangtian616/JHenTai) - A cross-platform manga app made for e-hentai & exhentai by Flutter
 
 ## JavaScript
 
@@ -1710,8 +1712,6 @@
 *   [DT27/Slanted](https://github.com/DT27/Slanted) - Slanted Typecho Theme
 
 *   [angelfreedomv/Minecraft-Kotori](https://github.com/angelfreedomv/Minecraft-Kotori) - A Smiple and Easy Modify Ghost Theme of Modular——一个简单又容易修改的Ghost模块化主题
-
-*   [MoePlayer/cPlayer](https://github.com/MoePlayer/cPlayer) - A beautiful and clean WEB Music Player by HTML5.
 
 ## Lua
 
