@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [Zig](#zig)
 *   [C](#c)
 *   [TypeScript](#typescript)
@@ -16,7 +17,6 @@
 *   [SCSS](#scss)
 *   [Vue](#vue)
 *   [miscellaneous](#miscellaneous)
-*   [Shell](#shell)
 *   [C++](#c-2)
 *   [Rust](#rust)
 *   [Makefile](#makefile)
@@ -47,6 +47,50 @@
 *   [QML](#qml)
 *   [Matlab](#matlab)
 *   [LiveScript](#livescript)
+
+## Shell
+
+*   [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fangsong typeface project
+
+*   [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边
+
+*   [huangqian8/SwitchScript](https://github.com/huangqian8/SwitchScript) - 大气层个人整合包生成脚本
+
+*   [Pal3love/Source-Han-TrueType](https://github.com/Pal3love/Source-Han-TrueType) - TrueType version of Source Han Sans, Source Han Serif and Source Han Mono
+
+*   [hsfzxjy/Bad-Apple-Font](https://github.com/hsfzxjy/Bad-Apple-Font) - Playing Bad Apple!! with HarfBuzz WASM shaper.
+
+*   [mklement0/fileicon](https://github.com/mklement0/fileicon) - macOS CLI for managing custom icons for files and folders
+
+*   [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) - Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)
+
+*   [iranee/qnap-alist-webdav](https://github.com/iranee/qnap-alist-webdav) - 一款挂载多个云盘的工具
+
+*   [mlch911/one-key-hidpi](https://github.com/mlch911/one-key-hidpi) - Enable macOS HiDPI and have a native setting.
+
+*   [Mr-xn/subdomain\_shell](https://github.com/Mr-xn/subdomain_shell) - 一键调用subfinder+ksubdomain+httpx 强强联合 从域名发现-->域名验证-->获取域名标题、状态码以及响应大小 最后保存结果,简化重复操作命令
+
+*   [goozp/zPhal-dockerfiles](https://github.com/goozp/zPhal-dockerfiles) - dockerfiles that support zPhal's working environment
+
+*   [alex000kim/nsfw\_data\_scraper](https://github.com/alex000kim/nsfw_data_scraper) - Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier
+
+*   [darkhandz/XPS15-9550-Mojave](https://github.com/darkhandz/XPS15-9550-Mojave) -  DELL XPS15 9550 10.14 黑苹果 配置
+
+*   [dustinkirkland/hollywood](https://github.com/dustinkirkland/hollywood) -
+
+*   [oblique/create\_ap](https://github.com/oblique/create_ap) - \[NOT MAINTAINED] This script creates a NATed or Bridged WiFi Access Point.
+
+*   [keeferrourke/la-capitaine-icon-theme](https://github.com/keeferrourke/la-capitaine-icon-theme) - La Capitaine is an icon pack designed to integrate with most desktop environments. The set of icons takes inspiration from the latest iterations of macOS and Google's Material Design.
+
+*   [drizzt/vps2arch](https://github.com/drizzt/vps2arch) - The fastest way to convert a VPS to Arch Linux! Mirror of https://gitlab.com/drizzt/vps2arch/
+
+*   [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
+
+*   [91yun/serverspeeder](https://github.com/91yun/serverspeeder) - 锐速破解版
+
+*   [hillwoodroc/winetricks-zh](https://github.com/hillwoodroc/winetricks-zh) - A windows applications setup wizard for Chinese wine users
+
+*   [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
 
 ## Zig
 
@@ -1417,50 +1461,6 @@
 *   [Homebrew/legacy-homebrew](https://github.com/Homebrew/legacy-homebrew) - 💀 The former home of Homebrew/homebrew (deprecated)
 
 *   [tinyc-z/adcdownload](https://github.com/tinyc-z/adcdownload) - 苹果开发者中心资源国内接力
-
-*   [d1sm/finalspeed](https://github.com/d1sm/finalspeed) - 高速双边加速软件,在高丢包,延迟环境下仍可达到90%物理带宽利用率.
-
-## Shell
-
-*   [DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist) - 小雅Alist的相关周边
-
-*   [huangqian8/SwitchScript](https://github.com/huangqian8/SwitchScript) - 大气层个人整合包生成脚本
-
-*   [Pal3love/Source-Han-TrueType](https://github.com/Pal3love/Source-Han-TrueType) - TrueType version of Source Han Sans, Source Han Serif and Source Han Mono
-
-*   [hsfzxjy/Bad-Apple-Font](https://github.com/hsfzxjy/Bad-Apple-Font) - Playing Bad Apple!! with HarfBuzz WASM shaper.
-
-*   [mklement0/fileicon](https://github.com/mklement0/fileicon) - macOS CLI for managing custom icons for files and folders
-
-*   [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) - Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)
-
-*   [iranee/qnap-alist-webdav](https://github.com/iranee/qnap-alist-webdav) - 一款挂载多个云盘的工具
-
-*   [mlch911/one-key-hidpi](https://github.com/mlch911/one-key-hidpi) - Enable macOS HiDPI and have a native setting.
-
-*   [Mr-xn/subdomain\_shell](https://github.com/Mr-xn/subdomain_shell) - 一键调用subfinder+ksubdomain+httpx 强强联合 从域名发现-->域名验证-->获取域名标题、状态码以及响应大小 最后保存结果,简化重复操作命令
-
-*   [goozp/zPhal-dockerfiles](https://github.com/goozp/zPhal-dockerfiles) - dockerfiles that support zPhal's working environment
-
-*   [alex000kim/nsfw\_data\_scraper](https://github.com/alex000kim/nsfw_data_scraper) - Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier
-
-*   [darkhandz/XPS15-9550-Mojave](https://github.com/darkhandz/XPS15-9550-Mojave) -  DELL XPS15 9550 10.14 黑苹果 配置
-
-*   [dustinkirkland/hollywood](https://github.com/dustinkirkland/hollywood) -
-
-*   [oblique/create\_ap](https://github.com/oblique/create_ap) - \[NOT MAINTAINED] This script creates a NATed or Bridged WiFi Access Point.
-
-*   [keeferrourke/la-capitaine-icon-theme](https://github.com/keeferrourke/la-capitaine-icon-theme) - La Capitaine is an icon pack designed to integrate with most desktop environments. The set of icons takes inspiration from the latest iterations of macOS and Google's Material Design.
-
-*   [drizzt/vps2arch](https://github.com/drizzt/vps2arch) - The fastest way to convert a VPS to Arch Linux! Mirror of https://gitlab.com/drizzt/vps2arch/
-
-*   [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
-
-*   [91yun/serverspeeder](https://github.com/91yun/serverspeeder) - 锐速破解版
-
-*   [hillwoodroc/winetricks-zh](https://github.com/hillwoodroc/winetricks-zh) - A windows applications setup wizard for Chinese wine users
-
-*   [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
 
 ## C++
 
