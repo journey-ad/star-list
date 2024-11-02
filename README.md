@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [CSS](#css)
 *   [Shell](#shell)
 *   [TypeScript](#typescript)
@@ -23,7 +24,6 @@
 *   [Rust](#rust)
 *   [Makefile](#makefile)
 *   [Swift](#swift)
-*   [Java](#java)
 *   [Lua](#lua)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Scala](#scala)
@@ -47,6 +47,42 @@
 *   [QML](#qml)
 *   [Matlab](#matlab)
 *   [LiveScript](#livescript)
+
+## Java
+
+*   [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) - BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。PeerId黑名单/UserAgent黑名单/IP CIDR/假进度/超量下载/进度回退/多播追猎/连锁封禁/伪装检测 支持 qBittorrent/Transmission/Deluge/BiglyBT/Vuze(Azureus)/BitComet
+
+*   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
+
+*   [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
+
+*   [Zealon159/light-reading-cloud](https://github.com/Zealon159/light-reading-cloud) -  :books: 轻松阅读，基于SpringCloud生态开发的阅读类APP微服务实战项目，涉及 SpringCloud-Gateway、Nacos、OpenFeign、Hystrix、Jwt、ElasticSearch 等技术的应用
+
+*   [RipMeApp/ripme](https://github.com/RipMeApp/ripme) - Downloads albums in bulk
+
+*   [ElderDrivers/EdXposed](https://github.com/ElderDrivers/EdXposed) - Elder driver Xposed Framework.
+
+*   [nining377/UnblockMusicPro\_Xposed](https://github.com/nining377/UnblockMusicPro_Xposed) - Unblock Netease Cloud Music with Xposed
+
+*   [Freeyourgadget/Gadgetbridge](https://github.com/Freeyourgadget/Gadgetbridge) - We are on codeberg.org now! https://codeberg.org/Freeyourgadget/Gadgetbridge -  Gadgetbridge - A free and cloudless replacement for your gadget vendors' closed source Android applications. Supports Pebble, Mi Band, Liveview, HPlus and more.
+
+*   [SplashCodes/JAViewer](https://github.com/SplashCodes/JAViewer) - 更优雅的驾车体验
+
+*   [nikita36078/J2ME-Loader](https://github.com/nikita36078/J2ME-Loader) - A J2ME emulator for Android.
+
+*   [meefik/linuxdeploy](https://github.com/meefik/linuxdeploy) - Install and run GNU/Linux on Android
+
+*   [MiPushFramework/MiPushFramework](https://github.com/MiPushFramework/MiPushFramework) - \[Archived, FORK: https://github.com/NihilityT/MiPushFramework] Let supported push service run system-ly on every Android devices
+
+*   [kabouzeid/Phonograph](https://github.com/kabouzeid/Phonograph) - A material designed music player for Android
+
+*   [bin456789/Unblock163MusicClient-Xposed](https://github.com/bin456789/Unblock163MusicClient-Xposed) - Unblock 163 Cloud Music Android client through Xposed.
+
+*   [PureDark/H-Viewer](https://github.com/PureDark/H-Viewer) - An android feed reader application which fetch data with selector and regular expression.
+
+*   [maoruibin/TranslateApp](https://github.com/maoruibin/TranslateApp) - :memo: A translations app without interruptions, copy words and translate directly, show result by top view.
+
+*   [seven332/EhViewer](https://github.com/seven332/EhViewer) - \[DEPRECATED] An Unofficial E-Hentai Application for Android
 
 ## CSS
 
@@ -336,8 +372,6 @@
 
 *   [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 
-*   [briangonzalez/rgbaster.js](https://github.com/briangonzalez/rgbaster.js) - 🎨 A simple library for extracting dominant colors from images.
-
 ## Go
 
 *   [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
@@ -535,8 +569,6 @@
 *   [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 
 *   [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-V 2.6: A GPT-4V Level MLLM for Single Image, Multi Image and Video on Your Phone
-
-*   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。
 
 *   [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 
@@ -820,13 +852,15 @@
 
 ## JavaScript
 
-*   [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) - 多种风格可选的萌萌计数器
+*   [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) - Moe counter badge with multiple themes! / 多种风格可选的萌萌计数器
 
 *   [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
 
 *   [gaotianliuyun/gao](https://github.com/gaotianliuyun/gao) - FongMi影视和tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
 
 *   [timvisee/send](https://github.com/timvisee/send) - :mailbox\_with\_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
+
+*   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。
 
 *   [uiwjs/province-city-china](https://github.com/uiwjs/province-city-china) - 🇨🇳最全最新中国【省、市、区县、乡镇街道】json,csv,sql数据
 
@@ -1689,40 +1723,6 @@
 *   [onmyway133/FinderGo](https://github.com/onmyway133/FinderGo) - 🐢 Open terminal quickly from Finder
 
 *   [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
-
-## Java
-
-*   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
-
-*   [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
-
-*   [Zealon159/light-reading-cloud](https://github.com/Zealon159/light-reading-cloud) -  :books: 轻松阅读，基于SpringCloud生态开发的阅读类APP微服务实战项目，涉及 SpringCloud-Gateway、Nacos、OpenFeign、Hystrix、Jwt、ElasticSearch 等技术的应用
-
-*   [RipMeApp/ripme](https://github.com/RipMeApp/ripme) - Downloads albums in bulk
-
-*   [ElderDrivers/EdXposed](https://github.com/ElderDrivers/EdXposed) - Elder driver Xposed Framework.
-
-*   [nining377/UnblockMusicPro\_Xposed](https://github.com/nining377/UnblockMusicPro_Xposed) - Unblock Netease Cloud Music with Xposed
-
-*   [Freeyourgadget/Gadgetbridge](https://github.com/Freeyourgadget/Gadgetbridge) - We are on codeberg.org now! https://codeberg.org/Freeyourgadget/Gadgetbridge -  Gadgetbridge - A free and cloudless replacement for your gadget vendors' closed source Android applications. Supports Pebble, Mi Band, Liveview, HPlus and more.
-
-*   [SplashCodes/JAViewer](https://github.com/SplashCodes/JAViewer) - 更优雅的驾车体验
-
-*   [nikita36078/J2ME-Loader](https://github.com/nikita36078/J2ME-Loader) - A J2ME emulator for Android.
-
-*   [meefik/linuxdeploy](https://github.com/meefik/linuxdeploy) - Install and run GNU/Linux on Android
-
-*   [MiPushFramework/MiPushFramework](https://github.com/MiPushFramework/MiPushFramework) - \[Archived, FORK: https://github.com/NihilityT/MiPushFramework] Let supported push service run system-ly on every Android devices
-
-*   [kabouzeid/Phonograph](https://github.com/kabouzeid/Phonograph) - A material designed music player for Android
-
-*   [bin456789/Unblock163MusicClient-Xposed](https://github.com/bin456789/Unblock163MusicClient-Xposed) - Unblock 163 Cloud Music Android client through Xposed.
-
-*   [PureDark/H-Viewer](https://github.com/PureDark/H-Viewer) - An android feed reader application which fetch data with selector and regular expression.
-
-*   [maoruibin/TranslateApp](https://github.com/maoruibin/TranslateApp) - :memo: A translations app without interruptions, copy words and translate directly, show result by top view.
-
-*   [seven332/EhViewer](https://github.com/seven332/EhViewer) - \[DEPRECATED] An Unofficial E-Hentai Application for Android
 
 ## Lua
 
