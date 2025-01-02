@@ -123,7 +123,7 @@
 
 ## Objective-C
 
-*   [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall
+*   [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free open-source macOS firewall
 
 *   [sunnyyoung/WeChatTweak-macOS](https://github.com/sunnyyoung/WeChatTweak-macOS) - A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨
 
