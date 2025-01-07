@@ -743,6 +743,8 @@
 
 *   [eggjs/egg](https://github.com/eggjs/egg) - 🥚 Born to build better enterprise frameworks and apps with Node.js & Koa
 
+*   [SunHuawei/SourceDetector](https://github.com/SunHuawei/SourceDetector) - Chrome extension，用于发现源码文件(\*.map)
+
 *   [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
 
 *   [eugeneration/HappyIslandDesigner](https://github.com/eugeneration/HappyIslandDesigner) -
@@ -1248,8 +1250,6 @@
 *   [gaoryrt/cursor-dot](https://github.com/gaoryrt/cursor-dot) - 🖱️Fancy cursor dot
 
 *   [HcySunYang/vue-design](https://github.com/HcySunYang/vue-design) - 📖 master分支：《渲染器》
-
-*   [SunHuawei/SourceDetector](https://github.com/SunHuawei/SourceDetector) - Chrome extension，用于发现源码文件(\*.map)
 
 *   [XmanLin/MyUtils](https://github.com/XmanLin/MyUtils) - 常用的JavaScript工具函数
 
