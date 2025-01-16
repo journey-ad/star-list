@@ -26,8 +26,8 @@
 *   [Rust](#rust)
 *   [Makefile](#makefile)
 *   [Swift](#swift)
-*   [Lua](#lua)
 *   [Jupyter Notebook](#jupyter-notebook)
+*   [Lua](#lua)
 *   [Scala](#scala)
 *   [Ruby](#ruby)
 *   [Batchfile](#batchfile)
@@ -194,8 +194,6 @@
 *   [icloud-photos-downloader/icloud\_photos\_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
 
 *   [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) - 🎉🌩️ Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP!
-
-*   [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.
 
 *   [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
 
@@ -1755,6 +1753,22 @@
 
 *   [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 
+## Jupyter Notebook
+
+*   [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.
+
+*   [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
+
+*   [advimman/lama](https://github.com/advimman/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
+
+*   [mazzzystar/disco-diffusion-wrapper](https://github.com/mazzzystar/disco-diffusion-wrapper) - Implementation of disco-diffusion wrapper that could run on your own GPU with batch text input.
+
+*   [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
+
+*   [TsingJyujing/xhamster\_analysis](https://github.com/TsingJyujing/xhamster_analysis) - The data analysiser and predictor of https://xhamster.com/
+
+*   [pfnet/PaintsChainer](https://github.com/pfnet/PaintsChainer) - line drawing colorization using chainer
+
 ## Lua
 
 *   [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
@@ -1770,20 +1784,6 @@
 *   [satoshiiizuka/siggraph2016\_colorization](https://github.com/satoshiiizuka/siggraph2016_colorization) - Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'.
 
 *   [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
-
-## Jupyter Notebook
-
-*   [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
-
-*   [advimman/lama](https://github.com/advimman/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
-
-*   [mazzzystar/disco-diffusion-wrapper](https://github.com/mazzzystar/disco-diffusion-wrapper) - Implementation of disco-diffusion wrapper that could run on your own GPU with batch text input.
-
-*   [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
-
-*   [TsingJyujing/xhamster\_analysis](https://github.com/TsingJyujing/xhamster_analysis) - The data analysiser and predictor of https://xhamster.com/
-
-*   [pfnet/PaintsChainer](https://github.com/pfnet/PaintsChainer) - line drawing colorization using chainer
 
 ## Scala
 
