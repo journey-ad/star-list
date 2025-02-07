@@ -51,6 +51,8 @@
 
 ## Python
 
+*   [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
+
 *   [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) - 开源像素字体。支持 8、10 和 12 像素。
 
 *   [WEIFENG2333/VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) - 🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手，无需GPU一键高质量字幕视频合成！视频字幕生成、断句、校正、字幕翻译全流程。让字幕制作简单高效！
@@ -966,8 +968,6 @@
 *   [WhiteBlue/bilibili-sdk-go](https://github.com/WhiteBlue/bilibili-sdk-go) - BiliBili Open API & SDK written in Go
 
 *   [fanpei91/torsniff](https://github.com/fanpei91/torsniff) - torsniff - a sniffer that sniffs torrents from BitTorrent network
-
-*   [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
 
 ## Java
 
