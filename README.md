@@ -4,6 +4,8 @@
 
 ## Table of Contents
 
+*   [Jupyter Notebook](#jupyter-notebook)
+*   [Shell](#shell)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
 *   [Python](#python)
@@ -15,7 +17,6 @@
 *   [Objective-C](#objective-c)
 *   [Roff](#roff)
 *   [CSS](#css)
-*   [Shell](#shell)
 *   [Vue](#vue)
 *   [Zig](#zig)
 *   [Dart](#dart)
@@ -26,7 +27,6 @@
 *   [Rust](#rust)
 *   [Makefile](#makefile)
 *   [Swift](#swift)
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [Lua](#lua)
 *   [Scala](#scala)
 *   [Ruby](#ruby)
@@ -48,6 +48,72 @@
 *   [QML](#qml)
 *   [Matlab](#matlab)
 *   [LiveScript](#livescript)
+
+## Jupyter Notebook
+
+*   [QwenLM/Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL) - Qwen2.5-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
+
+*   [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.
+
+*   [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
+
+*   [advimman/lama](https://github.com/advimman/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
+
+*   [mazzzystar/disco-diffusion-wrapper](https://github.com/mazzzystar/disco-diffusion-wrapper) - Implementation of disco-diffusion wrapper that could run on your own GPU with batch text input.
+
+*   [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
+
+*   [TsingJyujing/xhamster\_analysis](https://github.com/TsingJyujing/xhamster_analysis) - The data analysiser and predictor of https://xhamster.com/
+
+*   [pfnet/PaintsChainer](https://github.com/pfnet/PaintsChainer) - line drawing colorization using chainer
+
+## Shell
+
+*   [QwenLM/Qwen2.5](https://github.com/QwenLM/Qwen2.5) - Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.
+
+*   [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
+
+*   [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fangsong typeface project
+
+*   [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边
+
+*   [huangqian8/SwitchScript](https://github.com/huangqian8/SwitchScript) - 大气层个人整合包生成脚本
+
+*   [Pal3love/Source-Han-TrueType](https://github.com/Pal3love/Source-Han-TrueType) - TrueType version of Source Han Sans, Source Han Serif and Source Han Mono
+
+*   [hsfzxjy/Bad-Apple-Font](https://github.com/hsfzxjy/Bad-Apple-Font) - Playing Bad Apple!! with HarfBuzz WASM shaper.
+
+*   [mklement0/fileicon](https://github.com/mklement0/fileicon) - macOS CLI for managing custom icons for files and folders
+
+*   [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) - Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)
+
+*   [iranee/qnap-alist-webdav](https://github.com/iranee/qnap-alist-webdav) - 一款挂载多个云盘的工具
+
+*   [mlch911/one-key-hidpi](https://github.com/mlch911/one-key-hidpi) - Enable macOS HiDPI and have a native setting.
+
+*   [Mr-xn/subdomain\_shell](https://github.com/Mr-xn/subdomain_shell) - 一键调用subfinder+ksubdomain+httpx 强强联合 从域名发现-->域名验证-->获取域名标题、状态码以及响应大小 最后保存结果,简化重复操作命令
+
+*   [goozp/zPhal-dockerfiles](https://github.com/goozp/zPhal-dockerfiles) - dockerfiles that support zPhal's working environment
+
+*   [alex000kim/nsfw\_data\_scraper](https://github.com/alex000kim/nsfw_data_scraper) - Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier
+
+*   [darkhandz/XPS15-9550-Mojave](https://github.com/darkhandz/XPS15-9550-Mojave) -  DELL XPS15 9550 10.14 黑苹果 配置
+
+*   [dustinkirkland/hollywood](https://github.com/dustinkirkland/hollywood) -
+
+*   [oblique/create\_ap](https://github.com/oblique/create_ap) - \[NOT MAINTAINED] This script creates a NATed or Bridged WiFi Access Point.
+
+*   [keeferrourke/la-capitaine-icon-theme](https://github.com/keeferrourke/la-capitaine-icon-theme) - La Capitaine is an icon pack designed to integrate with most desktop environments. The set of icons takes inspiration from the latest iterations of macOS and Google's Material Design.
+
+*   [drizzt/vps2arch](https://github.com/drizzt/vps2arch) - The fastest way to convert a VPS to Arch Linux! Mirror of https://gitlab.com/drizzt/vps2arch/
+
+*   [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
+
+*   [91yun/serverspeeder](https://github.com/91yun/serverspeeder) - 锐速破解版
+
+*   [hillwoodroc/winetricks-zh](https://github.com/hillwoodroc/winetricks-zh) - A windows applications setup wizard for Chinese wine users
+
+*   [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
 
 ## TypeScript
 
@@ -425,7 +491,7 @@
 
 ## Python
 
-*   [journey-ad/CosyVoice2-Ex](https://github.com/journey-ad/CosyVoice2-Ex) - CosyVoice2 功能扩充（预训练音色推理/3s极速复刻/自然语言控制/自动识别/音色模型保存/API），支持Windows/MacOS
+*   [journey-ad/CosyVoice2-Ex](https://github.com/journey-ad/CosyVoice2-Ex) - CosyVoice2 功能扩充（预训练音色推理/3s极速复刻/自然语言控制/自动识别/音色模型保存/API）
 
 *   [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
 
@@ -459,7 +525,7 @@
 
 *   [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
 
-*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬 Ready-to-use & flexible RAG Chatbot, supporting mainstream large language models (LLMs) such as DeepSeek-R1, Llama 3.3, OpenAI, and more.
+*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬 Ready-to-use & flexible RAG Chatbot, supporting mainstream large language models (LLMs) such as DeepSeek-R1, Llama 3.3, Qwen2, OpenAI, and more.
 
 *   [Mzdyl/LiteLoaderQQNT\_Install](https://github.com/Mzdyl/LiteLoaderQQNT_Install) - 针对 LiteLoaderQQNT 的安装脚本
 
@@ -650,8 +716,6 @@
 *   [Vespa314/bilibili-api](https://github.com/Vespa314/bilibili-api) - B站API收集整理及开发，不再维护
 
 *   [J3n5en/the-115-api](https://github.com/J3n5en/the-115-api) -
-
-*   [binux/pyspider](https://github.com/binux/pyspider) - A Powerful Spider(Web Crawler) System in Python.
 
 ## C
 
@@ -1439,52 +1503,6 @@
 
 *   [angelfreedomv/Minecraft-Kotori](https://github.com/angelfreedomv/Minecraft-Kotori) - A Smiple and Easy Modify Ghost Theme of Modular——一个简单又容易修改的Ghost模块化主题
 
-## Shell
-
-*   [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
-
-*   [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fangsong typeface project
-
-*   [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边
-
-*   [huangqian8/SwitchScript](https://github.com/huangqian8/SwitchScript) - 大气层个人整合包生成脚本
-
-*   [Pal3love/Source-Han-TrueType](https://github.com/Pal3love/Source-Han-TrueType) - TrueType version of Source Han Sans, Source Han Serif and Source Han Mono
-
-*   [hsfzxjy/Bad-Apple-Font](https://github.com/hsfzxjy/Bad-Apple-Font) - Playing Bad Apple!! with HarfBuzz WASM shaper.
-
-*   [mklement0/fileicon](https://github.com/mklement0/fileicon) - macOS CLI for managing custom icons for files and folders
-
-*   [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) - Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)
-
-*   [iranee/qnap-alist-webdav](https://github.com/iranee/qnap-alist-webdav) - 一款挂载多个云盘的工具
-
-*   [mlch911/one-key-hidpi](https://github.com/mlch911/one-key-hidpi) - Enable macOS HiDPI and have a native setting.
-
-*   [Mr-xn/subdomain\_shell](https://github.com/Mr-xn/subdomain_shell) - 一键调用subfinder+ksubdomain+httpx 强强联合 从域名发现-->域名验证-->获取域名标题、状态码以及响应大小 最后保存结果,简化重复操作命令
-
-*   [goozp/zPhal-dockerfiles](https://github.com/goozp/zPhal-dockerfiles) - dockerfiles that support zPhal's working environment
-
-*   [alex000kim/nsfw\_data\_scraper](https://github.com/alex000kim/nsfw_data_scraper) - Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier
-
-*   [darkhandz/XPS15-9550-Mojave](https://github.com/darkhandz/XPS15-9550-Mojave) -  DELL XPS15 9550 10.14 黑苹果 配置
-
-*   [dustinkirkland/hollywood](https://github.com/dustinkirkland/hollywood) -
-
-*   [oblique/create\_ap](https://github.com/oblique/create_ap) - \[NOT MAINTAINED] This script creates a NATed or Bridged WiFi Access Point.
-
-*   [keeferrourke/la-capitaine-icon-theme](https://github.com/keeferrourke/la-capitaine-icon-theme) - La Capitaine is an icon pack designed to integrate with most desktop environments. The set of icons takes inspiration from the latest iterations of macOS and Google's Material Design.
-
-*   [drizzt/vps2arch](https://github.com/drizzt/vps2arch) - The fastest way to convert a VPS to Arch Linux! Mirror of https://gitlab.com/drizzt/vps2arch/
-
-*   [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
-
-*   [91yun/serverspeeder](https://github.com/91yun/serverspeeder) - 锐速破解版
-
-*   [hillwoodroc/winetricks-zh](https://github.com/hillwoodroc/winetricks-zh) - A windows applications setup wizard for Chinese wine users
-
-*   [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
-
 ## Vue
 
 *   [dreamhunter2333/cloudflare\_temp\_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
@@ -1755,22 +1773,6 @@
 
 *   [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 
-## Jupyter Notebook
-
-*   [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.
-
-*   [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
-
-*   [advimman/lama](https://github.com/advimman/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
-
-*   [mazzzystar/disco-diffusion-wrapper](https://github.com/mazzzystar/disco-diffusion-wrapper) - Implementation of disco-diffusion wrapper that could run on your own GPU with batch text input.
-
-*   [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
-
-*   [TsingJyujing/xhamster\_analysis](https://github.com/TsingJyujing/xhamster_analysis) - The data analysiser and predictor of https://xhamster.com/
-
-*   [pfnet/PaintsChainer](https://github.com/pfnet/PaintsChainer) - line drawing colorization using chainer
-
 ## Lua
 
 *   [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
@@ -1794,8 +1796,6 @@
 *   [bit4woo/Summit\_PPT](https://github.com/bit4woo/Summit_PPT) - 各种安全大会PPT PDF
 
 *   [moebooru/moebooru](https://github.com/moebooru/moebooru) - Moebooru, a fork of danbooru1 that has been heavily modified
-
-*   [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe\_with\_meridians: Jekyll is a blog-aware static site generator in Ruby
 
 ## Batchfile
 
