@@ -38,6 +38,7 @@
 *   [Objective-C++](#objective-c-1)
 *   [Pony](#pony)
 *   [Pascal](#pascal)
+*   [MDX](#mdx)
 *   [ActionScript](#actionscript)
 *   [Clojure](#clojure)
 *   [ASL](#asl)
@@ -1667,8 +1668,6 @@
 
 *   [SolidZORO/zpix-pixel-font](https://github.com/SolidZORO/zpix-pixel-font) - Zpix (最像素) is a pixel font (中文像素字体), supporting English, Chinese (Simplified + Traditional) and Japanese.
 
-*   [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
-
 *   [alienzhou/frontend-tech-list](https://github.com/alienzhou/frontend-tech-list) - 📝 Frontend Tech List for Developers 💡
 
 *   [diafygi/webrtc-ips](https://github.com/diafygi/webrtc-ips) - Demo: https://diafygi.github.io/webrtc-ips/
@@ -1894,6 +1893,10 @@
 ## Pascal
 
 *   [stascorp/rdpwrap](https://github.com/stascorp/rdpwrap) - RDP Wrapper Library
+
+## MDX
+
+*   [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 
 ## ActionScript
 
