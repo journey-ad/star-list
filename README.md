@@ -4,8 +4,9 @@
 
 ## Table of Contents
 
+*   [Markdown](#markdown)
 *   [TypeScript](#typescript)
-*   [Dockerfile](#dockerfile)
+*   [Makefile](#makefile)
 *   [Python](#python)
 *   [Go](#go)
 *   [Objective-C](#objective-c)
@@ -26,12 +27,12 @@
 *   [HTML](#html)
 *   [SCSS](#scss)
 *   [Rust](#rust)
-*   [Makefile](#makefile)
 *   [Swift](#swift)
 *   [Lua](#lua)
 *   [Scala](#scala)
 *   [Ruby](#ruby)
 *   [Batchfile](#batchfile)
+*   [Dockerfile](#dockerfile)
 *   [Svelte](#svelte)
 *   [PHP](#php)
 *   [Rich Text Format](#rich-text-format)
@@ -49,6 +50,10 @@
 *   [QML](#qml)
 *   [Matlab](#matlab)
 *   [LiveScript](#livescript)
+
+## Markdown
+
+*   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 ## TypeScript
 
@@ -272,15 +277,15 @@
 
 *   [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 
-*   [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
+## Makefile
 
-## Dockerfile
+*   [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - Low-resource, fast, and privately self-host free version of Google Translate - 低占用速度快可私有部署的自由版 Google 翻译
 
-*   [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - An ultra-low resource consumption super-fast self-hosted offline translation server, which only requires a CPU + 1G of memory to run. 超低资源消耗超快的离线翻译服务器，仅需 CPU + 1G 内存即可运行。翻译自由辣🥵
+*   [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) - machine-readable data for https://awesome-selfhosted.net
 
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+*   [libretro/Lakka-LibreELEC](https://github.com/libretro/Lakka-LibreELEC) - Lakka is a lightweight Linux distribution that transforms a small computer into a full blown game console.
 
-*   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white\_check\_mark:  The Node.js best practices list (July 2024)
+*   [lzjqsdd/WifiAssist](https://github.com/lzjqsdd/WifiAssist) - The easy way to use Wifi through PC.
 
 ## Python
 
@@ -1748,14 +1753,6 @@
 
 *   [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 
-## Makefile
-
-*   [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data) - machine-readable data for https://awesome-selfhosted.net
-
-*   [libretro/Lakka-LibreELEC](https://github.com/libretro/Lakka-LibreELEC) - Lakka is a lightweight Linux distribution that transforms a small computer into a full blown game console.
-
-*   [lzjqsdd/WifiAssist](https://github.com/lzjqsdd/WifiAssist) - The easy way to use Wifi through PC.
-
 ## Swift
 
 *   [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
@@ -1815,6 +1812,12 @@
 *   [CHEF-KOCH/regtweaks](https://github.com/CHEF-KOCH/regtweaks) - Registry Tweaks for Windows.
 
 *   [alwsl/alwsl](https://github.com/alwsl/alwsl) - Install archlinux as the WSL (Windows Subsystem for Linux) host.
+
+## Dockerfile
+
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+
+*   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white\_check\_mark:  The Node.js best practices list (July 2024)
 
 ## Svelte
 
