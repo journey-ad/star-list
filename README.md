@@ -1405,7 +1405,7 @@
 
 *   [postgres/postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting\_a\_Patch
 
-*   [pymumu/smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT。
+*   [pymumu/smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH, DoQ. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT, DoQ。
 
 *   [easychen/pushdeer](https://github.com/easychen/pushdeer) - 开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备
 
