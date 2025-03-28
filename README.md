@@ -691,7 +691,7 @@
 
 *   [xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) - TypeScript 入门教程
 
-*   [eggjs/egg](https://github.com/eggjs/egg) - 🥚 Born to build better enterprise frameworks and apps with Node.js & Koa
+*   [eggjs/egg](https://github.com/eggjs/egg) - 🥚🥚🥚🥚 Born to build better enterprise frameworks and apps with Node.js & Koa
 
 *   [SunHuawei/SourceDetector](https://github.com/SunHuawei/SourceDetector) - Chrome extension，用于发现源码文件(\*.map)
 
@@ -761,7 +761,7 @@
 
 ## Python
 
-*   [Huang-junsen/py-xiaozhi](https://github.com/Huang-junsen/py-xiaozhi) - python版本的小智ai，主要帮助那些没有硬件却想体验小智功能的人
+*   [huangjunsen0406/py-xiaozhi](https://github.com/huangjunsen0406/py-xiaozhi) - python版本的小智ai，主要帮助那些没有硬件却想体验小智功能的人
 
 *   [SparkAudio/Spark-TTS](https://github.com/SparkAudio/Spark-TTS) - Spark-TTS Inference Code
 
