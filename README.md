@@ -811,11 +811,11 @@
 
 *   [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
 
-*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬 Ready-to-use & flexible RAG Chatbot, supporting mainstream large language models (LLMs) such as DeepSeek-R1, Llama 3.3, Qwen2, OpenAI and more.
+*   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬 MaxKB is a ready-to-use RAG chatbot that features robust workflow and MCP tool-use capabilities. It supports a wide range of mainstream large language models (LLMs), including DeepSeek-R1, Llama 3.3, OpenAI, among others.
 
 *   [Mzdyl/LiteLoaderQQNT\_Install](https://github.com/Mzdyl/LiteLoaderQQNT_Install) - 针对 LiteLoaderQQNT 的安装脚本
 
-*   [ltdrdata/ComfyUI-Manager](https://github.com/ltdrdata/ComfyUI-Manager) - ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.
+*   [Comfy-Org/ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager) - ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.
 
 *   [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 
