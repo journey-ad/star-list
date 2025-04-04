@@ -529,6 +529,12 @@
 
 *   [lrsjng/h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
 
+*   [jabbany/ABPlayerHTML5](https://github.com/jabbany/ABPlayerHTML5) - Video Player for danmaku comments. ABPlayer in HTML5. ABPlayer核心构件以动态HTML编写的版本。向HTML5进发！HTML5弹幕播放器
+
+*   [tiansh/us-danmaku](https://github.com/tiansh/us-danmaku) - Firefox 扩展版本见 https://github.com/tiansh/ass-danmaku ；在线转换见 https://tiansh.github.io/ass-danmaku-online/ ;【用户脚本已停止维护】用户脚本 以ass格式下载 AcFun 和 bilibili 的弹幕
+
+*   [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
+
 ## TypeScript
 
 *   [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - A GUI Agent application based on UI-TARS(Vision-Language Model) that allows you to control your computer using natural language.
@@ -999,6 +1005,8 @@
 
 *   [YUX/163music-APlayer-you-get-docker](https://github.com/YUX/163music-APlayer-you-get-docker) - A Flask Music Project. Demo:
 
+*   [Vespa314/bilibili-api](https://github.com/Vespa314/bilibili-api) - B站API收集整理及开发，不再维护
+
 ## Go
 
 *   [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
@@ -1074,6 +1082,8 @@
 *   [kookxiang/Tieba\_Sign-Go](https://github.com/kookxiang/Tieba_Sign-Go) - A faster && lighter sign robot for tieba which can help you get more credit. Ported from the original php project.
 
 *   [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+
+*   [WhiteBlue/bilibili-sdk-go](https://github.com/WhiteBlue/bilibili-sdk-go) - BiliBili Open API & SDK written in Go
 
 ## Shell
 
@@ -1187,8 +1197,6 @@
 
 *   [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 
-*   [2004content/rarbg](https://github.com/2004content/rarbg) - Backup of magnets from RARBG
-
 *   [dtlnor/stable-diffusion-webui-localization-zh\_CN](https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN) - Simplified Chinese translation extension for AUTOMATIC1111's stable diffusion webui
 
 *   [zhw2590582/live-video-study-notes](https://github.com/zhw2590582/live-video-study-notes) - :tv: 整理前端视频直播相关技术的笔记，适合想入门前端流媒体技术的人阅读
@@ -1199,15 +1207,11 @@
 
 *   [knownsec/404StarLink](https://github.com/knownsec/404StarLink) - 404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目
 
-*   [unlock-music/unlock-music](https://github.com/unlock-music/unlock-music) - Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
-
 *   [MichealWayne/books](https://github.com/MichealWayne/books) - 一些前端/设计相关的书籍（电子书）
 
 *   [Buernia/Tiejili](https://github.com/Buernia/Tiejili) - 铁蒺藜体，基于 Reggae One 的开源中文字体。An open-source font that extends Fontworks’ Reggae One to Chinese.
 
 *   [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) - 2023-2025中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅，包含节假日API
-
-*   [torrentdb/tdb](https://github.com/torrentdb/tdb) - torrent database
 
 *   [mkrl/misbrands](https://github.com/mkrl/misbrands) - The world's most hated IT stickers
 
@@ -1342,8 +1346,6 @@
 *   [libpinyin/ibus-libpinyin](https://github.com/libpinyin/ibus-libpinyin) -
 
 *   [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) - 第三方B站客户端，目前可以运行在PC全平台、PSVita、PS4 、Xbox 和 Nintendo Switch上
-
-*   [yuzu-mirror/yuzu](https://github.com/yuzu-mirror/yuzu) - Nintendo Switch emulator (unofficial mirror fork)
 
 *   [agracio/edge-js](https://github.com/agracio/edge-js) - Run .NET and Node.js code in-process on Windows, macOS, and Linux
 
@@ -1808,8 +1810,6 @@
 ## Batchfile
 
 *   [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
-
-*   [CHEF-KOCH/regtweaks](https://github.com/CHEF-KOCH/regtweaks) - Registry Tweaks for Windows.
 
 *   [alwsl/alwsl](https://github.com/alwsl/alwsl) - Install archlinux as the WSL (Windows Subsystem for Linux) host.
 
