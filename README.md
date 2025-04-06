@@ -679,7 +679,7 @@
 
 *   [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 
-*   [alibaba/hooks](https://github.com/alibaba/hooks) - A high-quality & reliable React Hooks library.   https://ahooks.pages.dev/
+*   [alibaba/hooks](https://github.com/alibaba/hooks) - A high-quality & reliable React Hooks library.   https://alibaba.github.io/hooks/
 
 *   [zenghongtu/react-use-chinese](https://github.com/zenghongtu/react-use-chinese) - 中文文档@react-use
 
