@@ -813,7 +813,7 @@
 
 ## Python
 
-*   [huangjunsen0406/py-xiaozhi](https://github.com/huangjunsen0406/py-xiaozhi) - python版本的小智ai，主要帮助那些没有硬件却想体验小智功能的人
+*   [huangjunsen0406/py-xiaozhi](https://github.com/huangjunsen0406/py-xiaozhi) - python版本的小智ai，主要帮助那些没有硬件却想体验小智功能的人,如果可以请点个小星星！
 
 *   [SparkAudio/Spark-TTS](https://github.com/SparkAudio/Spark-TTS) - Spark-TTS Inference Code
 
