@@ -533,7 +533,7 @@
 
 *   [readonlylink/readonlylink](https://github.com/readonlylink/readonlylink) - Readonly links, for your read only.
 
-*   [asadahimeka/pixiv-viewer](https://github.com/asadahimeka/pixiv-viewer) - 又一个 Pixiv 插画/小说阅览工具（适配多端展示、支持 PWA）/ Yet Another Pixiv Illust\&Novel Viewer.
+*   [asadahimeka/pixiv-viewer](https://github.com/asadahimeka/pixiv-viewer) - Yet Another Pixiv Illust\&Novel Viewer. 又一个 Pixiv 免登录阅览工具，提供 pixiv 的插画、动图、漫画和小说等作品的在线浏览，适配多端样式，提供多种浏览布局选择，支持 PWA 安装，支持自定义 API 与图床，支持 RefreshToken/OAuth/Cookie 方式登录。
 
 *   [Rominwolf/the-wandering-earth-2-countdown-meme-generator.github.io](https://github.com/Rominwolf/the-wandering-earth-2-countdown-meme-generator.github.io) - 流浪地球2的倒计时梗图生成器。
 
