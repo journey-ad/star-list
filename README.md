@@ -33,6 +33,7 @@
 *   [Ruby](#ruby)
 *   [Batchfile](#batchfile)
 *   [Dockerfile](#dockerfile)
+*   [Svelte](#svelte)
 *   [PHP](#php)
 *   [Rich Text Format](#rich-text-format)
 *   [Objective-C++](#objective-c-1)
@@ -722,8 +723,6 @@
 *   [marwincn/auto-group-tabs](https://github.com/marwincn/auto-group-tabs) - 自动对浏览器标签页进行分组，并且可以自定义分组的策略。
 
 *   [journey-ad/honkai-starrail-scene](https://github.com/journey-ad/honkai-starrail-scene) - 【崩坏：星穹铁道】预约页场景提取
-
-*   [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
 *   [EtherDream/web2img](https://github.com/EtherDream/web2img) - Bundle web files into a single image
 
@@ -1822,6 +1821,10 @@
 *   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 
 *   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white\_check\_mark:  The Node.js best practices list (July 2024)
+
+## Svelte
+
+*   [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
 ## PHP
 
