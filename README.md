@@ -666,7 +666,7 @@
 
 *   [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) - 📱 Display and control your Android device graphically with scrcpy.
 
-*   [CreditTone/hooker](https://github.com/CreditTone/hooker) - 🔥🔥hooker是一个基于frida实现的逆向工具包。为逆向开发人员提供统一化的脚本包管理方式、通杀脚本。这里有板子、螺丝刀、老虎钳、热风枪、示波器、钛合金撬棍、八合一电动螺丝刀、自动化生成hook脚本、内存漫游探测activity和service、frida版JustTrustMe、boringssl unpinning
+*   [CreditTone/hooker](https://github.com/CreditTone/hooker) - 🔥🔥hooker是一个基于frida实现的逆向工具包。为逆向开发人员提供统一化的脚本包管理方式、通杀脚本。这里有板子、螺丝刀、老虎钳、热风枪、示波器、钛合金撬棍、八合一电动螺丝刀、自动化生成hook脚本、内存漫游探测activity和service、frida版JustTrustMe、boringssl unpinning全网APP通杀
 
 *   [zhw2590582/ArtPlayer](https://github.com/zhw2590582/ArtPlayer) - :art: ArtPlayer.js is a modern and full featured HTML5 video player
 
