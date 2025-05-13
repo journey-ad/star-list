@@ -18,7 +18,6 @@
 *   [Markdown](#markdown)
 *   [Objective-C](#objective-c)
 *   [Java](#java)
-*   [Roff](#roff)
 *   [CSS](#css)
 *   [Zig](#zig)
 *   [Dart](#dart)
@@ -1552,10 +1551,6 @@
 
 *   [PureDark/H-Viewer](https://github.com/PureDark/H-Viewer) - An android feed reader application which fetch data with selector and regular expression.
 
-## Roff
-
-*   [wangzhenjjcn/AdobeGenp](https://github.com/wangzhenjjcn/AdobeGenp) - AdobeGenp Adobe Adobe CC 2019/2020(2021/2022/2023/2024/2025TEST) GenP Universal Patch
-
 ## CSS
 
 *   [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -1585,6 +1580,8 @@
 *   [Kilerd/Cat](https://github.com/Kilerd/Cat) - a slight blog theme.
 
 *   [iblh/typecho-theme-material](https://github.com/iblh/typecho-theme-material) - Material Design theme for typecho.
+
+*   [DT27/Slanted](https://github.com/DT27/Slanted) - Slanted Typecho Theme
 
 ## Zig
 
