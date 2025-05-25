@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Dart](#dart)
 *   [TypeScript](#typescript)
 *   [C++](#c)
 *   [C](#c-1)
@@ -20,7 +21,6 @@
 *   [Objective-C](#objective-c)
 *   [CSS](#css)
 *   [Zig](#zig)
-*   [Dart](#dart)
 *   [C#](#c-2)
 *   [HTML](#html)
 *   [SCSS](#scss)
@@ -48,6 +48,20 @@
 *   [QML](#qml)
 *   [Matlab](#matlab)
 *   [LiveScript](#livescript)
+
+## Dart
+
+*   [Predidit/Kazumi](https://github.com/Predidit/Kazumi) - 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
+
+*   [venera-app/venera](https://github.com/venera-app/venera) - A comic app
+
+*   [guozhigq/pilipala](https://github.com/guozhigq/pilipala) - PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。
+
+*   [Pacalini/PicaComic](https://github.com/Pacalini/PicaComic) - A comic app built with Flutter, supporting multiple comic sources.
+
+*   [wgh136/PicaComic](https://github.com/wgh136/PicaComic) - A comic app built with Flutter, supporting multiple comic sources.
+
+*   [jiangtian616/JHenTai](https://github.com/jiangtian616/JHenTai) - A cross-platform manga app made for e-hentai & exhentai by Flutter
 
 ## TypeScript
 
@@ -1337,10 +1351,6 @@
 
 *   [geeeeeeeeek/electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat) - :speech\_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
 
-*   [jamesliu96/damoo](https://github.com/jamesliu96/damoo) - Lightweight HTML5 Canvas Danmaku Engine
-
-*   [mastermay/text-autospace.js](https://github.com/mastermay/text-autospace.js) - 中英文间自动添加空白符
-
 ## Go
 
 *   [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
@@ -1586,16 +1596,6 @@
 ## Zig
 
 *   [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc) - container image to single executable compiler
-
-## Dart
-
-*   [guozhigq/pilipala](https://github.com/guozhigq/pilipala) - PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。
-
-*   [Pacalini/PicaComic](https://github.com/Pacalini/PicaComic) - A comic app built with Flutter, supporting multiple comic sources.
-
-*   [wgh136/PicaComic](https://github.com/wgh136/PicaComic) - A comic app built with Flutter, supporting multiple comic sources.
-
-*   [jiangtian616/JHenTai](https://github.com/jiangtian616/JHenTai) - A cross-platform manga app made for e-hentai & exhentai by Flutter
 
 ## C\#
 
