@@ -335,7 +335,7 @@
 
 *   [Vita3K/Vita3K-Android](https://github.com/Vita3K/Vita3K-Android) - Public releases and CI for the Vita3K Android app
 
-*   [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - Build your own AI friend
+*   [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - A MCP based chatbot
 
 *   [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 
