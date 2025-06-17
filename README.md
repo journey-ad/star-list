@@ -539,7 +539,7 @@
 
 ## Swift
 
-*   [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS app without actually installing it!
+*   [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
 
 *   [SideStore/SideStore](https://github.com/SideStore/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer.
 
