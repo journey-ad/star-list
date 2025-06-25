@@ -51,7 +51,7 @@
 
 ## JavaScript
 
-*   [Quan666/Games](https://github.com/Quan666/Games) - 利用 AI 大模型生成的游戏集合项目，用于实验 AI 辅助编程的效率。目前只有五子棋。
+*   [Quan666/Games](https://github.com/Quan666/Games) - 利用 AI 大模型生成的游戏集合项目，用于实验 AI 辅助编程的效率。五子棋、象棋。
 
 *   [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension
 
