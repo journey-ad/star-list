@@ -101,6 +101,8 @@
 
 *   [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 
+*   [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for commercial use.
+
 *   [javascript-obfuscator/javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - A powerful obfuscator for JavaScript and Node.js
 
 *   [ba-archive/blue-archive](https://github.com/ba-archive/blue-archive) - 碧蓝档案的档案。我们期待着更多老师的加入，欢迎通过邮件、B站私信或 discussion 联系我们
@@ -350,8 +352,6 @@
 *   [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
 
 *   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 💬 MaxKB is an open-source AI assistant for enterprise. It seamlessly integrates RAG pipelines, supports robust workflows, and provides MCP tool-use capabilities.
-
-*   [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for commercial use.
 
 *   [Mzdyl/LiteLoaderQQNT\_Install](https://github.com/Mzdyl/LiteLoaderQQNT_Install) - 针对 LiteLoaderQQNT 的安装脚本
 
