@@ -391,6 +391,8 @@
 
 *   [SSShooter/nippon-color](https://github.com/SSShooter/nippon-color) - copy nippon-color PWA build with vue-cli 3
 
+*   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
+
 *   [jwagner/smartcrop.js](https://github.com/jwagner/smartcrop.js) - Content aware image cropping
 
 *   [nzbin/photoviewer](https://github.com/nzbin/photoviewer) - 🖼️ A JS plugin to view images just like in Windows.
@@ -1016,8 +1018,6 @@
 *   [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
 
 *   [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - 💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.
-
-*   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
 
 *   [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 
