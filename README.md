@@ -51,6 +51,8 @@
 
 ## Java
 
+*   [Modificator/E-Ink-Launcher](https://github.com/Modificator/E-Ink-Launcher) - E-reader Launcher for Android, Electronic paper book...
+
 *   [XiaomingX/data-cve-poc](https://github.com/XiaomingX/data-cve-poc) - 这个仓库收集了所有在 GitHub 上能找到的 CVE 漏洞利用工具。 This repository collects all CVE exploits found on GitHub.
 
 *   [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
@@ -834,8 +836,6 @@
 *   [mypaint/mypaint](https://github.com/mypaint/mypaint) - MyPaint is a simple drawing and painting program that works well with Wacom-style graphics tablets.
 
 *   [Chion82/hello-old-driver](https://github.com/Chion82/hello-old-driver) - お兄ちゃん大好き(琉璃神社爬虫脚本)
-
-*   [YUX/163music-APlayer-you-get-docker](https://github.com/YUX/163music-APlayer-you-get-docker) - A Flask Music Project. Demo:
 
 ## TypeScript
 
