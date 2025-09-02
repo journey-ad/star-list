@@ -51,6 +51,8 @@
 
 ## miscellaneous
 
+*   [zhaotoday/fingerprint-browser](https://github.com/zhaotoday/fingerprint-browser) - 指纹浏览器（防关联浏览器）资源整理 - Fingerprint Browser (Antidetect Browser) Resources
+
 *   [xiaochunjimmy/Sogou-Input-Skin](https://github.com/xiaochunjimmy/Sogou-Input-Skin) - 搜狗拼音输入法的几款极简风格皮肤
 
 *   [tuyafeng/Via](https://github.com/tuyafeng/Via) - Via is a simple browser, and this repository is set for localization.
@@ -1746,8 +1748,6 @@
 *   [greatghoul/sibi](https://github.com/greatghoul/sibi) - V2EX 撕逼大战
 
 *   [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
-
-*   [shd101wyy/markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) - One of the 'BEST' markdown preview extensions for Atom editor!
 
 ## SCSS
 
