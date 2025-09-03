@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Kotlin](#kotlin)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
 *   [Vue](#vue)
@@ -16,7 +17,6 @@
 *   [Dart](#dart)
 *   [C++](#c)
 *   [C](#c-1)
-*   [Kotlin](#kotlin)
 *   [Go](#go)
 *   [Shell](#shell)
 *   [Markdown](#markdown)
@@ -48,6 +48,30 @@
 *   [QML](#qml)
 *   [Matlab](#matlab)
 *   [LiveScript](#livescript)
+
+## Kotlin
+
+*   [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra) - Kernel-based Android Root Solution & KPM
+
+*   [newhinton/disky](https://github.com/newhinton/disky) - An android filesystem analyzer that can show you the usage of your storage!
+
+*   [bitwarden/android](https://github.com/bitwarden/android) - Bitwarden mobile apps (Password Manager and Authenticator) for Android.
+
+*   [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
+
+*   [anilbeesetti/nextplayer](https://github.com/anilbeesetti/nextplayer) - An Android native video player
+
+*   [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️
+
+*   [UjuiUjuMandan/EhViewer](https://github.com/UjuiUjuMandan/EhViewer) - EhViewer overhauled with censorship circumvention and no more
+
+*   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+
+*   [czp3009/bilibili-api](https://github.com/czp3009/bilibili-api) - Bilibili API library for Kotlin
+
+*   [VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - Android application to analyze Wi-Fi signals.
+
+*   [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
 
 ## miscellaneous
 
@@ -200,6 +224,24 @@
 *   [soruly/awesome-acg](https://github.com/soruly/awesome-acg) - A curated list of awesome technologies related to Anime, Comic and Games
 
 *   [soruly/trace.moe](https://github.com/soruly/trace.moe) - Anime Scene Search by Image
+
+*   [coyove/awesome-v2ex](https://github.com/coyove/awesome-v2ex) - V2EX用户博客列表
+
+*   [jsfront/src](https://github.com/jsfront/src) - 常用代码收集资源分享
+
+*   [fouber/blog](https://github.com/fouber/blog) - 没事写写文章，喜欢的话请点star，想订阅点watch，千万别fork！
+
+*   [ictar/python-doc](https://github.com/ictar/python-doc) - translate python documents to Chinese for convenient reference 简而言之，这里用来存放那些Python文档君们，并且尽力将其翻译成中文~~
+
+*   [hzlzh/Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
+
+*   [hehonghui/android-tech-frontier](https://github.com/hehonghui/android-tech-frontier) - 【停止维护】一个定期翻译国外Android优质的技术、开源库、软件架构设计、测试等文章的开源项目
+
+*   [Homebrew/legacy-homebrew](https://github.com/Homebrew/legacy-homebrew) - 💀 The former home of Homebrew/homebrew (deprecated)
+
+*   [tinyc-z/adcdownload](https://github.com/tinyc-z/adcdownload) - 苹果开发者中心资源国内接力
+
+*   [d1sm/finalspeed](https://github.com/d1sm/finalspeed) - 高速双边加速软件,在高丢包,延迟环境下仍可达到90%物理带宽利用率.
 
 ## JavaScript
 
@@ -671,6 +713,62 @@
 
 *   [atonasting/zhihuspider](https://github.com/atonasting/zhihuspider) - 网站「看知乎」的爬虫
 
+*   [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
+
+*   [DIYgod/APlayer](https://github.com/DIYgod/APlayer) - :lollipop: Wow, such a beautiful HTML5 music player
+
+*   [mumuy/widget](https://github.com/mumuy/widget) - 基于jquery的插件库 - 轮播/标签页/滚动条/下拉框/对话框/搜索提示/城市三级联动/日历\_A set of widgets based on jQuery
+
+*   [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
+
+*   [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
+
+*   [nullice/limitPNG](https://github.com/nullice/limitPNG) - PNG image compression tool (GUI use Electron)
+
+*   [brianium/watermarkjs](https://github.com/brianium/watermarkjs) - :rice\_scene: Watermarking for the browser
+
+*   [geeeeeeeeek/electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat) - :speech\_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
+
+*   [jamesliu96/damoo](https://github.com/jamesliu96/damoo) - Lightweight HTML5 Canvas Danmaku Engine
+
+*   [mastermay/text-autospace.js](https://github.com/mastermay/text-autospace.js) - 中英文间自动添加空白符
+
+*   [lrsjng/h5ai](https://github.com/lrsjng/h5ai) - HTTP web server index for Apache httpd, lighttpd and nginx.
+
+*   [jabbany/ABPlayerHTML5](https://github.com/jabbany/ABPlayerHTML5) - Video Player for danmaku comments. ABPlayer in HTML5. ABPlayer核心构件以动态HTML编写的版本。向HTML5进发！HTML5弹幕播放器
+
+*   [tiansh/us-danmaku](https://github.com/tiansh/us-danmaku) - Firefox 扩展版本见 https://github.com/tiansh/ass-danmaku ；在线转换见 https://tiansh.github.io/ass-danmaku-online/ ;【用户脚本已停止维护】用户脚本 以ass格式下载 AcFun 和 bilibili 的弹幕
+
+*   [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer) - :lollipop: Wow, such a lovely HTML5 danmaku video player
+
+*   [drduan/minggeJS](https://github.com/drduan/minggeJS) -
+
+*   [acwong00/Clean-Torrents](https://github.com/acwong00/Clean-Torrents) - A simple script to clean torrent files.
+
+*   [tuupola/lazyload](https://github.com/tuupola/lazyload) - Vanilla JavaScript plugin for lazyloading images
+
+*   [jieyou/lazyload](https://github.com/jieyou/lazyload) - 一个jQuery或zepto的图片延迟加载插件。An jQuery | zepto plugin for lazy loading images.
+
+*   [binux/qiandao](https://github.com/binux/qiandao) - 签到
+
+*   [sciooga/v2ex-plus](https://github.com/sciooga/v2ex-plus) - 可能是 v2ex 最好用的扩展
+
+*   [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2) - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
+
+*   [floatinghotpot/qqbot](https://github.com/floatinghotpot/qqbot) - :fire: SmartQQ Robot and API Server, powered by node.js
+
+*   [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
+
+*   [os-js/OS.js](https://github.com/os-js/OS.js) - OS.js - JavaScript Web Desktop Platform
+
+*   [subprotocol/verlet-js](https://github.com/subprotocol/verlet-js) - A simple Verlet physics engine written in javascript
+
+*   [briangonzalez/jquery.adaptive-backgrounds.js](https://github.com/briangonzalez/jquery.adaptive-backgrounds.js) - 🦎 A jQuery plugin for extracting the dominant color from images and applying the color to their parent.
+
+*   [ben174/git-draw](https://github.com/ben174/git-draw) - Allows you to draw in your github heatmap
+
+*   [DIYgod/Ticktack](https://github.com/DIYgod/Ticktack) - 人生只有 900 个月
+
 ## Vue
 
 *   [silenty4ng/k5web](https://github.com/silenty4ng/k5web) - 网页 UV-K5 写频工具箱
@@ -957,6 +1055,14 @@
 
 *   [laobubu/HyperMD](https://github.com/laobubu/HyperMD) - A WYSIWYG Markdown Editor for browsers. Break the Wall between writing and previewing.
 
+*   [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
+
+*   [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
+
+*   [briangonzalez/rgbaster.js](https://github.com/briangonzalez/rgbaster.js) - 🎨 A simple library for extracting dominant colors from images.
+
+*   [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
+
 ## Java
 
 *   [Modificator/E-Ink-Launcher](https://github.com/Modificator/E-Ink-Launcher) - E-reader Launcher for Android, Electronic paper book...
@@ -994,6 +1100,10 @@
 *   [bin456789/Unblock163MusicClient-Xposed](https://github.com/bin456789/Unblock163MusicClient-Xposed) - Unblock 163 Cloud Music Android client through Xposed.
 
 *   [PureDark/H-Viewer](https://github.com/PureDark/H-Viewer) - An android feed reader application which fetch data with selector and regular expression.
+
+*   [maoruibin/TranslateApp](https://github.com/maoruibin/TranslateApp) - :memo: A translations app without interruptions, copy words and translate directly, show result by top view.
+
+*   [seven332/EhViewer](https://github.com/seven332/EhViewer) - \[DEPRECATED] An Unofficial E-Hentai Application for Android
 
 ## Swift
 
@@ -1275,6 +1385,22 @@
 
 *   [darknessomi/musicbox](https://github.com/darknessomi/musicbox) - 网易云音乐命令行版本
 
+*   [mypaint/mypaint](https://github.com/mypaint/mypaint) - MyPaint is a simple drawing and painting program that works well with Wacom-style graphics tablets.
+
+*   [Chion82/hello-old-driver](https://github.com/Chion82/hello-old-driver) - お兄ちゃん大好き(琉璃神社爬虫脚本)
+
+*   [YUX/163music-APlayer-you-get-docker](https://github.com/YUX/163music-APlayer-you-get-docker) - A Flask Music Project. Demo:
+
+*   [Vespa314/bilibili-api](https://github.com/Vespa314/bilibili-api) - B站API收集整理及开发，不再维护
+
+*   [J3n5en/the-115-api](https://github.com/J3n5en/the-115-api) -
+
+*   [binux/pyspider](https://github.com/binux/pyspider) - A Powerful Spider(Web Crawler) System in Python.
+
+*   [m13253/BiliDan](https://github.com/m13253/BiliDan) - Play videos on Bilibili.com with MPV and Danmaku2ASS
+
+*   [yanunon/NeteaseCloudMusic](https://github.com/yanunon/NeteaseCloudMusic) - 网易云音乐
+
 ## Batchfile
 
 *   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
@@ -1369,6 +1495,20 @@
 
 *   [PointTeam/PointDownload](https://github.com/PointTeam/PointDownload) - homepage
 
+*   [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
+
+*   [snowie2000/mactype](https://github.com/snowie2000/mactype) - Better font rendering for Windows.
+
+*   [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the forums at forums.ppsspp.org.
+
+*   [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+
+*   [lltcggie/waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe) - waifu2xのCaffe版
+
+*   [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+
+*   [sinpolib/sokit](https://github.com/sinpolib/sokit) - Sokit is a TCP & UDP package send / receive / transfer tool
+
 ## C
 
 *   [FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw) - GDI, OpenGL and Direct3D 9 re-implementation of the DirectDraw API for classic 2D games for better compatibility with Windows ME, 2000, XP, Vista, 7, 8, 10, 11, Wine (Linux/macOS/Android) and Virtual Machines
@@ -1437,25 +1577,11 @@
 
 *   [mofarrell/p2pvc](https://github.com/mofarrell/p2pvc) - A point to point color terminal video chat.
 
-## Kotlin
+*   [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 
-*   [newhinton/disky](https://github.com/newhinton/disky) - An android filesystem analyzer that can show you the usage of your storage!
+*   [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 
-*   [bitwarden/android](https://github.com/bitwarden/android) - Bitwarden mobile apps (Password Manager and Authenticator) for Android.
-
-*   [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
-
-*   [anilbeesetti/nextplayer](https://github.com/anilbeesetti/nextplayer) - An Android native video player
-
-*   [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️
-
-*   [UjuiUjuMandan/EhViewer](https://github.com/UjuiUjuMandan/EhViewer) - EhViewer overhauled with censorship circumvention and no more
-
-*   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
-
-*   [czp3009/bilibili-api](https://github.com/czp3009/bilibili-api) - Bilibili API library for Kotlin
-
-*   [VREMSoftwareDevelopment/WiFiAnalyzer](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer) - Android application to analyze Wi-Fi signals.
+*   [snooda/net-speeder](https://github.com/snooda/net-speeder) - net-speeder 在高延迟不稳定链路上优化单线程下载速度
 
 ## Go
 
@@ -1529,6 +1655,16 @@
 
 *   [qieangel2013/livego](https://github.com/qieangel2013/livego) -  go Implementation of live streaming services
 
+*   [kookxiang/Tieba\_Sign-Go](https://github.com/kookxiang/Tieba_Sign-Go) - A faster && lighter sign robot for tieba which can help you get more credit. Ported from the original php project.
+
+*   [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+
+*   [WhiteBlue/bilibili-sdk-go](https://github.com/WhiteBlue/bilibili-sdk-go) - BiliBili Open API & SDK written in Go
+
+*   [fanpei91/torsniff](https://github.com/fanpei91/torsniff) - torsniff - a sniffer that sniffs torrents from BitTorrent network
+
+*   [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
+
 ## Shell
 
 *   [jorgebucaran/nvm.fish](https://github.com/jorgebucaran/nvm.fish) - The Node.js version manager you'll adore, crafted just for Fish
@@ -1579,6 +1715,8 @@
 
 *   [hillwoodroc/winetricks-zh](https://github.com/hillwoodroc/winetricks-zh) - A windows applications setup wizard for Chinese wine users
 
+*   [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
+
 ## Markdown
 
 *   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
@@ -1607,6 +1745,14 @@
 
 *   [HexFiend/HexFiend](https://github.com/HexFiend/HexFiend) - A fast and clever hex editor for macOS
 
+*   [vayn/asoiaf](https://github.com/vayn/asoiaf) - 冰与火之歌中文维基 http://asoiaf.huiji.wiki iOS App
+
+*   [typcn/bilibili-mac-client](https://github.com/typcn/bilibili-mac-client) - An unofficial bilibili client for mac
+
+*   [MartianZ/DynamicLyrics](https://github.com/MartianZ/DynamicLyrics) - DynamicLyrics, free iTunes assistant designed for u.
+
+*   [iampennyli/iTunesLyricApp](https://github.com/iampennyli/iTunesLyricApp) - The extension of itunes to show lyric.
+
 ## CSS
 
 *   [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -1634,6 +1780,12 @@
 *   [Kilerd/Cat](https://github.com/Kilerd/Cat) - a slight blog theme.
 
 *   [iblh/typecho-theme-material](https://github.com/iblh/typecho-theme-material) - Material Design theme for typecho.
+
+*   [DT27/Slanted](https://github.com/DT27/Slanted) - Slanted Typecho Theme
+
+*   [angelfreedomv/Minecraft-Kotori](https://github.com/angelfreedomv/Minecraft-Kotori) - A Smiple and Easy Modify Ghost Theme of Modular——一个简单又容易修改的Ghost模块化主题
+
+*   [MoePlayer/cPlayer](https://github.com/MoePlayer/cPlayer) - A beautiful and clean WEB Music Player by HTML5.
 
 ## Zig
 
@@ -1682,6 +1834,16 @@
 *   [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
 
 *   [Meloduet/Wpf-BilibiliVideoFetcher](https://github.com/Meloduet/Wpf-BilibiliVideoFetcher) - 一个获取Bilibili视频下载地址的桌面应用.
+
+*   [ksasao/Gochiusearch](https://github.com/ksasao/Gochiusearch) - A Fast Scene Search Engine for Anime Series 'Gochuumon wa Usagi Desuka?'
+
+*   [xupefei/Locale-Emulator](https://github.com/xupefei/Locale-Emulator) - Yet Another System Region and Language Simulator
+
+*   [mono/monodevelop](https://github.com/mono/monodevelop) - MonoDevelop is a cross platform .NET IDE
+
+*   [jshackles/idle\_master](https://github.com/jshackles/idle_master) - Get your Steam Trading Cards the Easy Way
+
+*   [Guad/GTACoop](https://github.com/Guad/GTACoop) - An online co-op modification for GTA5
 
 ## HTML
 
@@ -1749,6 +1911,12 @@
 
 *   [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 
+*   [shd101wyy/markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) - One of the 'BEST' markdown preview extensions for Atom editor!
+
+*   [swisnl/jQuery-contextMenu](https://github.com/swisnl/jQuery-contextMenu) - jQuery contextMenu plugin & polyfill
+
+*   [simov/simplr-smoothscroll](https://github.com/simov/simplr-smoothscroll) - Smooth scrolling in all browsers
+
 ## SCSS
 
 *   [rilwis/bamboo](https://github.com/rilwis/bamboo) - A classless CSS utility for your HTML
@@ -1807,6 +1975,14 @@
 
 *   [reedscot/icml2016](https://github.com/reedscot/icml2016) - Generative Adversarial Text-to-Image Synthesis
 
+*   [alexazhou/VeryNginx](https://github.com/alexazhou/VeryNginx) -  A very powerful and friendly  nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.
+
+*   [jcjohnson/neural-style](https://github.com/jcjohnson/neural-style) - Torch implementation of neural style algorithm
+
+*   [satoshiiizuka/siggraph2016\_colorization](https://github.com/satoshiiizuka/siggraph2016_colorization) - Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'.
+
+*   [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
+
 ## Scala
 
 *   [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
@@ -1816,6 +1992,8 @@
 *   [bit4woo/Summit\_PPT](https://github.com/bit4woo/Summit_PPT) - 各种安全大会PPT PDF
 
 *   [moebooru/moebooru](https://github.com/moebooru/moebooru) - Moebooru, a fork of danbooru1 that has been heavily modified
+
+*   [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe\_with\_meridians: Jekyll is a blog-aware static site generator in Ruby
 
 ## Dockerfile
 
@@ -1877,6 +2055,26 @@
 
 *   [rodber/chevereto-free](https://github.com/rodber/chevereto-free) - 👉 Go to chevereto/chevereto for newer Chevereto releases. Self-hosted image sharing software, your own Flickr/Imgur with your very own rules.
 
+*   [PocketMine/PocketMine-MP](https://github.com/PocketMine/PocketMine-MP) - Legacy PocketMine-MP repository. Head to https://github.com/pmmp for up to date software.
+
+*   [LoeiFy/Diaspora](https://github.com/LoeiFy/Diaspora) - Diaspora - A WordPress theme
+
+*   [AlxMedia/blogrow](https://github.com/AlxMedia/blogrow) - Blogrow WordPress Theme
+
+*   [marlonfan/qiniu-typecho-file](https://github.com/marlonfan/qiniu-typecho-file) - typecho中使用七牛作为存储
+
+*   [chakhsu/lpisme](https://github.com/chakhsu/lpisme) - Lpisme,  A Typecho Theme
+
+*   [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
+
+*   [hoohack/zhihuSpider](https://github.com/hoohack/zhihuSpider) - A zhihu Spider.Just for fun.
+
+*   [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The de facto standard self hosted URL shortener in PHP
+
+*   [zgq354/APlayer-Typecho-Plugin](https://github.com/zgq354/APlayer-Typecho-Plugin) - APlayer Typecho 音乐插件
+
+*   [jiangmuzi/sisome](https://github.com/jiangmuzi/sisome) - 基于Typecho内核的社区系统
+
 ## Rich Text Format
 
 *   [corenel/XPS9550-macOS](https://github.com/corenel/XPS9550-macOS) - This repository contains my own files on the installation and configuration of macOS Catalina (10.15) on the Dell XPS 15 (9550)
@@ -1916,6 +2114,8 @@
 ## Vim Script
 
 *   [wsdjeg/vim-galore-zh\_cn](https://github.com/wsdjeg/vim-galore-zh_cn) - Vim 从入门到精通
+
+*   [dofy/learn-vim](https://github.com/dofy/learn-vim) - Learning Vim. A Hands-On Tutorial of Vim.
 
 ## XSLT
 
