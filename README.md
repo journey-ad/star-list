@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Dart](#dart)
 *   [TypeScript](#typescript)
 *   [Kotlin](#kotlin)
 *   [miscellaneous](#miscellaneous)
@@ -14,7 +15,6 @@
 *   [Python](#python)
 *   [Batchfile](#batchfile)
 *   [Jupyter Notebook](#jupyter-notebook)
-*   [Dart](#dart)
 *   [C++](#c)
 *   [C](#c-1)
 *   [Go](#go)
@@ -48,6 +48,22 @@
 *   [QML](#qml)
 *   [Matlab](#matlab)
 *   [LiveScript](#livescript)
+
+## Dart
+
+*   [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
+
+*   [Predidit/Kazumi](https://github.com/Predidit/Kazumi) - 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
+
+*   [venera-app/venera](https://github.com/venera-app/venera) - A comic app
+
+*   [guozhigq/pilipala](https://github.com/guozhigq/pilipala) - PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。
+
+*   [Pacalini/PicaComic](https://github.com/Pacalini/PicaComic) - A comic app built with Flutter, supporting multiple comic sources.
+
+*   [wgh136/PicaComic](https://github.com/wgh136/PicaComic) - A comic app built with Flutter, supporting multiple comic sources.
+
+*   [jiangtian616/JHenTai](https://github.com/jiangtian616/JHenTai) - A cross-platform manga app made for e-hentai & exhentai by Flutter
 
 ## TypeScript
 
@@ -558,8 +574,6 @@
 *   [ShirasawaSama/CefDetectorX](https://github.com/ShirasawaSama/CefDetectorX) - 【升级版-Electron】Check how many CEFs are on your computer. 检测你电脑上有几个CEF.
 
 *   [sindresorhus/globby](https://github.com/sindresorhus/globby) - User-friendly glob matching
-
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 
 *   [phoboslab/jsmpeg](https://github.com/phoboslab/jsmpeg) - MPEG1 Video Decoder in JavaScript
 
@@ -1433,20 +1447,6 @@
 
 *   [pfnet/PaintsChainer](https://github.com/pfnet/PaintsChainer) - line drawing colorization using chainer
 
-## Dart
-
-*   [Predidit/Kazumi](https://github.com/Predidit/Kazumi) - 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
-
-*   [venera-app/venera](https://github.com/venera-app/venera) - A comic app
-
-*   [guozhigq/pilipala](https://github.com/guozhigq/pilipala) - PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。
-
-*   [Pacalini/PicaComic](https://github.com/Pacalini/PicaComic) - A comic app built with Flutter, supporting multiple comic sources.
-
-*   [wgh136/PicaComic](https://github.com/wgh136/PicaComic) - A comic app built with Flutter, supporting multiple comic sources.
-
-*   [jiangtian616/JHenTai](https://github.com/jiangtian616/JHenTai) - A cross-platform manga app made for e-hentai & exhentai by Flutter
-
 ## C++
 
 *   [Daft-Freak/CnC\_and\_Red\_Alert](https://github.com/Daft-Freak/CnC_and_Red_Alert) - Command and Conquer: Red Alert
@@ -1945,6 +1945,8 @@
 
 *   [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 🤱🏻 一键打包网页生成轻量桌面应用。
+
 *   [chinuno-usami/ava\_dash](https://github.com/chinuno-usami/ava_dash) -
 
 *   [gwy15/danmu2ass](https://github.com/gwy15/danmu2ass) - 将哔哩哔哩的 弹幕 转化为 ass 字幕文件，实时预览
@@ -2072,8 +2074,6 @@
 *   [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The de facto standard self hosted URL shortener in PHP
 
 *   [zgq354/APlayer-Typecho-Plugin](https://github.com/zgq354/APlayer-Typecho-Plugin) - APlayer Typecho 音乐插件
-
-*   [jiangmuzi/sisome](https://github.com/jiangmuzi/sisome) - 基于Typecho内核的社区系统
 
 ## Rich Text Format
 
