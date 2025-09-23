@@ -51,6 +51,8 @@
 
 ## TypeScript
 
+*   [404-novel-project/novel-downloader](https://github.com/404-novel-project/novel-downloader) - 一个可扩展的通用型小说下载器。
+
 *   [Tencent/tdesign-vue-next](https://github.com/Tencent/tdesign-vue-next) - A Vue3.x UI components lib for TDesign.
 
 *   [ulixee/chrome-versions](https://github.com/ulixee/chrome-versions) - Versions of Chrome for Mac, Windows and Linux with auto-updating turned off.
@@ -353,7 +355,7 @@
 
 *   [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone
 
-*   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。
+*   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agent workflows.
 
 *   [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 
@@ -1203,7 +1205,7 @@
 
 *   [metrue/YoYo](https://github.com/metrue/YoYo) - A dead simple comment engine built on top of AWS lambda and React, alternative comment service to Disqus.
 
-*   [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
+*   [http-party/http-server](https://github.com/http-party/http-server) - A simple, zero-configuration, command-line http server
 
 *   [78/ssbc](https://github.com/78/ssbc) - 手撕包菜网站
 
@@ -2072,8 +2074,6 @@
 *   [hoohack/zhihuSpider](https://github.com/hoohack/zhihuSpider) - A zhihu Spider.Just for fun.
 
 *   [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The 𝘥𝘦 𝘧𝘢𝘤𝘵𝘰 standard self hosted URL shortener in PHP
-
-*   [zgq354/APlayer-Typecho-Plugin](https://github.com/zgq354/APlayer-Typecho-Plugin) - APlayer Typecho 音乐插件
 
 ## Rich Text Format
 
