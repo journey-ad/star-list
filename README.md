@@ -371,7 +371,7 @@
 
 *   [caijinyc/here](https://github.com/caijinyc/here) - 🎵 Here Music  一个使用 Electron + React 开发的音乐客户端
 
-*   [klaudiosinani/signale](https://github.com/klaudiosinani/signale) - Highly configurable logging utility
+*   [klaudiosinani/signale](https://github.com/klaudiosinani/signale) - Highly configurable logging library
 
 *   [wubaiqing/zaobao](https://github.com/wubaiqing/zaobao) - 每日时报，以前端技术体系为主要分享课题。根据：文章、工具、新闻、视频几大板块作为主要分类。
 
