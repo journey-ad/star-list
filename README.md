@@ -735,6 +735,8 @@
 
 *   [imsun/gitment](https://github.com/imsun/gitment) - A comment system based on GitHub Issues.
 
+*   [metowolf/Meting](https://github.com/metowolf/Meting) - :cake: Wow, such a powerful music API framework
+
 *   [Kenshin/simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
 
 *   [zouhir/lqip-loader](https://github.com/zouhir/lqip-loader) - Low Quality Image Placeholders (LQIP) for Webpack
@@ -2042,8 +2044,6 @@
 *   [overtrue/pinyin](https://github.com/overtrue/pinyin) - 🇨🇳 基于词库的中文转拼音优质解决方案
 
 *   [MortyFx/typecho-theme-apollo](https://github.com/MortyFx/typecho-theme-apollo) - A minimalism typecho theme.
-
-*   [metowolf/Meting](https://github.com/metowolf/Meting) - :cake: Wow, such a powerful music API framework
 
 *   [johnlui/Learn-Laravel-5](https://github.com/johnlui/Learn-Laravel-5) - Laravel 5 系列入门教程
 
