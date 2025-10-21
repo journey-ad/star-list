@@ -1039,6 +1039,8 @@
 
 *   [moeoverflow/comicbook](https://github.com/moeoverflow/comicbook) -  epub comic generator | nhentai.net | e-hentai.org | wnacg.org
 
+*   [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
+
 *   [andrewzwicky/PUBGIS](https://github.com/andrewzwicky/PUBGIS) - Generate maps of your position throughout PUBG gameplay
 
 *   [cosven/feeluown-core](https://github.com/cosven/feeluown-core) - 提供音乐播放器的一些常见组成模块（已经合并到 feeluown 项目中）
@@ -1816,8 +1818,6 @@
 *   [bangumi/api](https://github.com/bangumi/api) - Build your app on Bangumi
 
 *   [sofish/typo.css](https://github.com/sofish/typo.css) - 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
-
-*   [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 
 *   [kagurazakayashi/EvergardenConverter](https://github.com/kagurazakayashi/EvergardenConverter) - 📜 将英文字符转换为『紫罗兰永恒花园』（『ヴァイオレット・エヴァーガーデン』）中的文字。
 
