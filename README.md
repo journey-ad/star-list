@@ -1539,7 +1539,7 @@
 
 *   [exelix11/SwitchThemeInjector](https://github.com/exelix11/SwitchThemeInjector) - Create custom themes for the nintendo switch !
 
-*   [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
+*   [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's development repository
 
 *   [postgres/postgres](https://github.com/postgres/postgres) - Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting\_a\_Patch
 
