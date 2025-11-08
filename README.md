@@ -51,6 +51,8 @@
 
 ## JavaScript
 
+*   [hackmdio/codimd](https://github.com/hackmdio/codimd) - CodiMD - Realtime collaborative markdown notes on all platforms.
+
 *   [yao-pkg/pkg](https://github.com/yao-pkg/pkg) - Package your Node.js project into an executable
 
 *   [scoful/N-Tab](https://github.com/scoful/N-Tab) - 浏览器插件，《标签管理工具，替代OneTab》，支持Chrome和Edge
@@ -888,8 +890,6 @@
 *   [laobubu/HyperMD](https://github.com/laobubu/HyperMD) - A WYSIWYG Markdown Editor for browsers. Break the Wall between writing and previewing.
 
 *   [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
-
-*   [briangonzalez/rgbaster.js](https://github.com/briangonzalez/rgbaster.js) - 🎨 A simple library for extracting dominant colors from images.
 
 ## miscellaneous
 
