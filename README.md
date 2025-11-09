@@ -75,8 +75,6 @@
 
 *   [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
 
-*   [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - End to end, Offline, high speed, and privately self-host free version of Google Translate - 低占用速度快可私有部署的离线版 Google 翻译
-
 *   [metowolf/qqwry.dat](https://github.com/metowolf/qqwry.dat) - 纯真 IP 数据库同步仓库（2025 年持续更新中）
 
 *   [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
@@ -1075,8 +1073,6 @@
 
 *   [SparkAudio/Spark-TTS](https://github.com/SparkAudio/Spark-TTS) - Spark-TTS Inference Code
 
-*   [xinnan-tech/xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server) - 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.
-
 *   [DepthAnything/Depth-Anything-V2](https://github.com/DepthAnything/Depth-Anything-V2) - \[NeurIPS 2024] Depth Anything V2. A More Capable Foundation Model for Monocular Depth Estimation
 
 *   [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
@@ -1348,6 +1344,8 @@
 *   [silenty4ng/k5web](https://github.com/silenty4ng/k5web) - 网页 UV-K5 写频工具箱
 
 *   [Kutius/steam-judger](https://github.com/Kutius/steam-judger) - Steam 游戏库终极审判，AI 法官在此！
+
+*   [xinnan-tech/xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server) - 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.
 
 *   [dreamhunter2333/cloudflare\_temp\_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
 
@@ -1636,6 +1634,8 @@
 *   [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 
 *   [sammcj/gollama](https://github.com/sammcj/gollama) - Go manage your Ollama models
+
+*   [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - End to end, Offline, high speed, and privately self-host free version of Google Translate - 低占用速度快可私有部署的离线版 Google 翻译
 
 *   [Ackites/KillWxapkg](https://github.com/Ackites/KillWxapkg) - 自动化反编译微信小程序，小程序安全评估工具，发现小程序安全问题，自动解密，解包，可还原工程目录，支持Hook，小程序修改
 
