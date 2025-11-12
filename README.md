@@ -1469,7 +1469,7 @@
 
 ## Batchfile
 
-*   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+*   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 
 *   [alwsl/alwsl](https://github.com/alwsl/alwsl) - Install archlinux as the WSL (Windows Subsystem for Linux) host.
 
@@ -2055,7 +2055,7 @@
 
 *   [yzalis/Identicon](https://github.com/yzalis/Identicon) - Generate awesome and unique identicons with beautiful colors
 
-*   [endroid/qr-code](https://github.com/endroid/qr-code) - QR Code Generator
+*   [endroid/qr-code](https://github.com/endroid/qr-code) - PHP QR Code library that helps you create QR codes in a jiffy
 
 *   [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️  – Pull Requests welcome!
 
