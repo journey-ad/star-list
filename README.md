@@ -51,6 +51,8 @@
 
 ## TypeScript
 
+*   [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
+
 *   [yume-chan/ya-webadb](https://github.com/yume-chan/ya-webadb) - ADB in your browser
 
 *   [unjs/ungh](https://github.com/unjs/ungh) - 🐙 Unlimited access to github API
@@ -346,6 +348,8 @@
 *   [mauricius/vue-draggable-resizable](https://github.com/mauricius/vue-draggable-resizable) - Vue3 Component for draggable and resizable elements.
 
 *   [koddr/vue-goodshare](https://github.com/koddr/vue-goodshare) - 🍿 Vue.js component for social share. A simple way to share a link on the pages of your website in the most popular (and not so) social networks. Powered by goodshare.js project.
+
+*   [fy0/EasySelect](https://github.com/fy0/EasySelect) - 爬虫工具：一个Chrome插件，让你根据页面元素快速获取可读可维护的 CSS 选择器。 A chrome extension, let you get readable & maintainable css selector from elements.
 
 *   [iview/iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js 2.0
 
@@ -821,8 +825,6 @@
 
 *   [shen100/mili](https://github.com/shen100/mili) - mili 是一个开源的社区系统，界面优雅，功能丰富😛
 
-*   [fy0/EasySelect](https://github.com/fy0/EasySelect) - 爬虫工具：一个Chrome插件，让你根据页面元素快速获取可读可维护的 CSS 选择器。 A chrome extension, let you get readable & maintainable css selector from elements.
-
 *   [ethan-well/react-blog](https://github.com/ethan-well/react-blog) - React + Redux + Ruby On Rails 实现的博客系统
 
 *   [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
@@ -1219,7 +1221,7 @@
 
 *   [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) - Cybersecurity oriented awesome list
 
-*   [RezShakeri/beautify-github-profile](https://github.com/RezShakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.  🪄 ⭐
+*   [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.  🪄 ⭐
 
 *   [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos) -
 
@@ -1556,8 +1558,6 @@
 *   [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 
 *   [lltcggie/waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe) - waifu2xのCaffe版
-
-*   [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 
 ## C
 
