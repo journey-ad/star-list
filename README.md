@@ -23,6 +23,7 @@
 *   [Markdown](#markdown)
 *   [Objective-C](#objective-c)
 *   [HTML](#html)
+*   [Svelte](#svelte)
 *   [CSS](#css)
 *   [Zig](#zig)
 *   [C#](#c-2)
@@ -32,7 +33,6 @@
 *   [Scala](#scala)
 *   [Ruby](#ruby)
 *   [Dockerfile](#dockerfile)
-*   [Svelte](#svelte)
 *   [PHP](#php)
 *   [Rich Text Format](#rich-text-format)
 *   [Objective-C++](#objective-c-1)
@@ -80,8 +80,6 @@
 *   [metowolf/qqwry.dat](https://github.com/metowolf/qqwry.dat) - 纯真 IP 数据库同步仓库（2025 年持续更新中）
 
 *   [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
-
-*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 *   [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) - Moe counter badge with multiple themes! - 多种风格可选的萌萌计数器
 
@@ -1873,6 +1871,12 @@
 
 *   [simov/simplr-smoothscroll](https://github.com/simov/simplr-smoothscroll) - Smooth scrolling in all browsers
 
+## Svelte
+
+*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+
+*   [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
+
 ## CSS
 
 *   [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -2012,10 +2016,6 @@
 *   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 
 *   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white\_check\_mark:  The Node.js best practices list (July 2024)
-
-## Svelte
-
-*   [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
 ## PHP
 
