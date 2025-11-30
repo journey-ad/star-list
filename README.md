@@ -1427,8 +1427,6 @@
 
 *   [hectorqin/reader](https://github.com/hectorqin/reader) - 阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️
 
-*   [UjuiUjuMandan/EhViewer](https://github.com/UjuiUjuMandan/EhViewer) - EhViewer overhauled with censorship circumvention and no more
-
 *   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 
 *   [czp3009/bilibili-api](https://github.com/czp3009/bilibili-api) - Bilibili API library for Kotlin
@@ -1732,6 +1730,8 @@
 *   [huangqian8/SwitchScript](https://github.com/huangqian8/SwitchScript) - 大气层个人整合包生成脚本
 
 *   [Pal3love/Source-Han-TrueType](https://github.com/Pal3love/Source-Han-TrueType) - TrueType version of Source Han Sans, Source Han Serif and Source Han Mono
+
+*   [UjuiUjuMandan/EhViewer](https://github.com/UjuiUjuMandan/EhViewer) - EhViewer overhauled with censorship circumvention and no more
 
 *   [hsfzxjy/Bad-Apple-Font](https://github.com/hsfzxjy/Bad-Apple-Font) - Playing Bad Apple!! with HarfBuzz WASM shaper.
 
