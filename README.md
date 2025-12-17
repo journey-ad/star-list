@@ -251,7 +251,7 @@
 
 *   [xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) - TypeScript 入门教程
 
-*   [eggjs/egg](https://github.com/eggjs/egg) - 🥚🥚🥚🥚 Born to build better enterprise frameworks and apps with Node.js & Koa
+*   [eggjs/egg](https://github.com/eggjs/egg) - 🥚🥚🥚🥚 Born to build better enterprise frameworks and apps with Node.js & Koa. https://307.run/eggcode
 
 *   [SunHuawei/SourceDetector](https://github.com/SunHuawei/SourceDetector) - Chrome extension，用于发现源码文件(\*.map)
 
@@ -343,7 +343,7 @@
 
 *   [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 
 *   [chinuno-usami/ava\_dash](https://github.com/chinuno-usami/ava_dash) -
 
