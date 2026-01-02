@@ -1311,7 +1311,7 @@
 
 *   [slightlee/regions\_data](https://github.com/slightlee/regions_data) - 省市区县乡镇四级行政区划数据 | 支持 SQLite/JSON 格式 | 在线预览 | 数据同步于 2025年12月
 
-*   [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) - 开源的泛中日韩像素字体，黑体无衬线风格，支持 8、10 和 12 像素
+*   [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) - 开源的泛中日韩像素字体，黑体风格
 
 *   [oxalorg/sakura](https://github.com/oxalorg/sakura) - :cherry\_blossom: a minimal css framework/theme.
 
