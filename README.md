@@ -24,7 +24,6 @@
 *   [C](#c-1)
 *   [Markdown](#markdown)
 *   [Objective-C](#objective-c)
-*   [Svelte](#svelte)
 *   [CSS](#css)
 *   [Zig](#zig)
 *   [C#](#c-2)
@@ -34,6 +33,7 @@
 *   [Scala](#scala)
 *   [Ruby](#ruby)
 *   [Dockerfile](#dockerfile)
+*   [Svelte](#svelte)
 *   [PHP](#php)
 *   [Rich Text Format](#rich-text-format)
 *   [Objective-C++](#objective-c-1)
@@ -99,6 +99,8 @@
 *   [WEIFENG2333/VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner) - 🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A powered tool for easy and efficient video subtitling.
 
 *   [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1
+
+*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 *   [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) -
 
@@ -1880,12 +1882,6 @@
 
 *   [vayn/asoiaf](https://github.com/vayn/asoiaf) - 冰与火之歌中文维基 http://asoiaf.huiji.wiki iOS App
 
-## Svelte
-
-*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-
-*   [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
-
 ## CSS
 
 *   [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -2017,6 +2013,10 @@
 *   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 
 *   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white\_check\_mark:  The Node.js best practices list (July 2024)
+
+## Svelte
+
+*   [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
 ## PHP
 
