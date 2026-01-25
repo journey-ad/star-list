@@ -17,6 +17,7 @@
 *   [Shell](#shell)
 *   [Vue](#vue)
 *   [Dart](#dart)
+*   [YARA](#yara)
 *   [Kotlin](#kotlin)
 *   [Batchfile](#batchfile)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -66,8 +67,6 @@
 *   [yao-pkg/pkg](https://github.com/yao-pkg/pkg) - Package your Node.js project into an executable
 
 *   [scoful/N-Tab](https://github.com/scoful/N-Tab) - 浏览器插件，《标签管理工具，替代OneTab》，支持Chrome和Edge
-
-*   [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 
 *   [yanyiwu/nodejieba](https://github.com/yanyiwu/nodejieba) - "结巴"中文分词的Node.js版本
 
@@ -627,7 +626,7 @@
 
 *   [lewangdev/scel2txt](https://github.com/lewangdev/scel2txt) - 搜狗细胞词库转鼠须管（Rime）词库
 
-*   [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you & agent need - Learn Agent by writing a Claude Code with only 16 line code
+*   [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need！write a claude code with only 16 line code
 
 *   [mikumifa/biliTickerBuy](https://github.com/mikumifa/biliTickerBuy) - b站会员购购票辅助工具
 
@@ -1742,6 +1741,10 @@
 *   [wgh136/PicaComic](https://github.com/wgh136/PicaComic) - A comic app built with Flutter, supporting multiple comic sources.
 
 *   [jiangtian616/JHenTai](https://github.com/jiangtian616/JHenTai) - A cross-platform manga app made for e-hentai & exhentai by Flutter
+
+## YARA
+
+*   [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
 
 ## Kotlin
 
