@@ -626,7 +626,7 @@
 
 *   [lewangdev/scel2txt](https://github.com/lewangdev/scel2txt) - 搜狗细胞词库转鼠须管（Rime）词库
 
-*   [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need！write a claude code with only 16 line code
+*   [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all You need - Write a nano Claude Code 0 - 1
 
 *   [mikumifa/biliTickerBuy](https://github.com/mikumifa/biliTickerBuy) - b站会员购购票辅助工具
 
@@ -1404,6 +1404,8 @@
 
 *   [sindresorhus/quick-look-plugins](https://github.com/sindresorhus/quick-look-plugins) - List of useful Quick Look plugins for developers
 
+*   [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
+
 *   [deebloo/things-you-can-do-in-a-web-worker](https://github.com/deebloo/things-you-can-do-in-a-web-worker) - Web Workers are cool! Here is a place to document all of the cool things you can do with them!
 
 *   [bjango/Color-Creator](https://github.com/bjango/Color-Creator) - Photoshop, Sketch and Affinity Designer documents that use base colors to generate larger palettes.
@@ -1973,8 +1975,6 @@
 *   [botoxparty/XP.css](https://github.com/botoxparty/XP.css) - A CSS framework for building faithful recreations of operating system GUIs.
 
 *   [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
-
-*   [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 
 *   [nana-4/materia-theme](https://github.com/nana-4/materia-theme) - A Material Design theme for GNOME/GTK based desktop environments
 
