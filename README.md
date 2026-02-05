@@ -4,9 +4,9 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
 *   [C#](#c)
 *   [Java](#java)
-*   [JavaScript](#javascript)
 *   [Python](#python)
 *   [Rust](#rust)
 *   [TypeScript](#typescript)
@@ -50,95 +50,9 @@
 *   [Matlab](#matlab)
 *   [LiveScript](#livescript)
 
-## C\#
-
-*   [ErnSur/unity-editor-icons](https://github.com/ErnSur/unity-editor-icons) - Icon Browser for Unity Editor
-
-*   [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
-
-*   [mono/taglib-sharp](https://github.com/mono/taglib-sharp) - Library for reading and writing metadata in media files
-
-*   [nilaoda/N\_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
-
-*   [X-Lucifer/AI-Lossless-Zoomer](https://github.com/X-Lucifer/AI-Lossless-Zoomer) - AI无损放大工具
-
-*   [Oliviaophia/SmartTaskbar](https://github.com/Oliviaophia/SmartTaskbar) - A lightweight utility which can automatically switch the display state of the Windows Taskbar.
-
-*   [qwqcode/SubRenamer](https://github.com/qwqcode/SubRenamer) - 🎞 字幕文件批量改名和自动调轴工具 | Batch rename subtitle files to match video names with one-click.
-
-*   [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
-
-*   [nilaoda/N\_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - \[.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.
-
-*   [TGSAN/CMWTAT\_Digital\_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
-
-*   [withsalt/BilibiliLiveTools](https://github.com/withsalt/BilibiliLiveTools) - Bilibili（B站）无人值守直播工具。自动登录，自动获取直播推流地址，自动推流（使用ffmpeg），可以用于电脑、树莓派等设备无人值守直播。
-
-*   [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
-
-*   [Perfare/AssetStudio](https://github.com/Perfare/AssetStudio) - AssetStudio is a tool for exploring, extracting and exporting assets and assetbundles.
-
-*   [OpportunityLiu/E-Viewer](https://github.com/OpportunityLiu/E-Viewer) - An UWP Client for https://e-hentai.org.
-
-*   [yingDev/WGestures](https://github.com/yingDev/WGestures) - Modern mouse gestures for Windows. (C#)
-
-*   [Perfare/AzurLaneLive2DExtract](https://github.com/Perfare/AzurLaneLive2DExtract) - OBSOLETE - see readme / 碧蓝航线Live2D提取
-
-*   [kkdevs/MinUnity3D](https://github.com/kkdevs/MinUnity3D) - Asset bundle minifier for unity 5.x games
-
-*   [im-mi/KoiCatalog](https://github.com/im-mi/KoiCatalog) - A card manager for Koikatu. View, search, and sort your collection of character cards.
-
-*   [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
-
-*   [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
-
-*   [Meloduet/Wpf-BilibiliVideoFetcher](https://github.com/Meloduet/Wpf-BilibiliVideoFetcher) - 一个获取Bilibili视频下载地址的桌面应用.
-
-## Java
-
-*   [pxb1988/dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files
-
-*   [x-falcon/Virtual-Hosts](https://github.com/x-falcon/Virtual-Hosts) - hosts for android,implement by vpn mode,supports wildcard DNS records
-
-*   [freeok/so-novel](https://github.com/freeok/so-novel) - 小说下载｜网文下载 | 网络小说
-
-*   [Modificator/E-Ink-Launcher](https://github.com/Modificator/E-Ink-Launcher) - E-reader Launcher for Android, Electronic paper book...
-
-*   [XiaomingX/data-cve-poc](https://github.com/XiaomingX/data-cve-poc) - 这个仓库收集了所有在 GitHub 上能找到的 CVE 漏洞利用工具。 This repository collects all CVE exploits found on GitHub.
-
-*   [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
-
-*   [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
-
-*   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
-
-*   [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
-
-*   [Zealon159/light-reading-cloud](https://github.com/Zealon159/light-reading-cloud) -  :books: 轻松阅读，基于SpringCloud生态开发的阅读类APP微服务实战项目，涉及 SpringCloud-Gateway、Nacos、OpenFeign、Hystrix、Jwt、ElasticSearch 等技术的应用
-
-*   [RipMeApp/ripme](https://github.com/RipMeApp/ripme) - Downloads albums from the web in bulk for archive purposes
-
-*   [ElderDrivers/EdXposed](https://github.com/ElderDrivers/EdXposed) - Elder driver Xposed Framework.
-
-*   [nining377/UnblockMusicPro\_Xposed](https://github.com/nining377/UnblockMusicPro_Xposed) - Unblock Netease Cloud Music with Xposed
-
-*   [Freeyourgadget/Gadgetbridge](https://github.com/Freeyourgadget/Gadgetbridge) - We are on codeberg.org now! https://codeberg.org/Freeyourgadget/Gadgetbridge -  Gadgetbridge - A free and cloudless replacement for your gadget vendors' closed source Android applications. Supports Pebble, Mi Band, Liveview, HPlus and more.
-
-*   [SplashCodes/JAViewer](https://github.com/SplashCodes/JAViewer) - 更优雅的驾车体验
-
-*   [nikita36078/J2ME-Loader](https://github.com/nikita36078/J2ME-Loader) - A J2ME emulator for Android.
-
-*   [meefik/linuxdeploy](https://github.com/meefik/linuxdeploy) - Install and run GNU/Linux on Android
-
-*   [MiPushFramework/MiPushFramework](https://github.com/MiPushFramework/MiPushFramework) - \[Archived, FORK: https://github.com/NihilityT/MiPushFramework] Let supported push service run system-ly on every Android devices
-
-*   [karimknaebel/Phonograph](https://github.com/karimknaebel/Phonograph) - A material designed music player for Android
-
-*   [bin456789/Unblock163MusicClient-Xposed](https://github.com/bin456789/Unblock163MusicClient-Xposed) - Unblock 163 Cloud Music Android client through Xposed.
-
-*   [PureDark/H-Viewer](https://github.com/PureDark/H-Viewer) - An android feed reader application which fetch data with selector and regular expression.
-
 ## JavaScript
+
+*   [golden-layout/golden-layout](https://github.com/golden-layout/golden-layout) - A multi window layout manager for webapps
 
 *   [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 
@@ -650,6 +564,94 @@
 
 *   [jieyou/lazyload](https://github.com/jieyou/lazyload) - 一个jQuery或zepto的图片延迟加载插件。An jQuery | zepto plugin for lazy loading images.
 
+## C\#
+
+*   [ErnSur/unity-editor-icons](https://github.com/ErnSur/unity-editor-icons) - Icon Browser for Unity Editor
+
+*   [Klocman/Bulk-Crap-Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) - Remove large amounts of unwanted applications quickly.
+
+*   [mono/taglib-sharp](https://github.com/mono/taglib-sharp) - Library for reading and writing metadata in media files
+
+*   [nilaoda/N\_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
+
+*   [X-Lucifer/AI-Lossless-Zoomer](https://github.com/X-Lucifer/AI-Lossless-Zoomer) - AI无损放大工具
+
+*   [Oliviaophia/SmartTaskbar](https://github.com/Oliviaophia/SmartTaskbar) - A lightweight utility which can automatically switch the display state of the Windows Taskbar.
+
+*   [qwqcode/SubRenamer](https://github.com/qwqcode/SubRenamer) - 🎞 字幕文件批量改名和自动调轴工具 | Batch rename subtitle files to match video names with one-click.
+
+*   [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys) - A Swiss Army knife for developers.
+
+*   [nilaoda/N\_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - \[.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.
+
+*   [TGSAN/CMWTAT\_Digital\_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
+
+*   [withsalt/BilibiliLiveTools](https://github.com/withsalt/BilibiliLiveTools) - Bilibili（B站）无人值守直播工具。自动登录，自动获取直播推流地址，自动推流（使用ffmpeg），可以用于电脑、树莓派等设备无人值守直播。
+
+*   [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
+
+*   [Perfare/AssetStudio](https://github.com/Perfare/AssetStudio) - AssetStudio is a tool for exploring, extracting and exporting assets and assetbundles.
+
+*   [OpportunityLiu/E-Viewer](https://github.com/OpportunityLiu/E-Viewer) - An UWP Client for https://e-hentai.org.
+
+*   [yingDev/WGestures](https://github.com/yingDev/WGestures) - Modern mouse gestures for Windows. (C#)
+
+*   [Perfare/AzurLaneLive2DExtract](https://github.com/Perfare/AzurLaneLive2DExtract) - OBSOLETE - see readme / 碧蓝航线Live2D提取
+
+*   [kkdevs/MinUnity3D](https://github.com/kkdevs/MinUnity3D) - Asset bundle minifier for unity 5.x games
+
+*   [im-mi/KoiCatalog](https://github.com/im-mi/KoiCatalog) - A card manager for Koikatu. View, search, and sort your collection of character cards.
+
+*   [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
+
+*   [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
+
+*   [Meloduet/Wpf-BilibiliVideoFetcher](https://github.com/Meloduet/Wpf-BilibiliVideoFetcher) - 一个获取Bilibili视频下载地址的桌面应用.
+
+## Java
+
+*   [pxb1988/dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files
+
+*   [x-falcon/Virtual-Hosts](https://github.com/x-falcon/Virtual-Hosts) - hosts for android,implement by vpn mode,supports wildcard DNS records
+
+*   [freeok/so-novel](https://github.com/freeok/so-novel) - 小说下载｜网文下载 | 网络小说
+
+*   [Modificator/E-Ink-Launcher](https://github.com/Modificator/E-Ink-Launcher) - E-reader Launcher for Android, Electronic paper book...
+
+*   [XiaomingX/data-cve-poc](https://github.com/XiaomingX/data-cve-poc) - 这个仓库收集了所有在 GitHub 上能找到的 CVE 漏洞利用工具。 This repository collects all CVE exploits found on GitHub.
+
+*   [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
+
+*   [PBH-BTN/PeerBanHelper](https://github.com/PBH-BTN/PeerBanHelper) - Automatically block unwanted, leeches and abnormal BT peers with support for customized and cloud rules.| BT 反吸血工具 - 自动封禁不受欢迎、吸血和异常的 BT 客户端，并支持自定义规则。支持 qB/qBEE/Deluge/BiglyBT/BitComet
+
+*   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
+
+*   [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
+
+*   [Zealon159/light-reading-cloud](https://github.com/Zealon159/light-reading-cloud) -  :books: 轻松阅读，基于SpringCloud生态开发的阅读类APP微服务实战项目，涉及 SpringCloud-Gateway、Nacos、OpenFeign、Hystrix、Jwt、ElasticSearch 等技术的应用
+
+*   [RipMeApp/ripme](https://github.com/RipMeApp/ripme) - Downloads albums from the web in bulk for archive purposes
+
+*   [ElderDrivers/EdXposed](https://github.com/ElderDrivers/EdXposed) - Elder driver Xposed Framework.
+
+*   [nining377/UnblockMusicPro\_Xposed](https://github.com/nining377/UnblockMusicPro_Xposed) - Unblock Netease Cloud Music with Xposed
+
+*   [Freeyourgadget/Gadgetbridge](https://github.com/Freeyourgadget/Gadgetbridge) - We are on codeberg.org now! https://codeberg.org/Freeyourgadget/Gadgetbridge -  Gadgetbridge - A free and cloudless replacement for your gadget vendors' closed source Android applications. Supports Pebble, Mi Band, Liveview, HPlus and more.
+
+*   [SplashCodes/JAViewer](https://github.com/SplashCodes/JAViewer) - 更优雅的驾车体验
+
+*   [nikita36078/J2ME-Loader](https://github.com/nikita36078/J2ME-Loader) - A J2ME emulator for Android.
+
+*   [meefik/linuxdeploy](https://github.com/meefik/linuxdeploy) - Install and run GNU/Linux on Android
+
+*   [MiPushFramework/MiPushFramework](https://github.com/MiPushFramework/MiPushFramework) - \[Archived, FORK: https://github.com/NihilityT/MiPushFramework] Let supported push service run system-ly on every Android devices
+
+*   [karimknaebel/Phonograph](https://github.com/karimknaebel/Phonograph) - A material designed music player for Android
+
+*   [bin456789/Unblock163MusicClient-Xposed](https://github.com/bin456789/Unblock163MusicClient-Xposed) - Unblock 163 Cloud Music Android client through Xposed.
+
+*   [PureDark/H-Viewer](https://github.com/PureDark/H-Viewer) - An android feed reader application which fetch data with selector and regular expression.
+
 ## Python
 
 *   [Bush2021/chrome\_installer](https://github.com/Bush2021/chrome_installer) - Automatically fetch Google Chrome offline installer using GitHub Actions
@@ -716,7 +718,7 @@
 
 *   [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 
-*   [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - MiniCPM-o 4.5: A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Mulitmodal Live Streaminig on Your Phone
+*   [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - MiniCPM-o 4.5: A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Mulitmodal Live Streaming on Your Phone
 
 *   [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
 
@@ -1597,8 +1599,6 @@
 *   [mumuy/widget](https://github.com/mumuy/widget) - 基于jquery的插件库 - 轮播/标签页/滚动条/下拉框/对话框/搜索提示/城市三级联动/日历\_A set of widgets based on jQuery
 
 *   [swisnl/jQuery-contextMenu](https://github.com/swisnl/jQuery-contextMenu) - jQuery contextMenu plugin & polyfill
-
-*   [simov/simplr-smoothscroll](https://github.com/simov/simplr-smoothscroll) - Smooth scrolling in all browsers
 
 ## C++
 
