@@ -51,6 +51,8 @@
 
 ## Python
 
+*   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
+
 *   [journey-ad/telerelay](https://github.com/journey-ad/telerelay) - Telegram relay bot with regex/keyword filtering and a built-in Web dashboard. / 基于正则与关键字过滤的 Telegram 智能转发机器人，自带 Web 管理面板
 
 *   [Bush2021/chrome\_installer](https://github.com/Bush2021/chrome_installer) - Automatically fetch Google Chrome offline installer using GitHub Actions
@@ -832,8 +834,6 @@
 *   [drduan/minggeJS](https://github.com/drduan/minggeJS) -
 
 *   [acwong00/Clean-Torrents](https://github.com/acwong00/Clean-Torrents) - A simple script to clean torrent files.
-
-*   [tuupola/lazyload](https://github.com/tuupola/lazyload) - Vanilla JavaScript plugin for lazyloading images
 
 ## C\#
 
