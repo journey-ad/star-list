@@ -51,6 +51,8 @@
 
 ## Python
 
+*   [TomoeMami/S1PlainTextBackup](https://github.com/TomoeMami/S1PlainTextBackup) - 纯文本格式的S1帖子备份
+
 *   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 
 *   [journey-ad/telerelay](https://github.com/journey-ad/telerelay) - Telegram relay bot with regex/keyword filtering and a built-in Web dashboard. / 基于正则与关键字过滤的 Telegram 智能转发机器人，自带 Web 管理面板
@@ -2074,8 +2076,6 @@
 *   [LoeiFy/Diaspora](https://github.com/LoeiFy/Diaspora) - Diaspora - A WordPress theme
 
 *   [AlxMedia/blogrow](https://github.com/AlxMedia/blogrow) - Blogrow WordPress Theme
-
-*   [marlonfan/qiniu-typecho-file](https://github.com/marlonfan/qiniu-typecho-file) - typecho中使用七牛作为存储
 
 ## Rich Text Format
 
