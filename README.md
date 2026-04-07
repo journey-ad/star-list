@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [HTML](#html)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
@@ -13,7 +14,6 @@
 *   [Go](#go)
 *   [Python](#python)
 *   [C#](#c)
-*   [HTML](#html)
 *   [Swift](#swift)
 *   [Objective-C](#objective-c)
 *   [Java](#java)
@@ -48,6 +48,82 @@
 *   [QML](#qml)
 *   [Matlab](#matlab)
 *   [LiveScript](#livescript)
+
+## HTML
+
+*   [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - Collection of DESIGN.md files that capture design systems from popular websites. Drop one into your project and let coding agents build matching UI.
+
+*   [puaclaw/PUAClaw](https://github.com/puaclaw/PUAClaw) - Claw 们终将接管世界，PUAClaw is All You Need
+
+*   [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) - 开源的泛中日韩像素字体，黑体风格
+
+*   [oxalorg/sakura](https://github.com/oxalorg/sakura) - :cherry\_blossom: a minimal css framework/theme.
+
+*   [Nigh/I-wanna-clean-keyboard](https://github.com/Nigh/I-wanna-clean-keyboard) - Block the keyboard input while you were eating instant noodles on your laptop keyboard.
+
+*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+
+*   [dbohdan/classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots
+
+*   [sudoskys/StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook) - How do we integrate AI generation tools into actual work? | 关于 Ai 绘画的Wiki | Wiki about Ai painting | Prompts Engineering| 指南 Guide | Seeking Maintainer\&Translator🙌
+
+*   [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) - 开源的泛中日韩像素字体，黑体风格
+
+*   [HZFE/awesome-interview](https://github.com/HZFE/awesome-interview) - 剑指前端 Offer
+
+*   [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial），以最新的 ECMAScript 规范为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。
+
+*   [A-Soul-Database/A-Soul-Database](https://github.com/A-Soul-Database/A-Soul-Database) - A-Soul db A-Soul第三方直播数据
+
+*   [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
+
+*   [Momo707577045/media-source-extract](https://github.com/Momo707577045/media-source-extract) - MediaSource 视频提取教程
+
+*   [ecomfe/fontmin-app](https://github.com/ecomfe/fontmin-app) - fontmin as an OS X, Linux and Windows app
+
+*   [RevillWeb/img-2](https://github.com/RevillWeb/img-2) - Replace \<img /> elements with \<img-2> to automatically pre-cache images and improve page performance.
+
+*   [mqycn/huile8](https://github.com/mqycn/huile8) - 英语差等生必备的 vscode 插件，解决 单词不会读、单词不认识的痛点
+
+*   [HFIProgramming/mikutap](https://github.com/HFIProgramming/mikutap) - A Mainland China Friendly and independent version extracted from https://aidn.jp/mikutap
+
+*   [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular\_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
+
+*   [nathanreyes/v-calendar](https://github.com/nathanreyes/v-calendar) - An elegant calendar and datepicker plugin for Vue.
+
+*   [SolidZORO/zpix-pixel-font](https://github.com/SolidZORO/zpix-pixel-font) - Zpix (最像素) is a pixel font (中文像素字体), supporting English, Chinese (Simplified + Traditional) and Japanese.
+
+*   [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+
+*   [alienzhou/frontend-tech-list](https://github.com/alienzhou/frontend-tech-list) - 📝 Frontend Tech List for Developers 💡
+
+*   [diafygi/webrtc-ips](https://github.com/diafygi/webrtc-ips) - Demo: https://diafygi.github.io/webrtc-ips/
+
+*   [52cik/bilibili-haruna](https://github.com/52cik/bilibili-haruna) - B站看板娘集合 (live2d)
+
+*   [bangumi/api](https://github.com/bangumi/api) - Build your app on Bangumi
+
+*   [sofish/typo.css](https://github.com/sofish/typo.css) - 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
+
+*   [kagurazakayashi/EvergardenConverter](https://github.com/kagurazakayashi/EvergardenConverter) - 📜 将英文字符转换为『紫罗兰永恒花园』（『ヴァイオレット・エヴァーガーデン』）中的文字。
+
+*   [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
+
+*   [YoneChen/WebVR-helloworld](https://github.com/YoneChen/WebVR-helloworld) - a webVR 'hello world' project base in three.js
+
+*   [samacs/simple\_html\_dom](https://github.com/samacs/simple_html_dom) - Just a Simple HTML DOM library fork. (http://simplehtmldom.sourceforge.net/)
+
+*   [greatghoul/sibi](https://github.com/greatghoul/sibi) - V2EX 撕逼大战
+
+*   [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
+
+*   [shd101wyy/markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) - One of the 'BEST' markdown preview extensions for Atom editor!
+
+*   [mumuy/widget](https://github.com/mumuy/widget) - 基于jquery的插件库 - 轮播/标签页/滚动条/下拉框/对话框/搜索提示/城市三级联动/日历\_A set of widgets based on jQuery
+
+*   [swisnl/jQuery-contextMenu](https://github.com/swisnl/jQuery-contextMenu) - jQuery contextMenu plugin & polyfill
+
+*   [simov/simplr-smoothscroll](https://github.com/simov/simplr-smoothscroll) - Smooth scrolling in all browsers
 
 ## TypeScript
 
@@ -1671,80 +1747,6 @@
 
 *   [jshackles/idle\_master](https://github.com/jshackles/idle_master) - Get your Steam Trading Cards the Easy Way
 
-## HTML
-
-*   [puaclaw/PUAClaw](https://github.com/puaclaw/PUAClaw) - Claw 们终将接管世界，PUAClaw is All You Need
-
-*   [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) - 开源的泛中日韩像素字体，黑体风格
-
-*   [oxalorg/sakura](https://github.com/oxalorg/sakura) - :cherry\_blossom: a minimal css framework/theme.
-
-*   [Nigh/I-wanna-clean-keyboard](https://github.com/Nigh/I-wanna-clean-keyboard) - Block the keyboard input while you were eating instant noodles on your laptop keyboard.
-
-*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-
-*   [dbohdan/classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots
-
-*   [sudoskys/StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook) - How do we integrate AI generation tools into actual work? | 关于 Ai 绘画的Wiki | Wiki about Ai painting | Prompts Engineering| 指南 Guide | Seeking Maintainer\&Translator🙌
-
-*   [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) - 开源的泛中日韩像素字体，黑体风格
-
-*   [HZFE/awesome-interview](https://github.com/HZFE/awesome-interview) - 剑指前端 Offer
-
-*   [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial），以最新的 ECMAScript 规范为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。
-
-*   [A-Soul-Database/A-Soul-Database](https://github.com/A-Soul-Database/A-Soul-Database) - A-Soul db A-Soul第三方直播数据
-
-*   [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
-
-*   [Momo707577045/media-source-extract](https://github.com/Momo707577045/media-source-extract) - MediaSource 视频提取教程
-
-*   [ecomfe/fontmin-app](https://github.com/ecomfe/fontmin-app) - fontmin as an OS X, Linux and Windows app
-
-*   [RevillWeb/img-2](https://github.com/RevillWeb/img-2) - Replace \<img /> elements with \<img-2> to automatically pre-cache images and improve page performance.
-
-*   [mqycn/huile8](https://github.com/mqycn/huile8) - 英语差等生必备的 vscode 插件，解决 单词不会读、单词不认识的痛点
-
-*   [HFIProgramming/mikutap](https://github.com/HFIProgramming/mikutap) - A Mainland China Friendly and independent version extracted from https://aidn.jp/mikutap
-
-*   [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular\_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
-
-*   [nathanreyes/v-calendar](https://github.com/nathanreyes/v-calendar) - An elegant calendar and datepicker plugin for Vue.
-
-*   [SolidZORO/zpix-pixel-font](https://github.com/SolidZORO/zpix-pixel-font) - Zpix (最像素) is a pixel font (中文像素字体), supporting English, Chinese (Simplified + Traditional) and Japanese.
-
-*   [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
-
-*   [alienzhou/frontend-tech-list](https://github.com/alienzhou/frontend-tech-list) - 📝 Frontend Tech List for Developers 💡
-
-*   [diafygi/webrtc-ips](https://github.com/diafygi/webrtc-ips) - Demo: https://diafygi.github.io/webrtc-ips/
-
-*   [52cik/bilibili-haruna](https://github.com/52cik/bilibili-haruna) - B站看板娘集合 (live2d)
-
-*   [bangumi/api](https://github.com/bangumi/api) - Build your app on Bangumi
-
-*   [sofish/typo.css](https://github.com/sofish/typo.css) - 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
-
-*   [kagurazakayashi/EvergardenConverter](https://github.com/kagurazakayashi/EvergardenConverter) - 📜 将英文字符转换为『紫罗兰永恒花园』（『ヴァイオレット・エヴァーガーデン』）中的文字。
-
-*   [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
-
-*   [YoneChen/WebVR-helloworld](https://github.com/YoneChen/WebVR-helloworld) - a webVR 'hello world' project base in three.js
-
-*   [samacs/simple\_html\_dom](https://github.com/samacs/simple_html_dom) - Just a Simple HTML DOM library fork. (http://simplehtmldom.sourceforge.net/)
-
-*   [greatghoul/sibi](https://github.com/greatghoul/sibi) - V2EX 撕逼大战
-
-*   [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
-
-*   [shd101wyy/markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) - One of the 'BEST' markdown preview extensions for Atom editor!
-
-*   [mumuy/widget](https://github.com/mumuy/widget) - 基于jquery的插件库 - 轮播/标签页/滚动条/下拉框/对话框/搜索提示/城市三级联动/日历\_A set of widgets based on jQuery
-
-*   [swisnl/jQuery-contextMenu](https://github.com/swisnl/jQuery-contextMenu) - jQuery contextMenu plugin & polyfill
-
-*   [simov/simplr-smoothscroll](https://github.com/simov/simplr-smoothscroll) - Smooth scrolling in all browsers
-
 ## Swift
 
 *   [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
@@ -1875,7 +1877,7 @@
 
 ## C++
 
-*   [allenk/GeminiWatermarkTool](https://github.com/allenk/GeminiWatermarkTool) - Gemini Nano Banana / Pro watermark maintenance tool
+*   [allenk/GeminiWatermarkTool](https://github.com/allenk/GeminiWatermarkTool) - Gemini Nano Banana / Pro / VEO watermark maintenance tool
 
 *   [Daft-Freak/CnC\_and\_Red\_Alert](https://github.com/Daft-Freak/CnC_and_Red_Alert) - Command and Conquer: Red Alert
 
@@ -2144,8 +2146,6 @@
 *   [DT27/Slanted](https://github.com/DT27/Slanted) - Slanted Typecho Theme
 
 *   [angelfreedomv/Minecraft-Kotori](https://github.com/angelfreedomv/Minecraft-Kotori) - A Smiple and Easy Modify Ghost Theme of Modular——一个简单又容易修改的Ghost模块化主题
-
-*   [MoePlayer/cPlayer](https://github.com/MoePlayer/cPlayer) - A beautiful and clean WEB Music Player by HTML5.
 
 ## Zig
 
