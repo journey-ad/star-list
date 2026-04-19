@@ -95,6 +95,8 @@
 
 *   [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
 
+*   [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
+
 *   [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
 
 *   [lewangdev/scel2txt](https://github.com/lewangdev/scel2txt) - 搜狗细胞词库转鼠须管（Rime）词库
@@ -1324,8 +1326,6 @@
 *   [Aaalice233/ShiQi\_Workflow](https://github.com/Aaalice233/ShiQi_Workflow) - 工作流备份
 
 *   [RichStrong/tiny\_font](https://github.com/RichStrong/tiny_font) - 个人从网上搜集的体积较小的字库，适用于大量显示汉字而存储资源又紧张的场合(全字库可以控制在2M以内)
-
-*   [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
 
 *   [zhaotoday/fingerprint-browser](https://github.com/zhaotoday/fingerprint-browser) - 指纹浏览器（防关联浏览器）资源整理 - Fingerprint Browser (Antidetect Browser) Resources
 
