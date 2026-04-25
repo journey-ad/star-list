@@ -469,7 +469,7 @@
 
 *   [Aaalice233/ComfyUI-Danbooru-Gallery](https://github.com/Aaalice233/ComfyUI-Danbooru-Gallery) - D站画廊插件
 
-*   [GargantuaX/gemini-watermark-remover](https://github.com/GargantuaX/gemini-watermark-remover) - A high-performance, 100% client-side tool for removing Gemini AI watermarks. Built with pure JavaScript, it leverages a mathematically precise Reverse Alpha Blending algorithm rather than unpredictable AI inpainting. / 基于 Javascript 的纯浏览器端 Gemini AI 图像无损去水印工具，使用数学精确的反向 Alpha 混合算法
+*   [GargantuaX/gemini-watermark-remover](https://github.com/GargantuaX/gemini-watermark-remover) - A high-performance, 100% client-side tool for removing Gemini AI watermarks. Built with pure JavaScript, it leverages a mathematically precise Reverse Alpha Blending algorithm rather than unpredictable AI inpainting. Tired of Gemini Watermark? GPT Image 2 ↓ / 基于 Javascript 的纯浏览器端 Gemini AI 图像无损去水印工具，使用数学精确的反向 Alpha 混合算法，对gemini水印疲了？推荐GPT-Image-2 ↓
 
 *   [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - SnapDOM: Next-generation DOM capture engine — fast, modular, extensible.
 
