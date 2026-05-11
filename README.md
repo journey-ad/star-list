@@ -325,6 +325,8 @@
 
 *   [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
+*   [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+
 *   [journey-ad/minigame-ui-kit](https://github.com/journey-ad/minigame-ui-kit) - 基于 PixiJS 开箱即用的小游戏 UI 组件库，适合快速搭建 SDK Demo 或 MVP 原型
 
 *   [S-Trespassing/claw-in-chrome](https://github.com/S-Trespassing/claw-in-chrome) - 这是一个放在 Chrome 侧边栏里的助手扩展。解除了Claude in Chrome的登录限制和套餐限制,支持自定义模型供应商,并且支持编辑原插件不支持编辑的参数,让您的大模型在该插件中有更好的表现!
@@ -864,8 +866,6 @@
 *   [subprotocol/verlet-js](https://github.com/subprotocol/verlet-js) - A simple Verlet physics engine written in javascript
 
 ## Python
-
-*   [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 
 *   [qiqiandfei/Telegram-115bot](https://github.com/qiqiandfei/Telegram-115bot) - 一个基于 Python 的 Telegram 机器人，用于管理和控制 115 网盘，支持离线下载、视频上传、目录同步等功能
 
@@ -1535,7 +1535,7 @@
 
 *   [qaz741wsd856/warden-worker](https://github.com/qaz741wsd856/warden-worker) - A Bitwarden-compatible server for Cloudflare Workers
 
-*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
+*   [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
 
 *   [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
 
