@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html lang="zh-CN" class="scroll-smooth">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Jad's Stars</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+tailwind.config = {
+  theme: {
+    extend: {
+      colors: {
+        paper: '#fafaf8',
+        ink: '#1a1a1a',
+        'ink-dim': '#6b6b6b',
+        'ink-fade': '#b0b0a8',
+        rule: '#e5e3dc',
+      },
+      fontFamily: {
+        display: ['Syne', 'system-ui', 'sans-serif'],
+        body: ['Newsreader', 'Georgia', 'serif'],
+      },
+      animation: {
+        'row-in': 'rowIn 0.5s ease-out both',
+      },
+      keyframes: {
+        rowIn: {
+          '0%': { opacity: '0', transform: 'translateY(6px)' },
+          '100%': { opacity: '1', transform: 'translateY(0)' },
+        },
+      },
+    },
+  },
+}
+</script>
+<script src="https://unpkg.com/vue@3/dist/vue.global.prod.js"></script>
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&display=swap" rel="stylesheet">
+<style>
+  body { background: #fafaf8; }
+  .link-underline {
+    background-image: linear-gradient(currentColor, currentColor);
+    background-position: 0% 100%;
+    background-repeat: no-repeat;
+    background-size: 0% 1px;
+    transition: background-size 0.2s ease;
+  }
+  .link-underline:hover { background-size: 100% 1px; }
+  ::-webkit-scrollbar { width: 6px; height: 6px; }
+  ::-webkit-scrollbar-track { background: transparent; }
+  ::-webkit-scrollbar-thumb { background: #d4d2ca; border-radius: 3px; }
+</style>
+</head>
+<body class="font-body text-ink antialiased">
+<div id="app" class="min-h-screen">
+  <main class="w-4/5 max-w-[1280px] mx-auto pt-[8vh] pb-[6vh] px-[2vw]">
+    <!-- Header -->
+    <header class="flex flex-wrap justify-between items-baseline gap-4 mb-4">
+      <a href="." class="font-display text-3xl font-semibold tracking-tight text-ink no-underline">Jad's Stars</a>
+      <div class="flex items-center gap-4">
+        <button @click="toggleLocale"
+                class="font-display text-xs uppercase tracking-widest px-2.5 py-1 rounded-md border transition-colors cursor-pointer select-none"
+                :class="locale === 'zh' ? 'bg-ink text-paper border-ink' : 'bg-white text-ink-dim border-rule hover:border-ink-fade'">
+          {{ locale === 'zh' ? 'EN' : '中' }}
+        </button>
+        <p class="font-display text-sm uppercase tracking-widest text-ink-dim">
+          {{ filteredRepos.length }} / {{ allRepos.length }} repos
+        </p>
+      </div>
+    </header>
+
+    <p class="text-ink-dim text-lg italic max-w-[36rem] mb-10 leading-relaxed">
+      {{ t('intro') }}
+      <a :href="'https://github.com/' + githubUser + '?tab=stars'" target="_blank"
+         class="text-ink link-underline pb-0.5">{{ t('viewOnGithub') }} &rarr;</a>
+    </p>
+
+    <!-- Search & Filters -->
+    <div class="flex flex-wrap gap-4 mb-6 items-center">
+      <div class="relative flex-1 min-w-[200px] max-w-[360px]">
+        <input v-model="search" type="text" :placeholder="t('searchPlaceholder')"
+               class="w-full px-4 py-2.5 bg-white border border-rule rounded-lg font-body text-sm
+                      focus:outline-none focus:border-ink-fade transition-colors
+                      placeholder:text-ink-fade">
+        <span v-if="search" @click="search=''" class="absolute right-3 top-1/2 -translate-y-1/2 cursor-pointer text-ink-fade hover:text-ink-dim select-none">&times;</span>
+      </div>
+
+      <select v-model="sortBy" class="px-3 py-2.5 bg-white border border-rule rounded-lg font-body text-sm
+                                     focus:outline-none focus:border-ink-fade transition-colors cursor-pointer">
+        <option value="stars">{{ t('sortStars') }}</option>
+        <option value="name">{{ t('sortName') }}</option>
+        <option value="updated">{{ t('sortUpdated') }}</option>
+        <option value="created">{{ t('sortCreated') }}</option>
+      </select>
+
+      <button @click="toggleAllLanguages"
+              class="px-3 py-2.5 font-display text-xs uppercase tracking-wider border rounded-lg transition-colors cursor-pointer select-none"
+              :class="selectedLangs.size === 0 ? 'bg-ink text-paper border-ink' : 'bg-white text-ink-dim border-rule hover:border-ink-fade'">
+        {{ selectedLangs.size === 0 ? t('allLang') : selectedLangs.size + ' ' + t('selectedLang') }}
+      </button>
+    </div>
+
+    <!-- Language Chips -->
+    <div class="flex flex-wrap gap-2 mb-10">
+      <button v-for="lang in sortedLanguages" :key="lang.name" @click="toggleLang(lang.name)"
+              class="px-2.5 py-1 font-display text-[11px] uppercase tracking-widest rounded-md border transition-colors cursor-pointer select-none"
+              :class="selectedLangs.has(lang.name) || selectedLangs.size === 0
+                ? 'border-ink-fade text-ink bg-rule/30'
+                : 'border-rule text-ink-fade hover:border-ink-fade'">
+        <span class="inline-block w-2 h-2 rounded-full mr-1.5 align-middle"
+              :style="{ backgroundColor: lang.color }"></span>
+        {{ lang.name }}
+        <span class="text-ink-fade ml-0.5">{{ lang.count }}</span>
+      </button>
+    </div>
+
+    <!-- Error State -->
+    <p v-if="error" class="text-red-600 text-center py-20 font-body">
+      {{ error }}
+    </p>
+
+    <!-- Loading State -->
+    <div v-else-if="loading" class="py-20 text-center text-ink-fade font-display text-sm uppercase tracking-widest">
+      {{ t('loading') }}
+    </div>
+
+    <!-- Empty State -->
+    <p v-else-if="pagedRepos.length === 0" class="py-20 text-center text-ink-fade font-body italic">
+      {{ t('empty') }}
+    </p>
+
+    <!-- Repo Grid -->
+    <template v-else>
+      <div class="hidden sm:grid grid-cols-[1fr_2fr] gap-x-6 text-left font-display text-xs uppercase tracking-widest text-ink-fade pb-3 border-b border-rule mb-1">
+        <span class="pl-1">{{ t('colProject') }}</span>
+        <span>{{ t('colDescription') }}</span>
+      </div>
+
+      <div v-for="(repo, i) in pagedRepos" :key="repo.id"
+           class="sm:grid sm:grid-cols-[1fr_2fr] gap-x-6 py-4 border-b border-rule/60 items-start"
+           :style="{ animationDelay: (i % perPage) * 0.04 + 's' }"
+           :class="i < perPage ? 'animate-row-in' : ''">
+
+        <!-- Left: Repo name + owner -->
+        <div class="flex items-center gap-2.5 min-w-0 pr-2 mb-2 sm:mb-0">
+          <a :href="repo.owner.html_url" target="_blank" rel="noopener" class="flex-shrink-0">
+            <img :src="repo.owner.avatar_url" class="w-8 h-8 rounded-full hover:opacity-80 transition-opacity" loading="lazy" :alt="repo.owner.login">
+          </a>
+          <div class="min-w-0">
+            <a :href="repo.html_url" target="_blank" rel="noopener" :title="repo.full_name"
+               class="font-display text-sm font-medium link-underline pb-0.5 block truncate">{{ repo.full_name }}</a>
+            <a :href="repo.owner.html_url" target="_blank" rel="noopener"
+               class="text-[11px] text-ink-fade link-underline pb-0.5 hidden sm:inline">{{ repo.owner.login }}</a>
+          </div>
+        </div>
+
+        <!-- Right: Description + meta -->
+        <div class="min-w-0">
+          <p class="text-body text-sm leading-relaxed mb-1.5 line-clamp-2" :title="repo.description || ''"
+             :class="repo.description ? 'text-ink-dim' : 'text-ink-fade italic'">
+            {{ renderDesc(repo.description) || t('noDescription') }}
+          </p>
+          <div class="flex flex-wrap items-center gap-x-3 gap-y-1 font-display text-[11px] uppercase tracking-wider text-ink-fade">
+            <span class="flex items-center gap-1">
+              <span class="w-2 h-2 rounded-full" :style="{ backgroundColor: langColor(repo.language) }"></span>
+              {{ repo.language || t('otherLang') }}
+            </span>
+            <span class="flex items-center gap-0.5" :title="repo.stargazers_count.toLocaleString() + ' stars'">
+              <svg class="w-3 h-3" viewBox="0 0 16 16" fill="currentColor"><path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"/></svg>
+              {{ repo.stargazers_count.toLocaleString() }}
+            </span>
+            <span v-for="t in repo.topics.slice(0, 3)" :key="t"
+                  class="px-1.5 py-0.5 bg-rule/30 rounded text-[10px]">{{ t }}</span>
+            <span class="text-ink-fade/70" :title="new Date(repo.updated_at).toLocaleDateString()">
+              {{ timeAgo(repo.updated_at) }}
+            </span>
+            <a v-if="repo.homepage" :href="repo.homepage" target="_blank" rel="noopener"
+               class="link-underline pb-0.5">&nearr; {{ t('homepage') }}</a>
+          </div>
+        </div>
+      </div>
+    </template>
+
+    <!-- Pagination -->
+    <div v-if="totalPages > 1" class="flex justify-center items-center gap-6 mt-12 font-display text-sm uppercase tracking-widest">
+      <button @click="goPage(page - 1)" :disabled="page <= 1"
+              class="px-4 py-2 rounded-lg border transition-colors select-none cursor-pointer"
+              :class="page <= 1 ? 'border-rule text-ink-fade cursor-not-allowed' : 'border-ink-fade text-ink hover:bg-ink hover:text-paper'">
+        {{ t('prev') }}
+      </button>
+      <span class="text-ink-dim text-xs">{{ page }} / {{ totalPages }}</span>
+      <button @click="goPage(page + 1)" :disabled="page >= totalPages"
+              class="px-4 py-2 rounded-lg border transition-colors select-none cursor-pointer"
+              :class="page >= totalPages ? 'border-rule text-ink-fade cursor-not-allowed' : 'border-ink-fade text-ink hover:bg-ink hover:text-paper'">
+        {{ t('next') }}
+      </button>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="w-4/5 max-w-[1280px] mx-auto px-[2vw] pb-[6vh] font-display text-xs uppercase tracking-widest flex flex-wrap gap-x-8 gap-y-2 text-ink-fade">
+    <a :href="'https://github.com/' + githubUser" target="_blank" class="link-underline pb-0.5">GitHub</a>
+    <a :href="'https://github.com/' + githubUser + '?tab=stars'" target="_blank" class="link-underline pb-0.5">Stars</a>
+    <span class="italic normal-case tracking-normal">{{ t('footer') }}</span>
+  </footer>
+</div>
+
+<script>
+const { createApp } = Vue
+
+const LANG_COLORS = {
+  JavaScript: '#f1e05a', TypeScript: '#3178c6', Python: '#3572A5', Java: '#b07219',
+  'C++': '#f34b7d', C: '#555555', 'C#': '#178600', Go: '#00ADD8', Rust: '#dea584',
+  Ruby: '#701516', PHP: '#4F5D95', Swift: '#F05138', Kotlin: '#A97BFF', Dart: '#00B4AB',
+  Scala: '#c22d40', Clojure: '#db5855', Shell: '#89e051', Lua: '#000080', Perl: '#0298c3',
+  HTML: '#e34c26', CSS: '#563d7c', SCSS: '#c6538c', Vue: '#41b883', Svelte: '#ff3e00',
+  'Jupyter Notebook': '#DA5B0B', Dockerfile: '#384d54', Makefile: '#427819', Batchfile: '#C1F12E',
+  PowerShell: '#012456', 'Vim Script': '#199f4b', Zig: '#ec915c', Markdown: '#083fa1',
+  ActionScript: '#882B0F', Matlab: '#e16737', Pascal: '#E3F171', Pony: '#a366ff',
+  'Objective-C': '#6866fb', 'Objective-C++': '#6866fb', QML: '#44a51c', LiveScript: '#bd8b6b',
+  'Rich Text Format': '#aabbcc', ASL: '#999999', XSLT: '#556677', Perl: '#0298c3',
+}
+
+const I18N = {
+  zh: {
+    intro: '我在 GitHub 上 star 过的项目，每日自动更新。',
+    viewOnGithub: '在 GitHub 上查看',
+    searchPlaceholder: '搜索名称或描述...',
+    sortStars: '排序: Star 数',
+    sortName: '排序: 名称',
+    sortUpdated: '排序: 最近更新',
+    sortCreated: '排序: 创建时间',
+    allLang: '全部',
+    selectedLang: '已选',
+    colProject: '项目',
+    colDescription: '描述',
+    loading: '加载中...',
+    empty: '没有匹配的项目。',
+    noDescription: '暂无描述',
+    otherLang: '其他',
+    homepage: '主页',
+    prev: '上一页',
+    next: '下一页',
+    footer: '每日通过 GitHub Actions 自动更新',
+    timeUnits: [
+      [31536000, '年前'], [2592000, '个月前'], [86400, '天前'],
+      [3600, '小时前'], [60, '分钟前'],
+    ],
+    justNow: '刚刚',
+  },
+  en: {
+    intro: 'Projects I\'ve starred on GitHub, updated daily.',
+    viewOnGithub: 'View on GitHub',
+    searchPlaceholder: 'Search name or description...',
+    sortStars: 'Sort: Stars',
+    sortName: 'Sort: Name',
+    sortUpdated: 'Sort: Recently Updated',
+    sortCreated: 'Sort: Recently Created',
+    allLang: 'All',
+    selectedLang: 'selected',
+    colProject: 'Project',
+    colDescription: 'Description',
+    loading: 'Loading stars...',
+    empty: 'No repos match your filters.',
+    noDescription: 'No description',
+    otherLang: 'Other',
+    homepage: 'homepage',
+    prev: 'Prev',
+    next: 'Next',
+    footer: 'Updated daily via GitHub Actions',
+    timeUnits: [
+      [31536000, 'yr'], [2592000, 'mo'], [86400, 'd'],
+      [3600, 'hr'], [60, 'min'],
+    ],
+    justNow: 'just now',
+  },
+}
+
+createApp({
+  data() {
+    return {
+      allRepos: [],
+      languages: [],
+      selectedLangs: new Set(),
+      search: '',
+      sortBy: 'stars',
+      page: 1,
+      perPage: 20,
+      loading: true,
+      error: null,
+      githubUser: 'journey-ad',
+      locale: 'zh',
+      emojiMap: {},
+    }
+  },
+
+  computed: {
+    sortedLanguages() {
+      return [...this.languages].sort((a, b) => b.count - a.count)
+    },
+
+    filteredRepos() {
+      let repos = this.allRepos
+
+      if (this.selectedLangs.size > 0) {
+        repos = repos.filter(r => this.selectedLangs.has(r.language || 'Other'))
+      }
+
+      if (this.search.trim()) {
+        const q = this.search.toLowerCase()
+        repos = repos.filter(r =>
+          r.full_name.toLowerCase().includes(q) ||
+          (r.description && r.description.toLowerCase().includes(q))
+        )
+      }
+
+      const key = this.sortBy
+      if (key === 'stars') {
+        repos = [...repos].sort((a, b) => b.stargazers_count - a.stargazers_count)
+      } else if (key === 'name') {
+        repos = [...repos].sort((a, b) => a.full_name.localeCompare(b.full_name))
+      } else if (key === 'updated') {
+        repos = [...repos].sort((a, b) => new Date(b.updated_at) - new Date(a.updated_at))
+      } else if (key === 'created') {
+        repos = [...repos].sort((a, b) => new Date(b.created_at) - new Date(a.created_at))
+      }
+
+      return repos
+    },
+
+    totalPages() {
+      return Math.max(1, Math.ceil(this.filteredRepos.length / this.perPage))
+    },
+
+    pagedRepos() {
+      const start = (this.page - 1) * this.perPage
+      return this.filteredRepos.slice(start, start + this.perPage)
+    },
+  },
+
+  watch: {
+    search() { this.page = 1 },
+    sortBy() { this.page = 1 },
+    selectedLangs: { deep: true, handler() { this.page = 1 } },
+  },
+
+  methods: {
+    t(key) {
+      return I18N[this.locale]?.[key] ?? I18N.en[key] ?? key
+    },
+
+    toggleLocale() {
+      this.locale = this.locale === 'zh' ? 'en' : 'zh'
+    },
+
+    langColor(name) {
+      return LANG_COLORS[name] || '#8b8b8b'
+    },
+
+    toggleLang(name) {
+      const s = new Set(this.selectedLangs)
+      if (s.has(name)) {
+        s.delete(name)
+      } else {
+        s.add(name)
+      }
+      this.selectedLangs = s
+    },
+
+    toggleAllLanguages() {
+      if (this.selectedLangs.size === 0) {
+        this.selectedLangs = new Set(this.languages.map(l => l.name))
+      } else {
+        this.selectedLangs = new Set()
+      }
+    },
+
+    goPage(n) {
+      this.page = n
+      window.scrollTo({ top: 0, behavior: 'smooth' })
+    },
+
+    timeAgo(dateStr) {
+      if (!dateStr) return ''
+      const now = Date.now()
+      const then = new Date(dateStr).getTime()
+      const seconds = Math.floor((now - then) / 1000)
+      const units = I18N[this.locale].timeUnits
+      for (const [s, label] of units) {
+        const n = Math.floor(seconds / s)
+        if (n >= 1) return this.locale === 'zh' ? n + label + '更新' : 'updated ' + n + label
+      }
+      return this.locale === 'zh' ? '刚刚更新' : 'updated just now'
+    },
+
+    renderDesc(text) {
+      if (!text || !Object.keys(this.emojiMap).length) return text || ''
+      return text.replace(/:(\w+):/g, (match, name) => this.emojiMap[name] || match)
+    },
+
+    async fetchEmojis() {
+      const KEY = 'gh_emojis_v2'
+      const TTL = 30 * 24 * 3600 * 1000
+
+      const cached = localStorage.getItem(KEY)
+      if (cached) {
+        try {
+          const parsed = JSON.parse(cached)
+          if (Date.now() - parsed.ts < TTL) {
+            this.emojiMap = parsed.data
+            return
+          }
+        } catch {}
+      }
+
+      try {
+        const resp = await fetch('https://api.github.com/emojis')
+        if (!resp.ok) return
+        const data = await resp.json()
+        for (const [name, url] of Object.entries(data)) {
+          const hexes = url.match(/\/([a-f0-9]+(?:-[a-f0-9]+)*)\.png/)
+          if (hexes) {
+            const points = hexes[1].split('-').map(h => parseInt(h, 16))
+            this.emojiMap[name] = String.fromCodePoint(...points)
+          }
+        }
+        localStorage.setItem(KEY, JSON.stringify({ ts: Date.now(), data: this.emojiMap }))
+      } catch { /* ignore */ }
+    },
+
+    async fetchData() {
+      try {
+        const resp = await fetch('data.json')
+        if (!resp.ok) throw new Error(`HTTP ${resp.status}`)
+        const data = await resp.json()
+
+        const repos = []
+        const langMap = new Map()
+
+        for (const [lang, arr] of Object.entries(data)) {
+          if (!Array.isArray(arr)) continue
+          const langName = lang === 'miscellaneous' ? 'Other' : lang
+          let count = 0
+          for (const repo of arr) {
+            repos.push({ ...repo, language: repo.language || langName })
+            count++
+          }
+          const existing = langMap.get(langName)
+          if (existing) {
+            existing.count += count
+          } else {
+            langMap.set(langName, { name: langName, count })
+          }
+        }
+
+        this.allRepos = repos
+        this.languages = [...langMap.values()].sort((a, b) => b.count - a.count)
+      } catch (e) {
+        this.error = `Failed to load data: ${e.message}`
+      } finally {
+        this.loading = false
+      }
+    },
+  },
+
+  mounted() {
+    this.fetchData()
+    this.fetchEmojis()
+  },
+}).mount('#app')
+</script>
+</body>
+</html>
