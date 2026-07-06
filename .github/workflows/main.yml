@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Awesome generator
-        uses: simonecorsi/mawesome@v2
+        uses: SwordfishLabs/simonecorsi-mawesome@v2
         with:
           template-path: "template/README.ejs"
           api-token: ${{ secrets.API_TOKEN }}
