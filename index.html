@@ -90,6 +90,7 @@ tailwind.config = {
         <option value="name">{{ t('sortName') }}</option>
         <option value="updated">{{ t('sortUpdated') }}</option>
         <option value="created">{{ t('sortCreated') }}</option>
+        <option value="starred">{{ t('sortStarred') }}</option>
       </select>
 
       <button @click="toggleAllLanguages"
@@ -229,6 +230,7 @@ const I18N = {
     sortName: '排序: 名称',
     sortUpdated: '排序: 最近更新',
     sortCreated: '排序: 创建时间',
+    sortStarred: '排序: Star 时间',
     allLang: '全部',
     selectedLang: '已选',
     colProject: '项目',
@@ -255,6 +257,7 @@ const I18N = {
     sortName: 'Sort: Name',
     sortUpdated: 'Sort: Recently Updated',
     sortCreated: 'Sort: Recently Created',
+    sortStarred: 'Sort: Starred Date',
     allLang: 'All',
     selectedLang: 'selected',
     colProject: 'Project',
@@ -282,7 +285,7 @@ createApp({
       languages: [],
       selectedLangs: new Set(),
       search: '',
-      sortBy: 'stars',
+      sortBy: 'starred',
       page: 1,
       perPage: 20,
       loading: true,
@@ -322,6 +325,8 @@ createApp({
         repos = [...repos].sort((a, b) => new Date(b.updated_at) - new Date(a.updated_at))
       } else if (key === 'created') {
         repos = [...repos].sort((a, b) => new Date(b.created_at) - new Date(a.created_at))
+      } else if (key === 'starred') {
+        repos = [...repos].sort((a, b) => new Date(b.starred_at || 0).getTime() - new Date(a.starred_at || 0).getTime())
       }
 
       return repos
