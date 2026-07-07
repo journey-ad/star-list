@@ -4,21 +4,21 @@
 
 ## Table of Contents
 
+* [Rust](#rust)
+* [Shell](#shell)
+* [C++](#c)
 * [JavaScript](#javascript)
 * [Python](#python)
-* [C#](#c)
-* [Shell](#shell)
-* [C](#c-1)
+* [C#](#c-1)
+* [C](#c-2)
 * [TypeScript](#typescript)
 * [Kotlin](#kotlin)
 * [Swift](#swift)
 * [miscellaneous](#miscellaneous)
-* [Rust](#rust)
-* [Go](#go)
 * [HTML](#html)
 * [Objective-C](#objective-c)
+* [Go](#go)
 * [Java](#java)
-* [C++](#c-2)
 * [Vue](#vue)
 * [Dart](#dart)
 * [Batchfile](#batchfile)
@@ -48,6 +48,202 @@
 * [QML](#qml)
 * [Matlab](#matlab)
 * [LiveScript](#livescript)
+
+## Rust
+
+* [lvzhenbo/115-plus-desktop](https://github.com/lvzhenbo/115-plus-desktop) - 115+ 是一个基于 115 网盘开放平台的第三方开源桌面客户端
+
+* [microsoft/RustTraining](https://github.com/microsoft/RustTraining) - Beginner, advanced, expert level Rust training material
+
+* [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+
+* [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
+
+* [qaz741wsd856/warden-worker](https://github.com/qaz741wsd856/warden-worker) - A Bitwarden-compatible server for Cloudflare Workers
+
+* [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
+
+* [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
+
+* [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
+
+* [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
+
+* [napi-rs/node-rs](https://github.com/napi-rs/node-rs) - Node.js bindings ❤️ Rust crates
+
+* [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+
+* [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) - 🦀 Rust based dynamic DNS (DDNS) updater for Cloudflare
+
+* [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
+
+* [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
+
+* [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
+
+* [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
+
+* [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
+
+* [chinuno-usami/ava\_dash](https://github.com/chinuno-usami/ava_dash) -
+
+* [gwy15/danmu2ass](https://github.com/gwy15/danmu2ass) - 将哔哩哔哩的 弹幕 转化为 ass 字幕文件，实时预览
+
+* [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+
+* [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+
+* [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
+
+* [majimboo/mviewer](https://github.com/majimboo/mviewer) - Rust-native MView viewer, converter, and glTF exporter for Marmoset .mview scenes
+
+* [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+
+* [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
+
+## Shell
+
+* [wnlen/clash-for-linux](https://github.com/wnlen/clash-for-linux) - 🐧 一个更完整、更优雅的 Linux Clash / Mihomo 代理运行平台
+
+* [xykt/NetQuality](https://github.com/xykt/NetQuality) - 网络质量检测脚本 - Network Quality Check Script
+
+* [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
+
+* [ccbkkb/MicroWARP](https://github.com/ccbkkb/MicroWARP) - 🚀 An 800KB RAM ultra-lightweight Cloudflare WARP SOCKS5 proxy in Docker. 仅需 800KB 内存的纯内核态 Cloudflare WARP 代理 - Docker
+
+* [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
+
+* [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+
+* [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
+
+* [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) - Run sing-box/mihomo as client in shell
+
+* [xykt/IPQuality](https://github.com/xykt/IPQuality) - IP质量检测脚本 - IP Quality Check Script
+
+* [jorgebucaran/nvm.fish](https://github.com/jorgebucaran/nvm.fish) - The Node.js version manager you'll adore, crafted just for Fish
+
+* [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine.
+
+* [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
+
+* [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fangsong typeface project
+
+* [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边
+
+* [huangqian8/SwitchScript](https://github.com/huangqian8/SwitchScript) - 大气层个人整合包生成脚本
+
+* [Pal3love/Source-Han-TrueType](https://github.com/Pal3love/Source-Han-TrueType) - TrueType version of Source Han Sans, Source Han Serif and Source Han Mono
+
+* [UjuiUjuMandan/EhViewer](https://github.com/UjuiUjuMandan/EhViewer) - EhViewer overhauled with censorship circumvention and no more
+
+* [hsfzxjy/Bad-Apple-Font](https://github.com/hsfzxjy/Bad-Apple-Font) - Playing Bad Apple!! with HarfBuzz WASM shaper.
+
+* [mklement0/fileicon](https://github.com/mklement0/fileicon) - macOS CLI for managing custom icons for files and folders
+
+* [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) - Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)
+
+* [iranee/qnap-openlist-webdav](https://github.com/iranee/qnap-openlist-webdav) - 一款挂载多个云盘的工具
+
+* [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
+
+* [mlch911/one-key-hidpi](https://github.com/mlch911/one-key-hidpi) - Enable macOS HiDPI and have a native setting.
+
+* [Mr-xn/subdomain\_shell](https://github.com/Mr-xn/subdomain_shell) - 一键调用subfinder+ksubdomain+httpx 强强联合 从域名发现-->域名验证-->获取域名标题、状态码以及响应大小 最后保存结果,简化重复操作命令
+
+* [goozp/zPhal-dockerfiles](https://github.com/goozp/zPhal-dockerfiles) - dockerfiles that support zPhal's working environment
+
+* [alex000kim/nsfw\_data\_scraper](https://github.com/alex000kim/nsfw_data_scraper) - Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier
+
+* [darkhandz/XPS15-9550-Mojave](https://github.com/darkhandz/XPS15-9550-Mojave) -  DELL XPS15 9550 10.14 黑苹果 配置
+
+* [dustinkirkland/hollywood](https://github.com/dustinkirkland/hollywood) -
+
+* [oblique/create\_ap](https://github.com/oblique/create_ap) - \[NOT MAINTAINED] This script creates a NATed or Bridged WiFi Access Point.
+
+* [keeferrourke/la-capitaine-icon-theme](https://github.com/keeferrourke/la-capitaine-icon-theme) - La Capitaine is an icon pack designed to integrate with most desktop environments. The set of icons takes inspiration from the latest iterations of macOS and Google's Material Design.
+
+* [drizzt/vps2arch](https://github.com/drizzt/vps2arch) - The fastest way to convert a VPS to Arch Linux! Mirror of https://gitlab.com/drizzt/vps2arch/
+
+* [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
+
+* [91yun/serverspeeder](https://github.com/91yun/serverspeeder) - 锐速破解版
+
+* [hillwoodroc/winetricks-zh](https://github.com/hillwoodroc/winetricks-zh) - A windows applications setup wizard for Chinese wine users
+
+* [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
+
+## C++
+
+* [anhkgg/SuperRDP](https://github.com/anhkgg/SuperRDP) - Super RDPWrap
+
+* [allenk/GeminiWatermarkTool](https://github.com/allenk/GeminiWatermarkTool) - VEO / Gemini 3.5 Nano Banana Pro watermark maintenance tool
+
+* [Daft-Freak/CnC\_and\_Red\_Alert](https://github.com/Daft-Freak/CnC_and_Red_Alert) - Command and Conquer: Red Alert
+
+* [Vita3K/Vita3K](https://github.com/Vita3K/Vita3K) - Experimental PlayStation Vita emulator
+
+* [Vita3K/Vita3K-Android](https://github.com/Vita3K/Vita3K-Android) - Public releases and CI for the Vita3K Android app
+
+* [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - Offline translation model server with low resource consumption, fast speed, and private deployment capability. 低资源占用速度快可私有部署的离线翻译模型服务器
+
+* [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - An MCP-based chatbot | 一个基于MCP的聊天机器人
+
+* [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
+
+* [praydog/UEVR](https://github.com/praydog/UEVR) - Universal Unreal Engine VR Mod (4.8 - 5.4)
+
+* [libpinyin/ibus-libpinyin](https://github.com/libpinyin/ibus-libpinyin) -
+
+* [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) - 第三方B站客户端，目前可以运行在PC全平台、PSVita、PS4 、Xbox 和 Nintendo Switch上
+
+* [agracio/edge-js](https://github.com/agracio/edge-js) - Run .NET and Node.js code in-process on Windows, MacOS, and Linux
+
+* [fevrax/navicat-keygen](https://github.com/fevrax/navicat-keygen) - Navicat Premium 15 linux 安装与激活 ArchLinux  备份已经被删除的 navicat-keygen 项目！
+
+* [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
+
+* [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
+
+* [zhongyang219/SimpleNotePad](https://github.com/zhongyang219/SimpleNotePad) - 这是一个可以代替Windows记事本的软件，除了包含记事本原有的功能外，还有编码格式转换、十六进制查看编辑、文件二进制比较、编码批量转换的功能。
+
+* [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN,  and ACNet.
+
+* [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
+
+* [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+
+* [VoodooI2C/VoodooI2C](https://github.com/VoodooI2C/VoodooI2C) - Intel I2C controller and slave device drivers for macOS
+
+* [markondej/fm\_transmitter](https://github.com/markondej/fm_transmitter) - Raspberry Pi as FM transmitter
+
+* [oyyd/wasm-opencc](https://github.com/oyyd/wasm-opencc) - OpenCC compiled by Emscripten so that you can run it on browsers or nodejs without compiling.
+
+* [Musashii-kun/paperbak](https://github.com/Musashii-kun/paperbak) - Back up your files on ordinary paper in the form of oversized bitmaps
+
+* [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC) - Library for conversion between Traditional and Simplified Chinese
+
+* [Tw1ddle/geometrize](https://github.com/Tw1ddle/geometrize) - :white\_square\_button: Geometrize is a desktop app that geometrizes images into geometric primitives
+
+* [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
+
+* [opentoonz/opentoonz](https://github.com/opentoonz/opentoonz) - OpenToonz - An open-source full-featured 2D animation creation software
+
+* [PointTeam/PointDownload](https://github.com/PointTeam/PointDownload) - homepage
+
+* [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
+
+* [snowie2000/mactype](https://github.com/snowie2000/mactype) - Better font rendering for Windows.
+
+* [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues.
+
+* [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+
+* [lltcggie/waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe) - waifu2xのCaffe版
+
+* [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+
+* [sinpolib/sokit](https://github.com/sinpolib/sokit) - Sokit is a TCP & UDP package send / receive / transfer tool
 
 ## JavaScript
 
@@ -108,8 +304,6 @@
 * [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
 
 * [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) - Moe counter badge with multiple themes! - 多种风格可选的萌萌计数器
-
-* [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
 
 * [gaotianliuyun/gao](https://github.com/gaotianliuyun/gao) - FongMi影视和tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
 
@@ -589,6 +783,18 @@
 
 * [floatinghotpot/qqbot](https://github.com/floatinghotpot/qqbot) - :fire: SmartQQ Robot and API Server, powered by node.js
 
+* [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
+
+* [os-js/OS.js](https://github.com/os-js/OS.js) - OS.js - JavaScript Web Desktop Platform
+
+* [subprotocol/verlet-js](https://github.com/subprotocol/verlet-js) - A simple Verlet physics engine written in javascript
+
+* [briangonzalez/jquery.adaptive-backgrounds.js](https://github.com/briangonzalez/jquery.adaptive-backgrounds.js) - 🦎 A jQuery plugin for extracting the dominant color from images and applying the color to their parent.
+
+* [ben174/git-draw](https://github.com/ben174/git-draw) - Allows you to draw in your github heatmap
+
+* [DIYgod/Ticktack](https://github.com/DIYgod/Ticktack) - 人生只有 900 个月
+
 ## Python
 
 * [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) - Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
@@ -635,7 +841,7 @@
 
 * [Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image) -
 
-* [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
+* [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.
 
 * [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
 
@@ -889,6 +1095,8 @@
 
 * [m13253/BiliDan](https://github.com/m13253/BiliDan) - Play videos on Bilibili.com with MPV and Danmaku2ASS
 
+* [yanunon/NeteaseCloudMusic](https://github.com/yanunon/NeteaseCloudMusic) - 网易云音乐
+
 ## C\#
 
 * [jxlpzqc/TMSpeech](https://github.com/jxlpzqc/TMSpeech) - 腾讯会议摸鱼工具
@@ -943,73 +1151,11 @@
 
 * [xupefei/Locale-Emulator](https://github.com/xupefei/Locale-Emulator) - Yet Another System Region and Language Simulator
 
-## Shell
+* [mono/monodevelop](https://github.com/mono/monodevelop) - MonoDevelop is a cross platform .NET IDE
 
-* [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
+* [jshackles/idle\_master](https://github.com/jshackles/idle_master) - Get your Steam Trading Cards the Easy Way
 
-* [ccbkkb/MicroWARP](https://github.com/ccbkkb/MicroWARP) - 🚀 An 800KB RAM ultra-lightweight Cloudflare WARP SOCKS5 proxy in Docker. 仅需 800KB 内存的纯内核态 Cloudflare WARP 代理 - Docker
-
-* [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
-
-* [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
-
-* [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
-
-* [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) - Run sing-box/mihomo as client in shell
-
-* [xykt/IPQuality](https://github.com/xykt/IPQuality) - IP质量检测脚本 - IP Quality Check Script
-
-* [jorgebucaran/nvm.fish](https://github.com/jorgebucaran/nvm.fish) - The Node.js version manager you'll adore, crafted just for Fish
-
-* [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine.
-
-* [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
-
-* [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fangsong typeface project
-
-* [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边
-
-* [huangqian8/SwitchScript](https://github.com/huangqian8/SwitchScript) - 大气层个人整合包生成脚本
-
-* [Pal3love/Source-Han-TrueType](https://github.com/Pal3love/Source-Han-TrueType) - TrueType version of Source Han Sans, Source Han Serif and Source Han Mono
-
-* [UjuiUjuMandan/EhViewer](https://github.com/UjuiUjuMandan/EhViewer) - EhViewer overhauled with censorship circumvention and no more
-
-* [hsfzxjy/Bad-Apple-Font](https://github.com/hsfzxjy/Bad-Apple-Font) - Playing Bad Apple!! with HarfBuzz WASM shaper.
-
-* [mklement0/fileicon](https://github.com/mklement0/fileicon) - macOS CLI for managing custom icons for files and folders
-
-* [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) - Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)
-
-* [iranee/qnap-openlist-webdav](https://github.com/iranee/qnap-openlist-webdav) - 一款挂载多个云盘的工具
-
-* [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
-
-* [mlch911/one-key-hidpi](https://github.com/mlch911/one-key-hidpi) - Enable macOS HiDPI and have a native setting.
-
-* [Mr-xn/subdomain\_shell](https://github.com/Mr-xn/subdomain_shell) - 一键调用subfinder+ksubdomain+httpx 强强联合 从域名发现-->域名验证-->获取域名标题、状态码以及响应大小 最后保存结果,简化重复操作命令
-
-* [goozp/zPhal-dockerfiles](https://github.com/goozp/zPhal-dockerfiles) - dockerfiles that support zPhal's working environment
-
-* [alex000kim/nsfw\_data\_scraper](https://github.com/alex000kim/nsfw_data_scraper) - Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier
-
-* [darkhandz/XPS15-9550-Mojave](https://github.com/darkhandz/XPS15-9550-Mojave) -  DELL XPS15 9550 10.14 黑苹果 配置
-
-* [dustinkirkland/hollywood](https://github.com/dustinkirkland/hollywood) -
-
-* [oblique/create\_ap](https://github.com/oblique/create_ap) - \[NOT MAINTAINED] This script creates a NATed or Bridged WiFi Access Point.
-
-* [keeferrourke/la-capitaine-icon-theme](https://github.com/keeferrourke/la-capitaine-icon-theme) - La Capitaine is an icon pack designed to integrate with most desktop environments. The set of icons takes inspiration from the latest iterations of macOS and Google's Material Design.
-
-* [drizzt/vps2arch](https://github.com/drizzt/vps2arch) - The fastest way to convert a VPS to Arch Linux! Mirror of https://gitlab.com/drizzt/vps2arch/
-
-* [adobe-fonts/source-han-serif](https://github.com/adobe-fonts/source-han-serif) - Source Han Serif | 思源宋体 | 思源宋體 | 思源宋體 香港 | 源ノ明朝 | 본명조
-
-* [91yun/serverspeeder](https://github.com/91yun/serverspeeder) - 锐速破解版
-
-* [hillwoodroc/winetricks-zh](https://github.com/hillwoodroc/winetricks-zh) - A windows applications setup wizard for Chinese wine users
-
-* [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
+* [Guad/GTACoop](https://github.com/Guad/GTACoop) - An online co-op modification for GTA5
 
 ## C
 
@@ -1083,6 +1229,8 @@
 
 * [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 
+* [snooda/net-speeder](https://github.com/snooda/net-speeder) - net-speeder 在高延迟不稳定链路上优化单线程下载速度
+
 ## TypeScript
 
 * [Lin-arm/GKD\_subscription](https://github.com/Lin-arm/GKD_subscription) - 用于安卓 GKD 的第三方订阅规则 (👻Fork版)
@@ -1102,6 +1250,8 @@
 * [ZToolsCenter/ZTools](https://github.com/ZToolsCenter/ZTools) - 一个高性能、可扩展的应用启动器和插件平台  uTools 的开源实现 | 支持 macOS 和 Windows
 
 * [huangkaoya/redalert2](https://github.com/huangkaoya/redalert2) - 红色警戒2源代码 Red Alert2 Source Code
+
+* [black-ant/Ant-Browser](https://github.com/black-ant/Ant-Browser) - 指纹浏览器
 
 * [Martian-Engineering/lossless-claw](https://github.com/Martian-Engineering/lossless-claw) - Lossless Claw — LCM (Lossless Context Management) plugin for OpenClaw
 
@@ -1174,8 +1324,6 @@
 * [journey-ad/CloudBoard](https://github.com/journey-ad/CloudBoard) - Open-source Windows & iOS clipboard synchronization tool - 开源的Windows & iOS剪贴板同步工具
 
 * [nickscamara/open-deep-research](https://github.com/nickscamara/open-deep-research) - An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl
-
-* [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
 
 * [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan and fix React performance issues
 
@@ -1351,6 +1499,8 @@
 
 * [youzan/vant](https://github.com/youzan/vant) - A lightweight, customizable Vue UI library for mobile web apps.
 
+* [justjavac/wechat-miniapp-radar](https://github.com/justjavac/wechat-miniapp-radar) - 小程序雷达：AI 驱动的小程序技术选型、趋势追踪和迁移诊断工具
+
 * [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 
 * [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
@@ -1400,6 +1550,10 @@
 * [laobubu/HyperMD](https://github.com/laobubu/HyperMD) - A WYSIWYG Markdown Editor for browsers. Break the Wall between writing and previewing.
 
 * [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
+
+* [briangonzalez/rgbaster.js](https://github.com/briangonzalez/rgbaster.js) - 🎨 A simple library for extracting dominant colors from images.
+
+* [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 
 ## Kotlin
 
@@ -1595,8 +1749,6 @@
 
 * [tnfe/awesome-blackmagic](https://github.com/tnfe/awesome-blackmagic) - 🎭 ♠♥奇技淫巧 💠黑魔法大集合♦♣ 👺
 
-* [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总 :100:
-
 * [jiangfengming/webpack-and-spa-guide](https://github.com/jiangfengming/webpack-and-spa-guide) - Webpack 4 和单页应用入门
 
 * [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
@@ -1671,57 +1823,119 @@
 
 * [Homebrew/legacy-homebrew](https://github.com/Homebrew/legacy-homebrew) - 💀 The former home of Homebrew/homebrew (deprecated)
 
-## Rust
+* [tinyc-z/adcdownload](https://github.com/tinyc-z/adcdownload) - 苹果开发者中心资源国内接力
 
-* [microsoft/RustTraining](https://github.com/microsoft/RustTraining) - Beginner, advanced, expert level Rust training material
+* [d1sm/finalspeed](https://github.com/d1sm/finalspeed) - 高速双边加速软件,在高丢包,延迟环境下仍可达到90%物理带宽利用率.
 
-* [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+* [lmm214/slimbox2-lite](https://github.com/lmm214/slimbox2-lite) - 图片灯箱自适应，再也不怕插入高清图啦！
 
-* [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
+## HTML
 
-* [qaz741wsd856/warden-worker](https://github.com/qaz741wsd856/warden-worker) - A Bitwarden-compatible server for Cloudflare Workers
+* [puaclaw/PUAClaw](https://github.com/puaclaw/PUAClaw) - Claw 们终将接管世界，PUAClaw is All You Need
 
-* [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
+* [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) - 开源的泛中日韩像素字体，黑体风格
 
-* [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
+* [oxalorg/sakura](https://github.com/oxalorg/sakura) - :cherry\_blossom: a minimal css framework/theme.
 
-* [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
+* [Nigh/I-wanna-clean-keyboard](https://github.com/Nigh/I-wanna-clean-keyboard) - Block the keyboard input while you were eating instant noodles on your laptop keyboard.
 
-* [napi-rs/node-rs](https://github.com/napi-rs/node-rs) - Node.js bindings ❤️ Rust crates
+* [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
-* [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+* [dbohdan/classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots
 
-* [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) - 🦀 Rust based dynamic DNS (DDNS) updater for Cloudflare
+* [sudoskys/StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook) - How do we integrate AI generation tools into actual work? | 关于 Ai 绘画的Wiki | Wiki about Ai painting | Prompts Engineering| 指南 Guide | Seeking Maintainer\&Translator🙌
 
-* [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
+* [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) - 开源的泛中日韩像素字体，黑体风格
 
-* [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
+* [HZFE/awesome-interview](https://github.com/HZFE/awesome-interview) - 剑指前端 Offer
 
-* [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
+* [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial），以最新的 ECMAScript 规范为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。
 
-* [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
+* [A-Soul-Database/A-Soul-Database](https://github.com/A-Soul-Database/A-Soul-Database) - A-Soul db A-Soul第三方直播数据
 
-* [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
+* [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 
-* [chinuno-usami/ava\_dash](https://github.com/chinuno-usami/ava_dash) -
+* [Momo707577045/media-source-extract](https://github.com/Momo707577045/media-source-extract) - MediaSource 视频提取教程
 
-* [gwy15/danmu2ass](https://github.com/gwy15/danmu2ass) - 将哔哩哔哩的 弹幕 转化为 ass 字幕文件，实时预览
+* [ecomfe/fontmin-app](https://github.com/ecomfe/fontmin-app) - fontmin as an OS X, Linux and Windows app
 
-* [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+* [RevillWeb/img-2](https://github.com/RevillWeb/img-2) - Replace \<img /> elements with \<img-2> to automatically pre-cache images and improve page performance.
 
-* [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+* [mqycn/huile8](https://github.com/mqycn/huile8) - 英语差等生必备的 vscode 插件，解决 单词不会读、单词不认识的痛点
 
-* [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
+* [HFIProgramming/mikutap](https://github.com/HFIProgramming/mikutap) - A Mainland China Friendly and independent version extracted from https://aidn.jp/mikutap
 
-* [majimboo/mviewer](https://github.com/majimboo/mviewer) - Rust-native MView viewer, converter, and glTF exporter for Marmoset .mview scenes
+* [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular\_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 
-* [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+* [nathanreyes/v-calendar](https://github.com/nathanreyes/v-calendar) - An elegant calendar and datepicker plugin for Vue.
 
-* [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
+* [SolidZORO/zpix-pixel-font](https://github.com/SolidZORO/zpix-pixel-font) - Zpix (最像素) is a pixel font (中文像素字体), supporting English, Chinese (Simplified + Traditional) and Japanese.
+
+* [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+
+* [alienzhou/frontend-tech-list](https://github.com/alienzhou/frontend-tech-list) - 📝 Frontend Tech List for Developers 💡
+
+* [diafygi/webrtc-ips](https://github.com/diafygi/webrtc-ips) - Demo: https://diafygi.github.io/webrtc-ips/
+
+* [52cik/bilibili-haruna](https://github.com/52cik/bilibili-haruna) - B站看板娘集合 (live2d)
+
+* [bangumi/api](https://github.com/bangumi/api) - Build your app on Bangumi
+
+* [sofish/typo.css](https://github.com/sofish/typo.css) - 中文网页重设与排版 CSS，面向现代中文阅读优化字体、行高、CJK 断行、中西文间距与着重号。
+
+* [kagurazakayashi/EvergardenConverter](https://github.com/kagurazakayashi/EvergardenConverter) - 📜 将英文字符转换为『紫罗兰永恒花园』（『ヴァイオレット・エヴァーガーデン』）中的文字。
+
+* [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
+
+* [YoneChen/WebVR-helloworld](https://github.com/YoneChen/WebVR-helloworld) - a webVR 'hello world' project base in three.js
+
+* [samacs/simple\_html\_dom](https://github.com/samacs/simple_html_dom) - Just a Simple HTML DOM library fork. (http://simplehtmldom.sourceforge.net/)
+
+* [greatghoul/sibi](https://github.com/greatghoul/sibi) - V2EX 撕逼大战
+
+* [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
+
+* [shd101wyy/markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) - One of the 'BEST' markdown preview extensions for Atom editor!
+
+* [mumuy/widget](https://github.com/mumuy/widget) - 基于jquery的插件库 - 轮播/标签页/滚动条/下拉框/对话框/搜索提示/城市三级联动/日历\_A set of widgets based on jQuery
+
+* [swisnl/jQuery-contextMenu](https://github.com/swisnl/jQuery-contextMenu) - jQuery contextMenu plugin & polyfill
+
+* [simov/simplr-smoothscroll](https://github.com/simov/simplr-smoothscroll) - Smooth scrolling in all browsers
+
+## Objective-C
+
+* [mikepj/XRG](https://github.com/mikepj/XRG) - System monitor for macOS.
+
+* [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!
+
+* [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free open-source macOS firewall
+
+* [Tencent/lemon-cleaner](https://github.com/Tencent/lemon-cleaner) - 腾讯柠檬清理是针对macOS系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
+
+* [paradiseduo/tcping](https://github.com/paradiseduo/tcping) - tcping command, written with Objective-C, on macOS,tcping for mac,ping over a tcp connection
+
+* [felixhageloh/uebersicht](https://github.com/felixhageloh/uebersicht) - ˈyːbɐˌzɪçt
+
+* [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - A plugin for Mac WeChat
+
+* [TKkk-iOSer/WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) - 微信小助手
+
+* [CodeTips/BaiduNetdiskPlugin-macOS](https://github.com/CodeTips/BaiduNetdiskPlugin-macOS) - For macOS.百度网盘 破解SVIP、下载速度限制~
+
+* [Nyx0uf/qlImageSize](https://github.com/Nyx0uf/qlImageSize) - QuickLook and Spotlight plugins to display the dimensions, size and DPI of an image in the title bar instead of the filename. Also preview some unsupported formats like WebP & bpg.
+
+* [HexFiend/HexFiend](https://github.com/HexFiend/HexFiend) - A fast and clever hex editor for macOS
+
+* [vayn/asoiaf](https://github.com/vayn/asoiaf) - 冰与火之歌中文维基 http://asoiaf.huiji.wiki iOS App
+
+* [typcn/bilibili-mac-client](https://github.com/typcn/bilibili-mac-client) - An unofficial bilibili client for mac
+
+* [MartianZ/DynamicLyrics](https://github.com/MartianZ/DynamicLyrics) - DynamicLyrics, free iTunes assistant designed for u.
+
+* [iampennyli/iTunesLyricApp](https://github.com/iampennyli/iTunesLyricApp) - The extension of itunes to show lyric.
 
 ## Go
-
-* [black-ant/Ant-Browser](https://github.com/black-ant/Ant-Browser) - 指纹浏览器
 
 * [AlliotTech/cloudflared\_proxy](https://github.com/AlliotTech/cloudflared_proxy) - Cloudflare Tunnel client (formerly Argo Tunnel) ,support proxy. https://www.iots.vip/post/cloudflare-tunnel-proxy-support   fork from :https://github.com/cloudflare/cloudflared/pull/1020 https://github.com/Asutorufa
 
@@ -1815,106 +2029,6 @@
 
 * [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
 
-## HTML
-
-* [puaclaw/PUAClaw](https://github.com/puaclaw/PUAClaw) - Claw 们终将接管世界，PUAClaw is All You Need
-
-* [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) - 开源的泛中日韩像素字体，黑体风格
-
-* [oxalorg/sakura](https://github.com/oxalorg/sakura) - :cherry\_blossom: a minimal css framework/theme.
-
-* [Nigh/I-wanna-clean-keyboard](https://github.com/Nigh/I-wanna-clean-keyboard) - Block the keyboard input while you were eating instant noodles on your laptop keyboard.
-
-* [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-
-* [dbohdan/classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots
-
-* [sudoskys/StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook) - How do we integrate AI generation tools into actual work? | 关于 Ai 绘画的Wiki | Wiki about Ai painting | Prompts Engineering| 指南 Guide | Seeking Maintainer\&Translator🙌
-
-* [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) - 开源的泛中日韩像素字体，黑体风格
-
-* [HZFE/awesome-interview](https://github.com/HZFE/awesome-interview) - 剑指前端 Offer
-
-* [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial），以最新的 ECMAScript 规范为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。
-
-* [A-Soul-Database/A-Soul-Database](https://github.com/A-Soul-Database/A-Soul-Database) - A-Soul db A-Soul第三方直播数据
-
-* [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
-
-* [Momo707577045/media-source-extract](https://github.com/Momo707577045/media-source-extract) - MediaSource 视频提取教程
-
-* [ecomfe/fontmin-app](https://github.com/ecomfe/fontmin-app) - fontmin as an OS X, Linux and Windows app
-
-* [RevillWeb/img-2](https://github.com/RevillWeb/img-2) - Replace \<img /> elements with \<img-2> to automatically pre-cache images and improve page performance.
-
-* [mqycn/huile8](https://github.com/mqycn/huile8) - 英语差等生必备的 vscode 插件，解决 单词不会读、单词不认识的痛点
-
-* [HFIProgramming/mikutap](https://github.com/HFIProgramming/mikutap) - A Mainland China Friendly and independent version extracted from https://aidn.jp/mikutap
-
-* [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular\_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
-
-* [nathanreyes/v-calendar](https://github.com/nathanreyes/v-calendar) - An elegant calendar and datepicker plugin for Vue.
-
-* [SolidZORO/zpix-pixel-font](https://github.com/SolidZORO/zpix-pixel-font) - Zpix (最像素) is a pixel font (中文像素字体), supporting English, Chinese (Simplified + Traditional) and Japanese.
-
-* [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
-
-* [alienzhou/frontend-tech-list](https://github.com/alienzhou/frontend-tech-list) - 📝 Frontend Tech List for Developers 💡
-
-* [diafygi/webrtc-ips](https://github.com/diafygi/webrtc-ips) - Demo: https://diafygi.github.io/webrtc-ips/
-
-* [52cik/bilibili-haruna](https://github.com/52cik/bilibili-haruna) - B站看板娘集合 (live2d)
-
-* [bangumi/api](https://github.com/bangumi/api) - Build your app on Bangumi
-
-* [sofish/typo.css](https://github.com/sofish/typo.css) - 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
-
-* [kagurazakayashi/EvergardenConverter](https://github.com/kagurazakayashi/EvergardenConverter) - 📜 将英文字符转换为『紫罗兰永恒花园』（『ヴァイオレット・エヴァーガーデン』）中的文字。
-
-* [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
-
-* [YoneChen/WebVR-helloworld](https://github.com/YoneChen/WebVR-helloworld) - a webVR 'hello world' project base in three.js
-
-* [samacs/simple\_html\_dom](https://github.com/samacs/simple_html_dom) - Just a Simple HTML DOM library fork. (http://simplehtmldom.sourceforge.net/)
-
-* [greatghoul/sibi](https://github.com/greatghoul/sibi) - V2EX 撕逼大战
-
-* [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
-
-* [shd101wyy/markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced) - One of the 'BEST' markdown preview extensions for Atom editor!
-
-* [mumuy/widget](https://github.com/mumuy/widget) - 基于jquery的插件库 - 轮播/标签页/滚动条/下拉框/对话框/搜索提示/城市三级联动/日历\_A set of widgets based on jQuery
-
-* [swisnl/jQuery-contextMenu](https://github.com/swisnl/jQuery-contextMenu) - jQuery contextMenu plugin & polyfill
-
-* [simov/simplr-smoothscroll](https://github.com/simov/simplr-smoothscroll) - Smooth scrolling in all browsers
-
-## Objective-C
-
-* [mikepj/XRG](https://github.com/mikepj/XRG) - System monitor for macOS.
-
-* [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!
-
-* [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free open-source macOS firewall
-
-* [Tencent/lemon-cleaner](https://github.com/Tencent/lemon-cleaner) - 腾讯柠檬清理是针对macOS系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
-
-* [paradiseduo/tcping](https://github.com/paradiseduo/tcping) - tcping command, written with Objective-C, on macOS,tcping for mac,ping over a tcp connection
-
-* [felixhageloh/uebersicht](https://github.com/felixhageloh/uebersicht) - ˈyːbɐˌzɪçt
-
-* [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - A plugin for Mac WeChat
-
-* [TKkk-iOSer/WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) - 微信小助手
-
-* [CodeTips/BaiduNetdiskPlugin-macOS](https://github.com/CodeTips/BaiduNetdiskPlugin-macOS) - For macOS.百度网盘 破解SVIP、下载速度限制~
-
-* [Nyx0uf/qlImageSize](https://github.com/Nyx0uf/qlImageSize) - QuickLook and Spotlight plugins to display the dimensions, size and DPI of an image in the title bar instead of the filename. Also preview some unsupported formats like WebP & bpg.
-
-* [HexFiend/HexFiend](https://github.com/HexFiend/HexFiend) - A fast and clever hex editor for macOS
-
-* [vayn/asoiaf](https://github.com/vayn/asoiaf) - 冰与火之歌中文维基 http://asoiaf.huiji.wiki iOS App
-
 ## Java
 
 * [pxb1988/dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files
@@ -1961,71 +2075,7 @@
 
 * [maoruibin/TranslateApp](https://github.com/maoruibin/TranslateApp) - :memo: A translations app without interruptions, copy words and translate directly, show result by top view.
 
-## C++
-
-* [allenk/GeminiWatermarkTool](https://github.com/allenk/GeminiWatermarkTool) - VEO / Gemini 3.5 Nano Banana Pro watermark maintenance tool
-
-* [Daft-Freak/CnC\_and\_Red\_Alert](https://github.com/Daft-Freak/CnC_and_Red_Alert) - Command and Conquer: Red Alert
-
-* [Vita3K/Vita3K](https://github.com/Vita3K/Vita3K) - Experimental PlayStation Vita emulator
-
-* [Vita3K/Vita3K-Android](https://github.com/Vita3K/Vita3K-Android) - Public releases and CI for the Vita3K Android app
-
-* [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - Offline translation model server with low resource consumption, fast speed, and private deployment capability. 低资源占用速度快可私有部署的离线翻译模型服务器
-
-* [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - An MCP-based chatbot | 一个基于MCP的聊天机器人
-
-* [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
-
-* [praydog/UEVR](https://github.com/praydog/UEVR) - Universal Unreal Engine VR Mod (4.8 - 5.4)
-
-* [libpinyin/ibus-libpinyin](https://github.com/libpinyin/ibus-libpinyin) -
-
-* [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) - 第三方B站客户端，目前可以运行在PC全平台、PSVita、PS4 、Xbox 和 Nintendo Switch上
-
-* [agracio/edge-js](https://github.com/agracio/edge-js) - Run .NET and Node.js code in-process on Windows, MacOS, and Linux
-
-* [fevrax/navicat-keygen](https://github.com/fevrax/navicat-keygen) - Navicat Premium 15 linux 安装与激活 ArchLinux  备份已经被删除的 navicat-keygen 项目！
-
-* [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
-
-* [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
-
-* [zhongyang219/SimpleNotePad](https://github.com/zhongyang219/SimpleNotePad) - 这是一个可以代替Windows记事本的软件，除了包含记事本原有的功能外，还有编码格式转换、十六进制查看编辑、文件二进制比较、编码批量转换的功能。
-
-* [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN,  and ACNet.
-
-* [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
-
-* [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-
-* [VoodooI2C/VoodooI2C](https://github.com/VoodooI2C/VoodooI2C) - Intel I2C controller and slave device drivers for macOS
-
-* [markondej/fm\_transmitter](https://github.com/markondej/fm_transmitter) - Raspberry Pi as FM transmitter
-
-* [oyyd/wasm-opencc](https://github.com/oyyd/wasm-opencc) - OpenCC compiled by Emscripten so that you can run it on browsers or nodejs without compiling.
-
-* [Musashii-kun/paperbak](https://github.com/Musashii-kun/paperbak) - Back up your files on ordinary paper in the form of oversized bitmaps
-
-* [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC) - Library for conversion between Traditional and Simplified Chinese
-
-* [Tw1ddle/geometrize](https://github.com/Tw1ddle/geometrize) - :white\_square\_button: Geometrize is a desktop app that geometrizes images into geometric primitives
-
-* [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
-
-* [opentoonz/opentoonz](https://github.com/opentoonz/opentoonz) - OpenToonz - An open-source full-featured 2D animation creation software
-
-* [PointTeam/PointDownload](https://github.com/PointTeam/PointDownload) - homepage
-
-* [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
-
-* [snowie2000/mactype](https://github.com/snowie2000/mactype) - Better font rendering for Windows.
-
-* [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues.
-
-* [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
-
-* [lltcggie/waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe) - waifu2xのCaffe版
+* [seven332/EhViewer](https://github.com/seven332/EhViewer) - \[DEPRECATED] An Unofficial E-Hentai Application for Android
 
 ## Vue
 
@@ -2157,6 +2207,8 @@
 
 * [angelfreedomv/Minecraft-Kotori](https://github.com/angelfreedomv/Minecraft-Kotori) - A Smiple and Easy Modify Ghost Theme of Modular——一个简单又容易修改的Ghost模块化主题
 
+* [MoePlayer/cPlayer](https://github.com/MoePlayer/cPlayer) - A beautiful and clean WEB Music Player by HTML5.
+
 ## Zig
 
 * [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc) - container image to single executable compiler
@@ -2274,6 +2326,16 @@
 * [marlonfan/qiniu-typecho-file](https://github.com/marlonfan/qiniu-typecho-file) - typecho中使用七牛作为存储
 
 * [chakhsu/lpisme](https://github.com/chakhsu/lpisme) - Lpisme,  A Typecho Theme
+
+* [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
+
+* [hoohack/zhihuSpider](https://github.com/hoohack/zhihuSpider) - A zhihu Spider.Just for fun.
+
+* [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The 𝘥𝘦 𝘧𝘢𝘤𝘵𝘰 standard, self hosted, powerful and customizable, URL shortener in PHP
+
+* [zgq354/APlayer-Typecho-Plugin](https://github.com/zgq354/APlayer-Typecho-Plugin) - APlayer Typecho 音乐插件
+
+* [jiangmuzi/sisome](https://github.com/jiangmuzi/sisome) - 基于Typecho内核的社区系统
 
 ## Rich Text Format
 
