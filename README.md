@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+* [Dart](#dart)
 * [miscellaneous](#miscellaneous)
 * [Kotlin](#kotlin)
 * [TypeScript](#typescript)
@@ -20,7 +21,6 @@
 * [Go](#go)
 * [Java](#java)
 * [Vue](#vue)
-* [Dart](#dart)
 * [Batchfile](#batchfile)
 * [Jupyter Notebook](#jupyter-notebook)
 * [Markdown](#markdown)
@@ -48,6 +48,28 @@
 * [QML](#qml)
 * [Matlab](#matlab)
 * [LiveScript](#livescript)
+
+## Dart
+
+* [haukuen/venera](https://github.com/haukuen/venera) - 仅自用 | For personal use only
+
+* [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - PiliPlus
+
+* [orz12/PiliPalaX](https://github.com/orz12/PiliPalaX) - PiliPalaX 是使用Flutter开发的BiliBili第三方客户端，感谢使用，欢迎Star。
+
+* [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
+
+* [Predidit/Kazumi](https://github.com/Predidit/Kazumi) - 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
+
+* [venera-app/venera](https://github.com/venera-app/venera) - A comic app
+
+* [guozhigq/pilipala](https://github.com/guozhigq/pilipala) - PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。
+
+* [Pacalini/PicaComic](https://github.com/Pacalini/PicaComic) - A comic app built with Flutter, supporting multiple comic sources.
+
+* [wgh136/PicaComic](https://github.com/wgh136/PicaComic) - A comic app built with Flutter, supporting multiple comic sources.
+
+* [jiangtian616/JHenTai](https://github.com/jiangtian616/JHenTai) - A cross-platform manga app made for e-hentai & exhentai by Flutter
 
 ## miscellaneous
 
@@ -2130,26 +2152,6 @@
 * [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
 
 * [GitHub-Laziji/VBlog](https://github.com/GitHub-Laziji/VBlog) - 使用GitHub API 搭建一个可动态发布文章的博客
-
-## Dart
-
-* [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - PiliPlus
-
-* [orz12/PiliPalaX](https://github.com/orz12/PiliPalaX) - PiliPalaX 是使用Flutter开发的BiliBili第三方客户端，感谢使用，欢迎Star。
-
-* [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
-
-* [Predidit/Kazumi](https://github.com/Predidit/Kazumi) - 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
-
-* [venera-app/venera](https://github.com/venera-app/venera) - A comic app
-
-* [guozhigq/pilipala](https://github.com/guozhigq/pilipala) - PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。
-
-* [Pacalini/PicaComic](https://github.com/Pacalini/PicaComic) - A comic app built with Flutter, supporting multiple comic sources.
-
-* [wgh136/PicaComic](https://github.com/wgh136/PicaComic) - A comic app built with Flutter, supporting multiple comic sources.
-
-* [jiangtian616/JHenTai](https://github.com/jiangtian616/JHenTai) - A cross-platform manga app made for e-hentai & exhentai by Flutter
 
 ## Batchfile
 
