@@ -221,6 +221,12 @@ const LANG_COLORS = {
   'Rich Text Format': '#aabbcc', ASL: '#999999', XSLT: '#556677', Perl: '#0298c3',
 }
 
+const MINUTE = 60
+const HOUR = 3600
+const DAY = 86400
+const MONTH = 30 * DAY
+const YEAR = 365 * DAY
+
 const I18N = {
   zh: {
     intro: '我在 GitHub 上 star 过的项目，每日自动更新。',
@@ -244,8 +250,8 @@ const I18N = {
     next: '下一页',
     footer: '每日通过 GitHub Actions 自动更新',
     timeUnits: [
-      [31536000, '年前'], [2592000, '个月前'], [86400, '天前'],
-      [3600, '小时前'], [60, '分钟前'],
+      [YEAR, '年前'], [MONTH, '个月前'], [DAY, '天前'],
+      [HOUR, '小时前'], [MINUTE, '分钟前'],
     ],
     justNow: '刚刚',
   },
@@ -271,8 +277,8 @@ const I18N = {
     next: 'Next',
     footer: 'Updated daily via GitHub Actions',
     timeUnits: [
-      [31536000, 'yr'], [2592000, 'mo'], [86400, 'd'],
-      [3600, 'hr'], [60, 'min'],
+      [YEAR, 'yr'], [MONTH, 'mo'], [DAY, 'd'],
+      [HOUR, 'hr'], [MINUTE, 'min'],
     ],
     justNow: 'just now',
   },
@@ -391,7 +397,8 @@ createApp({
       const seconds = Math.floor((now - then) / 1000)
       const units = I18N[this.locale].timeUnits
       for (const [s, label] of units) {
-        const n = Math.floor(seconds / s)
+        const monthOrAbove = s >= MONTH
+        const n = monthOrAbove ? Math.round(seconds / s) : Math.floor(seconds / s)
         if (n >= 1) return this.locale === 'zh' ? n + label + '更新' : 'updated ' + n + label
       }
       return this.locale === 'zh' ? '刚刚更新' : 'updated just now'
