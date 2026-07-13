@@ -171,8 +171,8 @@ tailwind.config = {
             </span>
             <span v-for="t in repo.topics.slice(0, 3)" :key="t"
                   class="px-1.5 py-0.5 bg-rule/30 rounded text-[10px]">{{ t }}</span>
-            <span class="text-ink-fade/70" :title="new Date(repo.updated_at).toLocaleDateString()">
-              {{ timeAgo(repo.updated_at) }}
+            <span class="text-ink-fade/70" :title="new Date(repo.pushed_at).toLocaleDateString()">
+              {{ timeAgo(repo.pushed_at) }}
             </span>
             <a v-if="repo.homepage" :href="repo.homepage" target="_blank" rel="noopener"
                class="link-underline pb-0.5">&nearr; {{ t('homepage') }}</a>
@@ -322,7 +322,7 @@ createApp({
       } else if (key === 'name') {
         repos = [...repos].sort((a, b) => a.full_name.localeCompare(b.full_name))
       } else if (key === 'updated') {
-        repos = [...repos].sort((a, b) => new Date(b.updated_at) - new Date(a.updated_at))
+        repos = [...repos].sort((a, b) => new Date(b.pushed_at) - new Date(a.pushed_at))
       } else if (key === 'created') {
         repos = [...repos].sort((a, b) => new Date(b.created_at) - new Date(a.created_at))
       } else if (key === 'starred') {
