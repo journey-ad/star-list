@@ -52,6 +52,8 @@
 
 ## Kotlin
 
+* [journey-ad/GhostLaunch](https://github.com/journey-ad/GhostLaunch) -
+
 * [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process.
 
 * [ActivityLauncher/ActivityLauncher](https://github.com/ActivityLauncher/ActivityLauncher) - Activity launcher creates shortcuts for any installed app and hidden activities to launch them with ease
