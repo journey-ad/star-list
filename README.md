@@ -52,7 +52,7 @@
 
 ## Kotlin
 
-* [journey-ad/GhostLaunch](https://github.com/journey-ad/GhostLaunch) -
+* [journey-ad/GhostLaunch](https://github.com/journey-ad/GhostLaunch) - GhostLaunch 是一款以计算器为伪装的 Android 应用隐藏启动工具
 
 * [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process.
 
