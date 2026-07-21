@@ -284,6 +284,37 @@ const I18N = {
   },
 }
 
+const IDB_NAME = 'star-list'
+const IDB_STORE = 'kv'
+
+function idbOpen() {
+  return new Promise((resolve, reject) => {
+    const req = indexedDB.open(IDB_NAME, 1)
+    req.onupgradeneeded = () => req.result.createObjectStore(IDB_STORE)
+    req.onsuccess = () => resolve(req.result)
+    req.onerror = () => reject(req.error)
+  })
+}
+
+async function idbGet(key) {
+  const db = await idbOpen()
+  return new Promise((resolve, reject) => {
+    const req = db.transaction(IDB_STORE, 'readonly').objectStore(IDB_STORE).get(key)
+    req.onsuccess = () => resolve(req.result)
+    req.onerror = () => reject(req.error)
+  })
+}
+
+async function idbPut(key, value) {
+  const db = await idbOpen()
+  return new Promise((resolve, reject) => {
+    const tx = db.transaction(IDB_STORE, 'readwrite')
+    tx.objectStore(IDB_STORE).put(value, key)
+    tx.oncomplete = () => resolve()
+    tx.onerror = () => reject(tx.error)
+  })
+}
+
 createApp({
   data() {
     return {
@@ -410,64 +441,69 @@ createApp({
     },
 
     async fetchEmojis() {
-      const KEY = 'gh_emojis_v2'
-      const TTL = 30 * 24 * 3600 * 1000
-
-      const cached = localStorage.getItem(KEY)
-      if (cached) {
-        try {
-          const parsed = JSON.parse(cached)
-          if (Date.now() - parsed.ts < TTL) {
-            this.emojiMap = parsed.data
-            return
-          }
-        } catch {}
-      }
-
       try {
-        const resp = await fetch('https://api.github.com/emojis')
+        const resp = await fetch('emoji.json')
         if (!resp.ok) return
-        const data = await resp.json()
-        for (const [name, url] of Object.entries(data)) {
-          const hexes = url.match(/\/([a-f0-9]+(?:-[a-f0-9]+)*)\.png/)
-          if (hexes) {
-            const points = hexes[1].split('-').map(h => parseInt(h, 16))
-            this.emojiMap[name] = String.fromCodePoint(...points)
-          }
-        }
-        localStorage.setItem(KEY, JSON.stringify({ ts: Date.now(), data: this.emojiMap }))
+        this.emojiMap = await resp.json()
       } catch { /* ignore */ }
     },
 
+    applyData(data) {
+      const repos = []
+      const langMap = new Map()
+
+      for (const [lang, arr] of Object.entries(data)) {
+        if (!Array.isArray(arr)) continue
+        const langName = lang === 'miscellaneous' ? 'Other' : lang
+        let count = 0
+        for (const repo of arr) {
+          repos.push({ ...repo, language: repo.language || langName })
+          count++
+        }
+        const existing = langMap.get(langName)
+        if (existing) {
+          existing.count += count
+        } else {
+          langMap.set(langName, { name: langName, count })
+        }
+      }
+
+      this.allRepos = repos
+      this.languages = [...langMap.values()].sort((a, b) => b.count - a.count)
+    },
+
     async fetchData() {
+      const TTL = 6 * 3600 * 1000
+
+      const cached = await idbGet('data').catch(() => null)
+
+      if (cached) {
+        this.applyData(cached.data)
+        this.loading = false
+      }
+
+      if (cached && Date.now() - cached.ts < TTL) return
+
       try {
-        const resp = await fetch('data.json')
-        if (!resp.ok) throw new Error(`HTTP ${resp.status}`)
-        const data = await resp.json()
+        const headers = {}
+        if (cached?.etag) headers['If-None-Match'] = cached.etag
 
-        const repos = []
-        const langMap = new Map()
+        const resp = await fetch('data.json', { headers })
 
-        for (const [lang, arr] of Object.entries(data)) {
-          if (!Array.isArray(arr)) continue
-          const langName = lang === 'miscellaneous' ? 'Other' : lang
-          let count = 0
-          for (const repo of arr) {
-            repos.push({ ...repo, language: repo.language || langName })
-            count++
-          }
-          const existing = langMap.get(langName)
-          if (existing) {
-            existing.count += count
-          } else {
-            langMap.set(langName, { name: langName, count })
-          }
+        if (resp.status === 304 && cached) {
+          await idbPut('data', { ...cached, ts: Date.now() })
+          return
         }
 
-        this.allRepos = repos
-        this.languages = [...langMap.values()].sort((a, b) => b.count - a.count)
+        if (!resp.ok) throw new Error(`HTTP ${resp.status}`)
+
+        const data = await resp.json()
+        const etag = resp.headers.get('ETag')
+
+        await idbPut('data', { data, ts: Date.now(), etag })
+        this.applyData(data)
       } catch (e) {
-        this.error = `Failed to load data: ${e.message}`
+        if (!cached) this.error = `Failed to load data: ${e.message}`
       } finally {
         this.loading = false
       }
