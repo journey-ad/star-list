@@ -422,6 +422,8 @@
 
 * [ZeMooX/remove-finder-from-dock](https://github.com/ZeMooX/remove-finder-from-dock) - Documentation on how to remove the macOS Finder from Dock.
 
+* [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fangsong typeface project
+
 * [0xor0ne/awesome-list](https://github.com/0xor0ne/awesome-list) - Cybersecurity oriented awesome list
 
 * [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.  🪄 ⭐
@@ -1093,8 +1095,6 @@
 * [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine.
 
 * [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
-
-* [TrionesType/zhuque](https://github.com/TrionesType/zhuque) - 朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fangsong typeface project
 
 * [xiaoyaDev/xiaoya-alist](https://github.com/xiaoyaDev/xiaoya-alist) - 小雅Alist的相关周边
 
@@ -1880,7 +1880,7 @@
 
 * [black-ant/Ant-Browser](https://github.com/black-ant/Ant-Browser) - 指纹浏览器
 
-* [AlliotTech/cloudflared\_proxy](https://github.com/AlliotTech/cloudflared_proxy) - Cloudflare Tunnel client (formerly Argo Tunnel) ,support proxy. https://www.iots.vip/post/cloudflare-tunnel-proxy-support   fork from :https://github.com/cloudflare/cloudflared/pull/1020 https://github.com/Asutorufa
+* [AlliotTech/cloudflared\_proxy](https://github.com/AlliotTech/cloudflared_proxy) - Cloudflare Tunnel client (formerly Argo Tunnel) ,support proxy. https://blog.alliot.tech/post/cloudflare-tunnel-proxy-support   fork from :https://github.com/cloudflare/cloudflared/pull/1020 https://github.com/Asutorufa
 
 * [krau/SaveAny-Bot](https://github.com/krau/SaveAny-Bot) - Save Any Telegram File to Anywhere 📂 (Alist, Disk, Webdav, S3, Rclone...) . Support restrict saving content and files beyond telegram.
 
