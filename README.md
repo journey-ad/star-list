@@ -4,7 +4,6 @@
 
 ## Table of Contents
 
-* [MDX](#mdx)
 * [TypeScript](#typescript)
 * [Python](#python)
 * [miscellaneous](#miscellaneous)
@@ -52,11 +51,9 @@
 * [Matlab](#matlab)
 * [LiveScript](#livescript)
 
-## MDX
+## TypeScript
 
 * [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
-
-## TypeScript
 
 * [radix-ui/themes](https://github.com/radix-ui/themes) - Radix Themes is an open-source component library optimized for fast development, easy maintenance, and accessibility. Maintained by @workos.
 
