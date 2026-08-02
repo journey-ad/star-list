@@ -32,7 +32,6 @@
 * [Lua](#lua)
 * [Scala](#scala)
 * [Ruby](#ruby)
-* [Svelte](#svelte)
 * [Dockerfile](#dockerfile)
 * [PHP](#php)
 * [Rich Text Format](#rich-text-format)
@@ -1034,6 +1033,8 @@
 * [marwincn/auto-group-tabs](https://github.com/marwincn/auto-group-tabs) - 自动对浏览器标签页进行分组，并且可以自定义分组的策略。
 
 * [journey-ad/honkai-starrail-scene](https://github.com/journey-ad/honkai-starrail-scene) - 【崩坏：星穹铁道】预约页场景提取
+
+* [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
 * [ChanceYu/front-end-rss](https://github.com/ChanceYu/front-end-rss) - :orange\_book: 根据 RSS 订阅最新前端技术文章并自动分类
 
@@ -2304,10 +2305,6 @@
 * [moebooru/moebooru](https://github.com/moebooru/moebooru) - Moebooru, a fork of danbooru1 that has been heavily modified
 
 * [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe\_with\_meridians: Jekyll is a blog-aware static site generator in Ruby
-
-## Svelte
-
-* [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
 ## Dockerfile
 
