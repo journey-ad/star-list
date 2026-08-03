@@ -700,7 +700,7 @@
 
 ## miscellaneous
 
-* [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Design Engineers.
+* [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Designers and Engineers.
 
 * [llm2014/llm\_benchmark](https://github.com/llm2014/llm_benchmark) -
 
