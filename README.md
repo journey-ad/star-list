@@ -250,6 +250,8 @@
 
 * [7kms/react-illustration-series](https://github.com/7kms/react-illustration-series) - 图解react源码, 用大量配图的方式, 致力于将react原理表述清楚.
 
+* [VickScarlet/remake](https://github.com/VickScarlet/remake) - やり直すんだ。そして、次はうまくやる。
+
 * [pd4d10/debugtron](https://github.com/pd4d10/debugtron) - Debug in-production Electron based app
 
 * [piqnt/planck.js](https://github.com/piqnt/planck.js) - 2D JavaScript Physics Engine
@@ -953,8 +955,6 @@
 * [EtherDream/web2img](https://github.com/EtherDream/web2img) - Bundle web files into a single image
 
 * [lbebber/HeatDistortionEffect](https://github.com/lbebber/HeatDistortionEffect) - Animated haze distortion effect for images and text, with WebGL.
-
-* [VickScarlet/remake](https://github.com/VickScarlet/remake) - やり直すんだ。そして、次はうまくやる。
 
 * [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 
