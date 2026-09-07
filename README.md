@@ -1513,7 +1513,7 @@
 
 * [hewigovens/ghosttile-cli](https://github.com/hewigovens/ghosttile-cli) - Ghosttile 2.0 revamp
 
-* [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The only app that owns your whole menu bar, in and out.
+* [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The open source menu bar manager
 
 * [Neighbor-Z/SwiftMTP](https://github.com/Neighbor-Z/SwiftMTP) - A modern Android File Transfer tool for macOS with AI supercharged.
 
