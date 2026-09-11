@@ -4,15 +4,15 @@
 
 ## Table of Contents
 
-* [Swift](#swift)
 * [TypeScript](#typescript)
+* [C++](#c)
+* [Swift](#swift)
 * [Kotlin](#kotlin)
 * [Python](#python)
 * [Go](#go)
 * [Rust](#rust)
-* [C#](#c)
+* [C#](#c-1)
 * [JavaScript](#javascript)
-* [C++](#c-1)
 * [Markdown](#markdown)
 * [miscellaneous](#miscellaneous)
 * [GDScript](#gdscript)
@@ -51,65 +51,9 @@
 * [Matlab](#matlab)
 * [LiveScript](#livescript)
 
-## Swift
-
-* [mertizci/browser-picker](https://github.com/mertizci/browser-picker) - Native macOS menu bar app that becomes your default browser and routes every link to the right browser and profile — automatically with rules, or with a quick picker.
-
-* [jk2005-alt/LumaWall](https://github.com/jk2005-alt/LumaWall) - A lightweight native live wallpaper engine for macOS with Wallpaper Engine scene.pkg support.
-
-* [hewigovens/ghosttile-cli](https://github.com/hewigovens/ghosttile-cli) - Ghosttile 2.0 revamp
-
-* [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The open source menu bar manager
-
-* [Neighbor-Z/SwiftMTP](https://github.com/Neighbor-Z/SwiftMTP) - A modern Android File Transfer tool for macOS with AI supercharged.
-
-* [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
-
-* [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) -
-
-* [Lakr233/Asspp](https://github.com/Lakr233/Asspp) - The App Store for your multi-account eco system.
-
-* [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
-
-* [Bengerthelorf/macIconChanger](https://github.com/Bengerthelorf/macIconChanger) - Transform your Mac, one icon at a time — customize app & folder icons with GUI, CLI, macOSicons.com integration, and auto-restore
-
-* [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
-
-* [SideStore/SideStore](https://github.com/SideStore/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer.
-
-* [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
-
-* [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具
-
-* [tyirvine/Informant](https://github.com/tyirvine/Informant) - Informant is a macOS menu bar app that lets you inspect files with a single click. 🔍
-
-* [sunnyyoung/WeChatTweak](https://github.com/sunnyyoung/WeChatTweak) - A command-line tool for tweaking WeChat - 首款微信 macOS 客户端撤回拦截与多开 🔨
-
-* [jackhumbert/let\_there\_be\_flight](https://github.com/jackhumbert/let_there_be_flight) - A flight mod for Cyberpunk 2077
-
-* [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
-
-* [Finb/Bark](https://github.com/Finb/Bark) - Bark is an iOS App which allows you to push custom notifications to your iPhone
-
-* [EhPanda-Team/EhPanda](https://github.com/EhPanda-Team/EhPanda) - An unofficial E-Hentai App for iOS built with SwiftUI & TCA.
-
-* [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
-
-* [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
-
-* [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS
-
-* [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
-
-* [ddddxxx/LyricsX](https://github.com/ddddxxx/LyricsX) - 🎶 Ultimate lyrics app for macOS.
-
-* [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
-
-* [onmyway133/FinderGo](https://github.com/onmyway133/FinderGo) - 🐢 Open terminal quickly from Finder
-
-* [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
-
 ## TypeScript
+
+* [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) - 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
 
 * [dataelement/dsh-desktop](https://github.com/dataelement/dsh-desktop) - DSHDesktop：DeepSeek Harness Desktop / DeepSeek Harness 桌面版
 
@@ -465,6 +409,144 @@
 
 * [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 
+## C++
+
+* [Sonic853/TTPlayer](https://github.com/Sonic853/TTPlayer) - 千千静听社区复刻版 Thousand Tunes Player
+
+* [laobamac/MirageWallpaper](https://github.com/laobamac/MirageWallpaper) - The most perfect live wallpaper engine for macOS, supporting web/video/scene wallpaper
+
+* [waywallen/open-wallpaper-engine](https://github.com/waywallen/open-wallpaper-engine) - Open source wallpaper engine implement mostly for linux
+
+* [godothub/godot-minigame](https://github.com/godothub/godot-minigame) - Godot 4 微信小游戏导出插件，使用 Release 模板分发与版本适配。
+
+* [anhkgg/SuperRDP](https://github.com/anhkgg/SuperRDP) - Super RDPWrap
+
+* [allenk/GeminiWatermarkTool](https://github.com/allenk/GeminiWatermarkTool) - VEO / Gemini 3.5 Nano Banana Pro watermark maintenance tool
+
+* [Daft-Freak/CnC\_and\_Red\_Alert](https://github.com/Daft-Freak/CnC_and_Red_Alert) - Command and Conquer: Red Alert
+
+* [Vita3K/Vita3K](https://github.com/Vita3K/Vita3K) - Experimental PlayStation Vita emulator
+
+* [Vita3K/Vita3K-Android](https://github.com/Vita3K/Vita3K-Android) - Public releases and CI for the Vita3K Android app
+
+* [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - Offline translation model server with low resource consumption, fast speed, and private deployment capability. 低资源占用速度快可私有部署的离线翻译模型服务器
+
+* [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - An MCP-based chatbot | 一个基于MCP的聊天机器人
+
+* [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
+
+* [praydog/UEVR](https://github.com/praydog/UEVR) - Universal Unreal Engine VR Mod (4.8 - 5.4)
+
+* [libpinyin/ibus-libpinyin](https://github.com/libpinyin/ibus-libpinyin) -
+
+* [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) - 第三方B站客户端，目前可以运行在PC全平台、PSVita、PS4 、Xbox 和 Nintendo Switch上
+
+* [agracio/edge-js](https://github.com/agracio/edge-js) - Run .NET and Node.js code in-process on Windows, MacOS, and Linux
+
+* [fevrax/navicat-keygen](https://github.com/fevrax/navicat-keygen) - Navicat Premium 15 linux 安装与激活 ArchLinux  备份已经被删除的 navicat-keygen 项目！
+
+* [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
+
+* [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
+
+* [zhongyang219/SimpleNotePad](https://github.com/zhongyang219/SimpleNotePad) - 这是一个可以代替Windows记事本的软件，除了包含记事本原有的功能外，还有编码格式转换、十六进制查看编辑、文件二进制比较、编码批量转换的功能。
+
+* [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN,  and ACNet.
+
+* [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
+
+* [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+
+* [VoodooI2C/VoodooI2C](https://github.com/VoodooI2C/VoodooI2C) - Intel I2C controller and slave device drivers for macOS
+
+* [markondej/fm\_transmitter](https://github.com/markondej/fm_transmitter) - Raspberry Pi as FM transmitter
+
+* [oyyd/wasm-opencc](https://github.com/oyyd/wasm-opencc) - OpenCC compiled by Emscripten so that you can run it on browsers or nodejs without compiling.
+
+* [Musashii-kun/paperbak](https://github.com/Musashii-kun/paperbak) - Back up your files on ordinary paper in the form of oversized bitmaps
+
+* [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC) - Library for conversion between Traditional and Simplified Chinese
+
+* [Tw1ddle/geometrize](https://github.com/Tw1ddle/geometrize) - :white\_square\_button: Geometrize is a desktop app that geometrizes images into geometric primitives
+
+* [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
+
+* [opentoonz/opentoonz](https://github.com/opentoonz/opentoonz) - OpenToonz - An open-source full-featured 2D animation creation software
+
+* [PointTeam/PointDownload](https://github.com/PointTeam/PointDownload) - homepage
+
+* [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
+
+* [snowie2000/mactype](https://github.com/snowie2000/mactype) - Better font rendering for Windows.
+
+* [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues.
+
+* [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+
+* [lltcggie/waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe) - waifu2xのCaffe版
+
+* [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+
+* [sinpolib/sokit](https://github.com/sinpolib/sokit) - Sokit is a TCP & UDP package send / receive / transfer tool
+
+## Swift
+
+* [mertizci/browser-picker](https://github.com/mertizci/browser-picker) - Native macOS menu bar app that becomes your default browser and routes every link to the right browser and profile — automatically with rules, or with a quick picker.
+
+* [jk2005-alt/LumaWall](https://github.com/jk2005-alt/LumaWall) - A lightweight native live wallpaper engine for macOS with Wallpaper Engine scene.pkg support.
+
+* [hewigovens/ghosttile-cli](https://github.com/hewigovens/ghosttile-cli) - Ghosttile 2.0 revamp
+
+* [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The open source menu bar manager
+
+* [Neighbor-Z/SwiftMTP](https://github.com/Neighbor-Z/SwiftMTP) - A modern Android File Transfer tool for macOS with AI supercharged.
+
+* [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
+
+* [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) -
+
+* [Lakr233/Asspp](https://github.com/Lakr233/Asspp) - The App Store for your multi-account eco system.
+
+* [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
+
+* [Bengerthelorf/macIconChanger](https://github.com/Bengerthelorf/macIconChanger) - Transform your Mac, one icon at a time — customize app & folder icons with GUI, CLI, macOSicons.com integration, and auto-restore
+
+* [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
+
+* [SideStore/SideStore](https://github.com/SideStore/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer.
+
+* [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
+
+* [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具
+
+* [tyirvine/Informant](https://github.com/tyirvine/Informant) - Informant is a macOS menu bar app that lets you inspect files with a single click. 🔍
+
+* [sunnyyoung/WeChatTweak](https://github.com/sunnyyoung/WeChatTweak) - A command-line tool for tweaking WeChat - 首款微信 macOS 客户端撤回拦截与多开 🔨
+
+* [jackhumbert/let\_there\_be\_flight](https://github.com/jackhumbert/let_there_be_flight) - A flight mod for Cyberpunk 2077
+
+* [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
+
+* [Finb/Bark](https://github.com/Finb/Bark) - Bark is an iOS App which allows you to push custom notifications to your iPhone
+
+* [EhPanda-Team/EhPanda](https://github.com/EhPanda-Team/EhPanda) - An unofficial E-Hentai App for iOS built with SwiftUI & TCA.
+
+* [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
+
+* [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
+
+* [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS
+
+* [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
+
+* [ddddxxx/LyricsX](https://github.com/ddddxxx/LyricsX) - 🎶 Ultimate lyrics app for macOS.
+
+* [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
+
+* [onmyway133/FinderGo](https://github.com/onmyway133/FinderGo) - 🐢 Open terminal quickly from Finder
+
+* [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
+
 ## Kotlin
 
 * [tsunehimatoi/psd2live](https://github.com/tsunehimatoi/psd2live) - PSD2Live 是一个自动化的 Live2D 模型生成流水线与桌面应用。输入分层 PSD 文件，系统自动完成图层语义识别、连通域双侧拆分、自适应三角网格剖分、九轴面部经纬网与解耦变形器层级构建、头发多摆物理与果冻眼动力学模拟及循环待机动作生成，一键导出可编辑的 .cmo3 编辑器工程与运行时 .moc3 文件族。
@@ -499,7 +581,7 @@
 
 ## Python
 
-* [hect0x7/jmcomic-ai](https://github.com/hect0x7/jmcomic-ai) - 禁漫天堂 Agent Skills / AI 原生 JMComic 助手：通过 MCP 与 Skills 将 JMComic 注入你的 AI Agent. / AI-powered JMComic assistant for seamless integration with AI Agents via MCP & Skills.
+* [hect0x7/jmcomic-ai](https://github.com/hect0x7/jmcomic-ai) - 禁漫天堂 Agent Skills MCP | AI-powered JMComic assistant for seamless integration with AI Agents via MCP & Skills.
 
 * [hect0x7/JMComic-Crawler-Python](https://github.com/hect0x7/JMComic-Crawler-Python) - Python API for JMComic | 提供Python API访问禁漫天堂，同时支持网页端和移动端 | 禁漫天堂GitHub Actions下载器🚀
 
@@ -1605,84 +1687,6 @@
 
 * [DIYgod/Ticktack](https://github.com/DIYgod/Ticktack) - 人生只有 900 个月
 
-## C++
-
-* [laobamac/MirageWallpaper](https://github.com/laobamac/MirageWallpaper) - The most perfect live wallpaper engine for macOS, supporting web/video/scene wallpaper
-
-* [waywallen/open-wallpaper-engine](https://github.com/waywallen/open-wallpaper-engine) - Open source wallpaper engine implement mostly for linux
-
-* [godothub/godot-minigame](https://github.com/godothub/godot-minigame) - Godot 4 微信小游戏导出插件，使用 Release 模板分发与版本适配。
-
-* [anhkgg/SuperRDP](https://github.com/anhkgg/SuperRDP) - Super RDPWrap
-
-* [allenk/GeminiWatermarkTool](https://github.com/allenk/GeminiWatermarkTool) - VEO / Gemini 3.5 Nano Banana Pro watermark maintenance tool
-
-* [Daft-Freak/CnC\_and\_Red\_Alert](https://github.com/Daft-Freak/CnC_and_Red_Alert) - Command and Conquer: Red Alert
-
-* [Vita3K/Vita3K](https://github.com/Vita3K/Vita3K) - Experimental PlayStation Vita emulator
-
-* [Vita3K/Vita3K-Android](https://github.com/Vita3K/Vita3K-Android) - Public releases and CI for the Vita3K Android app
-
-* [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - Offline translation model server with low resource consumption, fast speed, and private deployment capability. 低资源占用速度快可私有部署的离线翻译模型服务器
-
-* [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - An MCP-based chatbot | 一个基于MCP的聊天机器人
-
-* [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
-
-* [praydog/UEVR](https://github.com/praydog/UEVR) - Universal Unreal Engine VR Mod (4.8 - 5.4)
-
-* [libpinyin/ibus-libpinyin](https://github.com/libpinyin/ibus-libpinyin) -
-
-* [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) - 第三方B站客户端，目前可以运行在PC全平台、PSVita、PS4 、Xbox 和 Nintendo Switch上
-
-* [agracio/edge-js](https://github.com/agracio/edge-js) - Run .NET and Node.js code in-process on Windows, MacOS, and Linux
-
-* [fevrax/navicat-keygen](https://github.com/fevrax/navicat-keygen) - Navicat Premium 15 linux 安装与激活 ArchLinux  备份已经被删除的 navicat-keygen 项目！
-
-* [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
-
-* [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
-
-* [zhongyang219/SimpleNotePad](https://github.com/zhongyang219/SimpleNotePad) - 这是一个可以代替Windows记事本的软件，除了包含记事本原有的功能外，还有编码格式转换、十六进制查看编辑、文件二进制比较、编码批量转换的功能。
-
-* [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN,  and ACNet.
-
-* [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
-
-* [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-
-* [VoodooI2C/VoodooI2C](https://github.com/VoodooI2C/VoodooI2C) - Intel I2C controller and slave device drivers for macOS
-
-* [markondej/fm\_transmitter](https://github.com/markondej/fm_transmitter) - Raspberry Pi as FM transmitter
-
-* [oyyd/wasm-opencc](https://github.com/oyyd/wasm-opencc) - OpenCC compiled by Emscripten so that you can run it on browsers or nodejs without compiling.
-
-* [Musashii-kun/paperbak](https://github.com/Musashii-kun/paperbak) - Back up your files on ordinary paper in the form of oversized bitmaps
-
-* [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC) - Library for conversion between Traditional and Simplified Chinese
-
-* [Tw1ddle/geometrize](https://github.com/Tw1ddle/geometrize) - :white\_square\_button: Geometrize is a desktop app that geometrizes images into geometric primitives
-
-* [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
-
-* [opentoonz/opentoonz](https://github.com/opentoonz/opentoonz) - OpenToonz - An open-source full-featured 2D animation creation software
-
-* [PointTeam/PointDownload](https://github.com/PointTeam/PointDownload) - homepage
-
-* [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
-
-* [snowie2000/mactype](https://github.com/snowie2000/mactype) - Better font rendering for Windows.
-
-* [hrydgard/ppsspp](https://github.com/hrydgard/ppsspp) - A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues.
-
-* [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
-
-* [lltcggie/waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe) - waifu2xのCaffe版
-
-* [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-
-* [sinpolib/sokit](https://github.com/sinpolib/sokit) - Sokit is a TCP & UDP package send / receive / transfer tool
-
 ## Markdown
 
 * [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Designers and Engineers.
@@ -2067,7 +2071,7 @@
 
 * [puaclaw/PUAClaw](https://github.com/puaclaw/PUAClaw) - Claw 们终将接管世界，PUAClaw is All You Need
 
-* [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) - 开源的泛中日韩像素字体，黑体风格
+* [TakWolf/fusion-pixel-font](https://github.com/TakWolf/fusion-pixel-font) - 开源的泛拉丁与泛中日韩像素字体，黑体风格
 
 * [oxalorg/sakura](https://github.com/oxalorg/sakura) - :cherry\_blossom: a minimal css framework/theme.
 
@@ -2079,7 +2083,7 @@
 
 * [sudoskys/StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook) - How do we integrate AI generation tools into actual work? | 关于 Ai 绘画的Wiki | Wiki about Ai painting | Prompts Engineering| 指南 Guide | Seeking Maintainer\&Translator🙌
 
-* [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) - 开源的泛中日韩像素字体，黑体风格
+* [TakWolf/ark-pixel-font](https://github.com/TakWolf/ark-pixel-font) - 开源的泛拉丁与泛中日韩像素字体，黑体风格
 
 * [HZFE/awesome-interview](https://github.com/HZFE/awesome-interview) - 剑指前端 Offer
 
