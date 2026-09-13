@@ -549,7 +549,7 @@
 
 ## Kotlin
 
-* [tsunehimatoi/psd2live](https://github.com/tsunehimatoi/psd2live) - PSD2Live 是一个自动化的 Live2D 模型生成流水线与桌面应用。输入分层 PSD 文件，系统自动完成图层语义识别、连通域双侧拆分、自适应三角网格剖分、九轴面部经纬网与解耦变形器层级构建、头发多摆物理与果冻眼动力学模拟及循环待机动作生成，一键导出可编辑的 .cmo3 编辑器工程与运行时 .moc3 文件族。
+* [tsunehimatoi/psd2live](https://github.com/tsunehimatoi/psd2live) - Turn layered PSDs into editable Live2D models — automatic rigging, mesh/deformer generation, physics, animation, and .cmo3/ .moc3 export.
 
 * [journey-ad/GhostLaunch](https://github.com/journey-ad/GhostLaunch) - GhostLaunch 是一款以计算器为伪装的 Android 应用隐藏启动工具
 
