@@ -30,6 +30,7 @@
 * [Zig](#zig)
 * [SCSS](#scss)
 * [Makefile](#makefile)
+* [AutoHotkey](#autohotkey)
 * [Lua](#lua)
 * [Scala](#scala)
 * [Ruby](#ruby)
@@ -2077,8 +2078,6 @@
 
 * [oxalorg/sakura](https://github.com/oxalorg/sakura) - :cherry\_blossom: a minimal css framework/theme.
 
-* [Nigh/I-wanna-clean-keyboard](https://github.com/Nigh/I-wanna-clean-keyboard) - Block the keyboard input while you were eating instant noodles on your laptop keyboard.
-
 * [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
 * [dbohdan/classless-css](https://github.com/dbohdan/classless-css) - A list of classless CSS themes/frameworks with screenshots
@@ -2350,6 +2349,10 @@
 * [libretro/Lakka-LibreELEC](https://github.com/libretro/Lakka-LibreELEC) - Lakka is a lightweight Linux distribution that transforms a small computer into a full blown game console.
 
 * [lzjqsdd/WifiAssist](https://github.com/lzjqsdd/WifiAssist) - The easy way to use Wifi through PC.
+
+## AutoHotkey
+
+* [Nigh/I-wanna-clean-keyboard](https://github.com/Nigh/I-wanna-clean-keyboard) - Block the keyboard input while you were eating instant noodles on your laptop keyboard.
 
 ## Lua
 
