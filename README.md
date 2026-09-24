@@ -834,6 +834,8 @@
 
 * [mvdctop/Movie\_Data\_Capture](https://github.com/mvdctop/Movie_Data_Capture) - Local Movies Organizer
 
+* [SolidZORO/zpix-pixel-font](https://github.com/SolidZORO/zpix-pixel-font) - Zpix (最像素) is a pixel font (中文像素字体), supporting English, Chinese (Simplified + Traditional) and Japanese.
+
 * [BGmi/BGmi](https://github.com/BGmi/BGmi) - \[looking for maintainers] BGmi is a cli tool with Web UI for subscribed bangumi.
 
 * [Jack-Cherish/python-spider](https://github.com/Jack-Cherish/python-spider) - :rainbow:Python3网络爬虫实战：淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说下载、音乐电影下载等
@@ -1068,7 +1070,7 @@
 
 * [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 
-* [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in
+* [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 
 * [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 
@@ -2111,8 +2113,6 @@
 * [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular\_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 
 * [nathanreyes/v-calendar](https://github.com/nathanreyes/v-calendar) - An elegant calendar and datepicker plugin for Vue.
-
-* [SolidZORO/zpix-pixel-font](https://github.com/SolidZORO/zpix-pixel-font) - Zpix (最像素) is a pixel font (中文像素字体), supporting English, Chinese (Simplified + Traditional) and Japanese.
 
 * [alienzhou/frontend-tech-list](https://github.com/alienzhou/frontend-tech-list) - 📝 Frontend Tech List for Developers 💡
 
