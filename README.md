@@ -54,6 +54,8 @@
 
 ## TypeScript
 
+* [Pal-AI-Lab/Coopanion](https://github.com/Pal-AI-Lab/Coopanion) - 你的小小万能桌面伴侣:桌宠 Coo 住在屏幕底边,会聊天、听你说话、能帮你操作电脑。基于 Cortico,填入 API Key 即用。
+
 * [getsentry/MobileBuildMCP](https://github.com/getsentry/MobileBuildMCP) - A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.
 
 * [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) - 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
@@ -403,8 +405,6 @@
 * [OttoAllmendinger/gnome-shell-screenshot](https://github.com/OttoAllmendinger/gnome-shell-screenshot) - Gnome Shell extension for making and uploading screenshots
 
 * [laobubu/HyperMD](https://github.com/laobubu/HyperMD) - A WYSIWYG Markdown Editor for browsers. Break the Wall between writing and previewing.
-
-* [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 
 * [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 
@@ -918,6 +918,8 @@
 
 * [DIYgod/APlayer](https://github.com/DIYgod/APlayer) - :lollipop: Wow, such a beautiful HTML5 music player
 
+* [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
+
 * [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
 
 * [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
@@ -974,7 +976,7 @@
 
 * [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) - Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.
 
-* [hect0x7/jmcomic-ai](https://github.com/hect0x7/jmcomic-ai) - 禁漫天堂 Agent Skills MCP | JMComic integration using Skills and MCP for AI Agents.
+* [hect0x7/jmcomic-ai](https://github.com/hect0x7/jmcomic-ai) - 禁漫天堂 Agent Skills MCP | JMComic integration via Skills and MCP for AI Agents.
 
 * [hect0x7/JMComic-Crawler-Python](https://github.com/hect0x7/JMComic-Crawler-Python) - Python API for JMComic | 提供Python API访问禁漫天堂，同时支持网页端和移动端 | 禁漫天堂GitHub Actions下载器🚀
 
@@ -1227,6 +1229,8 @@
 * [rwv/chinese-dos-games](https://github.com/rwv/chinese-dos-games) - 🎮 Chinese DOS games collections.
 
 * [chrissimpkins/Crunch](https://github.com/chrissimpkins/Crunch) - Insane(ly slow but wicked good) PNG image optimization
+
+* [dustinkirkland/hollywood](https://github.com/dustinkirkland/hollywood) -
 
 * [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on delimited files and multi-file sqlite databases
 
@@ -1989,8 +1993,6 @@
 * [alex000kim/nsfw\_data\_scraper](https://github.com/alex000kim/nsfw_data_scraper) - Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier
 
 * [darkhandz/XPS15-9550-Mojave](https://github.com/darkhandz/XPS15-9550-Mojave) -  DELL XPS15 9550 10.14 黑苹果 配置
-
-* [dustinkirkland/hollywood](https://github.com/dustinkirkland/hollywood) -
 
 * [oblique/create\_ap](https://github.com/oblique/create_ap) - \[NOT MAINTAINED] This script creates a NATed or Bridged WiFi Access Point.
 
