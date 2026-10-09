@@ -5,8 +5,9 @@
 ## Table of Contents
 
 * [TypeScript](#typescript)
-* [Swift](#swift)
+* [PowerShell](#powershell)
 * [JavaScript](#javascript)
+* [Swift](#swift)
 * [Kotlin](#kotlin)
 * [HTML](#html)
 * [Rust](#rust)
@@ -47,16 +48,17 @@
 * [Perl](#perl)
 * [Vim Script](#vim-script)
 * [XSLT](#xslt)
-* [PowerShell](#powershell)
 * [QML](#qml)
 * [Matlab](#matlab)
 * [LiveScript](#livescript)
 
 ## TypeScript
 
+* [unixzii/synth-ui](https://github.com/unixzii/synth-ui) - A TypeScript library for building pixel-art user interfaces.
+
 * [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 
-* [Pal-AI-Lab/Coopanion](https://github.com/Pal-AI-Lab/Coopanion) - Your tiny curious AI desktopet companion, built with Cortico 0 0)
+* [Pal-AI-Lab/Coopanion](https://github.com/Pal-AI-Lab/Coopanion) - Your tiny AI desktopet companion, built with Cortico 0 0)
 
 * [getsentry/MobileBuildMCP](https://github.com/getsentry/MobileBuildMCP) - A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects.
 
@@ -418,73 +420,15 @@
 
 * [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 
-## Swift
+## PowerShell
 
-* [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
+* [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) - Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端
 
-* [mainanamisa/compositor-cn](https://github.com/mainanamisa/compositor-cn) - Compositor 简体中文汉化版 — free open-source macOS image editor (upstream: robbietilton/Compositor, MIT)
-
-* [Mrs4s/StarryPlayer](https://github.com/Mrs4s/StarryPlayer) - 一个为 macOS 打造的音乐播放器
-
-* [robbietilton/Compositor](https://github.com/robbietilton/Compositor) - The Photoshop alternative for Mac
-
-* [mertizci/browser-picker](https://github.com/mertizci/browser-picker) - Native macOS menu bar app that becomes your default browser and routes every link to the right browser and profile — automatically with rules, or with a quick picker.
-
-* [jk2005-alt/LumaWall](https://github.com/jk2005-alt/LumaWall) - A lightweight native live wallpaper engine for macOS with Wallpaper Engine scene.pkg support.
-
-* [hewigovens/ghosttile-cli](https://github.com/hewigovens/ghosttile-cli) - Ghosttile 2.0 revamp
-
-* [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The open source menu bar manager
-
-* [Neighbor-Z/SwiftMTP](https://github.com/Neighbor-Z/SwiftMTP) - A modern Android File Transfer tool for macOS with AI supercharged.
-
-* [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
-
-* [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) -
-
-* [Lakr233/Asspp](https://github.com/Lakr233/Asspp) - The App Store for your multi-account eco system.
-
-* [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
-
-* [Bengerthelorf/macIconChanger](https://github.com/Bengerthelorf/macIconChanger) - Transform your Mac, one icon at a time — customize app & folder icons with GUI, CLI, macOSicons.com integration, and auto-restore
-
-* [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
-
-* [SideStore/SideStore](https://github.com/SideStore/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer.
-
-* [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
-
-* [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具
-
-* [tyirvine/Informant](https://github.com/tyirvine/Informant) - Informant is a macOS menu bar app that lets you inspect files with a single click. 🔍
-
-* [sunnyyoung/WeChatTweak](https://github.com/sunnyyoung/WeChatTweak) - A command-line tool for tweaking WeChat - 首款微信 macOS 客户端撤回拦截与多开 🔨
-
-* [jackhumbert/let\_there\_be\_flight](https://github.com/jackhumbert/let_there_be_flight) - A flight mod for Cyberpunk 2077
-
-* [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
-
-* [Finb/Bark](https://github.com/Finb/Bark) - Bark is an iOS App which allows you to push custom notifications to your iPhone
-
-* [EhPanda-Team/EhPanda](https://github.com/EhPanda-Team/EhPanda) - An unofficial E-Hentai App for iOS built with SwiftUI & TCA.
-
-* [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
-
-* [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
-
-* [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS
-
-* [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
-
-* [ddddxxx/LyricsX](https://github.com/ddddxxx/LyricsX) - 🎶 Ultimate lyrics app for macOS.
-
-* [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
-
-* [onmyway133/FinderGo](https://github.com/onmyway133/FinderGo) - 🐢 Open terminal quickly from Finder
-
-* [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
+* [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 
 ## JavaScript
+
+* [oneincase/webwallgl](https://github.com/oneincase/webwallgl) - WebWallGL — 浏览器端 Wallpaper Engine 壁纸渲染核心：场景 / 网页 / 视频壁纸全支持，附场景编辑器，npm / CDN（MIT）｜ WebGL2 rendering core that plays Wallpaper Engine wallpapers in the browser: scene / web / video wallpapers + scene editor (npm / CDN, MIT)
 
 * [vinvcn/mattpocock-skills-zh-CN](https://github.com/vinvcn/mattpocock-skills-zh-CN) - 这是 mattpocock/skills 的简体中文本地化版本。
 
@@ -1044,6 +988,70 @@
 
 * [DIYgod/Ticktack](https://github.com/DIYgod/Ticktack) - 人生只有 900 个月
 
+## Swift
+
+* [vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Free and open-source macOS menu bar toolkit.
+
+* [mainanamisa/compositor-cn](https://github.com/mainanamisa/compositor-cn) - Compositor 简体中文汉化版 — free open-source macOS image editor (upstream: robbietilton/Compositor, MIT)
+
+* [Mrs4s/StarryPlayer](https://github.com/Mrs4s/StarryPlayer) - 一个为 macOS 打造的音乐播放器
+
+* [robbietilton/Compositor](https://github.com/robbietilton/Compositor) - The Photoshop alternative for Mac
+
+* [mertizci/browser-picker](https://github.com/mertizci/browser-picker) - Native macOS menu bar app that becomes your default browser and routes every link to the right browser and profile — automatically with rules, or with a quick picker.
+
+* [jk2005-alt/LumaWall](https://github.com/jk2005-alt/LumaWall) - A lightweight native live wallpaper engine for macOS with Wallpaper Engine scene.pkg support.
+
+* [hewigovens/ghosttile-cli](https://github.com/hewigovens/ghosttile-cli) - Ghosttile 2.0 revamp
+
+* [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The open source menu bar manager
+
+* [Neighbor-Z/SwiftMTP](https://github.com/Neighbor-Z/SwiftMTP) - A modern Android File Transfer tool for macOS with AI supercharged.
+
+* [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
+
+* [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) -
+
+* [Lakr233/Asspp](https://github.com/Lakr233/Asspp) - The App Store for your multi-account eco system.
+
+* [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac.
+
+* [Bengerthelorf/macIconChanger](https://github.com/Bengerthelorf/macIconChanger) - Transform your Mac, one icon at a time — customize app & folder icons with GUI, CLI, macOSicons.com integration, and auto-restore
+
+* [SideStore/SideStore](https://github.com/SideStore/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer.
+
+* [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
+
+* [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具
+
+* [tyirvine/Informant](https://github.com/tyirvine/Informant) - Informant is a macOS menu bar app that lets you inspect files with a single click. 🔍
+
+* [sunnyyoung/WeChatTweak](https://github.com/sunnyyoung/WeChatTweak) - A command-line tool for tweaking WeChat - 首款微信 macOS 客户端撤回拦截与多开 🔨
+
+* [jackhumbert/let\_there\_be\_flight](https://github.com/jackhumbert/let_there_be_flight) - A flight mod for Cyberpunk 2077
+
+* [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
+
+* [Finb/Bark](https://github.com/Finb/Bark) - Bark is an iOS App which allows you to push custom notifications to your iPhone
+
+* [EhPanda-Team/EhPanda](https://github.com/EhPanda-Team/EhPanda) - An unofficial E-Hentai App for iOS built with SwiftUI & TCA.
+
+* [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
+
+* [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
+
+* [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS
+
+* [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
+
+* [ddddxxx/LyricsX](https://github.com/ddddxxx/LyricsX) - 🎶 Ultimate lyrics app for macOS.
+
+* [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
+
+* [onmyway133/FinderGo](https://github.com/onmyway133/FinderGo) - 🐢 Open terminal quickly from Finder
+
+* [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
+
 ## Kotlin
 
 * [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app) - GhostLock One-Tap Execution App (CVE-2026-43499)
@@ -1192,7 +1200,7 @@
 
 * [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 
-* [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
+* [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any website into a tiny, fast desktop app.
 
 * [chinuno-usami/ava\_dash](https://github.com/chinuno-usami/ava_dash) -
 
@@ -2527,10 +2535,6 @@
 ## XSLT
 
 * [ScudLee/anime-lists](https://github.com/ScudLee/anime-lists) -
-
-## PowerShell
-
-* [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 
 ## QML
 
