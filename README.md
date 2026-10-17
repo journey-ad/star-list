@@ -1040,7 +1040,7 @@
 
 * [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 
-* [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any website into a tiny, fast desktop app.
+* [tw93/Pake](https://github.com/tw93/Pake) - Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.
 
 * [chinuno-usami/ava\_dash](https://github.com/chinuno-usami/ava_dash) -
 
