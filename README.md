@@ -26,6 +26,7 @@
 * [Objective-C](#objective-c)
 * [Batchfile](#batchfile)
 * [Jupyter Notebook](#jupyter-notebook)
+* [PHP](#php)
 * [CSS](#css)
 * [Inno Setup](#inno-setup)
 * [Zig](#zig)
@@ -36,7 +37,6 @@
 * [Scala](#scala)
 * [Ruby](#ruby)
 * [Dockerfile](#dockerfile)
-* [PHP](#php)
 * [Rich Text Format](#rich-text-format)
 * [Objective-C++](#objective-c-1)
 * [Pony](#pony)
@@ -1774,7 +1774,7 @@
 
 * [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram toolkit written in Golang
 
-* [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
+* [usememos/memos](https://github.com/usememos/memos) - A timeline for your thoughts. Just type. It stays yours.
 
 * [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主流云厂商。
 
@@ -1943,8 +1943,6 @@
 * [tuyafeng/Via](https://github.com/tuyafeng/Via) - Via is a simple browser, and this repository is set for localization.
 
 * [J3n5en/bye](https://github.com/J3n5en/bye) -
-
-* [githubXiaowangzi/NP-Manager](https://github.com/githubXiaowangzi/NP-Manager) - Apk控制流混淆；Apk-Dex2C；Res资源混淆；Dex、jar、smali文件的相互转换； Dex、Pdf文件合并； Apk、dex、jar混淆和字符串加密； Apk签名、共存； Res资源混淆； Dex、AXML、ARSC文件编辑及翻译；字符串加密(Apk、dex)；  一键添加Xposed检测，一键添加弹窗、对话框； axml反编译/回编译； 一键LOG添加； 一键添加字符串解密LOG，Dex文件换包名； 一键添加禁止截屏，一键添加Apk崩溃日志记录； Apk超级混淆3.0--高效率直接对dex混淆，支持混淆四大组件，支持多dex； Apk功能--DEX混淆对抗；屏幕取色器；屏幕标尺。
 
 * [anars/blank-audio](https://github.com/anars/blank-audio) - Set of blank MP3 audio files
 
@@ -2342,6 +2340,78 @@
 
 * [pfnet/PaintsChainer](https://github.com/pfnet/PaintsChainer) - line drawing colorization using chainer
 
+## PHP
+
+* [githubXiaowangzi/NP-Manager](https://github.com/githubXiaowangzi/NP-Manager) - Apk控制流混淆；Apk-Dex2C；Res资源混淆；Dex、jar、smali文件的相互转换； Dex、Pdf文件合并； Apk、dex、jar混淆和字符串加密； Apk签名、共存； Res资源混淆； Dex、AXML、ARSC文件编辑及翻译；字符串加密(Apk、dex)；  一键添加Xposed检测，一键添加弹窗、对话框； axml反编译/回编译； 一键LOG添加； 一键添加字符串解密LOG，Dex文件换包名； 一键添加禁止截屏，一键添加Apk崩溃日志记录； Apk超级混淆3.0--高效率直接对dex混淆，支持混淆四大组件，支持多dex； Apk功能--DEX混淆对抗；屏幕取色器；屏幕标尺。
+
+* [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
+
+* [zdhxiong/mdclub](https://github.com/zdhxiong/mdclub) - MDClub 社区系统后端代码
+
+* [zhuifengshaonianhanlu/pikachu](https://github.com/zhuifengshaonianhanlu/pikachu) - 一个好玩的Web安全-漏洞测试平台
+
+* [maicong/stay](https://github.com/maicong/stay) - A responsive theme for Typecho. 一款响应式 Typecho 主题
+
+* [jzwalk/TeStore](https://github.com/jzwalk/TeStore) - 插件仓库插件 for Typecho 1.1
+
+* [helloxz/imgurl](https://github.com/helloxz/imgurl) - 此项目停止维护，如需私有部署图床服务，可查看我们的Zpic方案：https://www.zpic.pro
+
+* [icret/easyImages](https://github.com/icret/easyImages) - 此版本不再维护，已出新版：速度更快，压缩更小：
+
+* [txperl/Story-for-Typecho](https://github.com/txperl/Story-for-Typecho) - Typecho Theme Story - 爱上你我的故事
+
+* [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
+
+* [mashirozx/sakura](https://github.com/mashirozx/sakura) - A Wonderful WordPress Theme: 樱花庄的白猫博客主题
+
+* [noisan/parsedown-rubytext](https://github.com/noisan/parsedown-rubytext) - An extension of Parsedown that adds support for ruby text (aka furigana) in Markdown. Markdownでルビの指定が可能になるParsedown用エクステンション
+
+* [holmesian/Typecho-AMP](https://github.com/holmesian/Typecho-AMP) - A typecho plugin for Google AMP / Baidu MIP.
+
+* [overtrue/pinyin](https://github.com/overtrue/pinyin) - 🇨🇳 基于词库的中文转拼音优质解决方案
+
+* [MortyFx/typecho-theme-apollo](https://github.com/MortyFx/typecho-theme-apollo) - A minimalism typecho theme.
+
+* [johnlui/Learn-Laravel-5](https://github.com/johnlui/Learn-Laravel-5) - Laravel 5 系列入门教程
+
+* [erusev/parsedown](https://github.com/erusev/parsedown) - Better Markdown Parser in PHP
+
+* [txperl/Moricolor-for-Typecho](https://github.com/txperl/Moricolor-for-Typecho) - Typecho Theme Moricolor - 森之色
+
+* [yzalis/Identicon](https://github.com/yzalis/Identicon) - Generate awesome and unique identicons with beautiful colors
+
+* [endroid/qr-code](https://github.com/endroid/qr-code) - PHP QR Code library that helps you create QR codes in a jiffy
+
+* [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️  – Pull Requests welcome!
+
+* [star7th/showdoc](https://github.com/star7th/showdoc) - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
+
+* [metowolf/TencentMusicApi](https://github.com/metowolf/TencentMusicApi) - QQ 音乐 API，PHP 版
+
+* [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
+
+* [rodber/chevereto-free](https://github.com/rodber/chevereto-free) - 👉 Go to chevereto/chevereto for newer Chevereto releases. Self-hosted image sharing software, your own Flickr/Imgur with your very own rules.
+
+* [PocketMine/PocketMine-MP](https://github.com/PocketMine/PocketMine-MP) - Legacy PocketMine-MP repository. Head to https://github.com/pmmp for up to date software.
+
+* [LoeiFy/Diaspora](https://github.com/LoeiFy/Diaspora) - Diaspora - A WordPress theme
+
+* [AlxMedia/blogrow](https://github.com/AlxMedia/blogrow) - Blogrow WordPress Theme
+
+* [marlonfan/qiniu-typecho-file](https://github.com/marlonfan/qiniu-typecho-file) - typecho中使用七牛作为存储
+
+* [chakhsu/lpisme](https://github.com/chakhsu/lpisme) - Lpisme,  A Typecho Theme
+
+* [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
+
+* [hoohack/zhihuSpider](https://github.com/hoohack/zhihuSpider) - A zhihu Spider.Just for fun.
+
+* [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The 𝘥𝘦 𝘧𝘢𝘤𝘵𝘰 standard, self hosted, powerful and customizable, URL shortener in PHP
+
+* [zgq354/APlayer-Typecho-Plugin](https://github.com/zgq354/APlayer-Typecho-Plugin) - APlayer Typecho 音乐插件
+
+* [jiangmuzi/sisome](https://github.com/jiangmuzi/sisome) - 基于Typecho内核的社区系统
+
 ## CSS
 
 * [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -2437,76 +2507,6 @@
 ## Dockerfile
 
 * [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - ✅ The Node.js best practices list (July 2026)
-
-## PHP
-
-* [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
-
-* [zdhxiong/mdclub](https://github.com/zdhxiong/mdclub) - MDClub 社区系统后端代码
-
-* [zhuifengshaonianhanlu/pikachu](https://github.com/zhuifengshaonianhanlu/pikachu) - 一个好玩的Web安全-漏洞测试平台
-
-* [maicong/stay](https://github.com/maicong/stay) - A responsive theme for Typecho. 一款响应式 Typecho 主题
-
-* [jzwalk/TeStore](https://github.com/jzwalk/TeStore) - 插件仓库插件 for Typecho 1.1
-
-* [helloxz/imgurl](https://github.com/helloxz/imgurl) - 此项目停止维护，如需私有部署图床服务，可查看我们的Zpic方案：https://www.zpic.pro
-
-* [icret/easyImages](https://github.com/icret/easyImages) - 此版本不再维护，已出新版：速度更快，压缩更小：
-
-* [txperl/Story-for-Typecho](https://github.com/txperl/Story-for-Typecho) - Typecho Theme Story - 爱上你我的故事
-
-* [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
-
-* [mashirozx/sakura](https://github.com/mashirozx/sakura) - A Wonderful WordPress Theme: 樱花庄的白猫博客主题
-
-* [noisan/parsedown-rubytext](https://github.com/noisan/parsedown-rubytext) - An extension of Parsedown that adds support for ruby text (aka furigana) in Markdown. Markdownでルビの指定が可能になるParsedown用エクステンション
-
-* [holmesian/Typecho-AMP](https://github.com/holmesian/Typecho-AMP) - A typecho plugin for Google AMP / Baidu MIP.
-
-* [overtrue/pinyin](https://github.com/overtrue/pinyin) - 🇨🇳 基于词库的中文转拼音优质解决方案
-
-* [MortyFx/typecho-theme-apollo](https://github.com/MortyFx/typecho-theme-apollo) - A minimalism typecho theme.
-
-* [johnlui/Learn-Laravel-5](https://github.com/johnlui/Learn-Laravel-5) - Laravel 5 系列入门教程
-
-* [erusev/parsedown](https://github.com/erusev/parsedown) - Better Markdown Parser in PHP
-
-* [txperl/Moricolor-for-Typecho](https://github.com/txperl/Moricolor-for-Typecho) - Typecho Theme Moricolor - 森之色
-
-* [yzalis/Identicon](https://github.com/yzalis/Identicon) - Generate awesome and unique identicons with beautiful colors
-
-* [endroid/qr-code](https://github.com/endroid/qr-code) - PHP QR Code library that helps you create QR codes in a jiffy
-
-* [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️  – Pull Requests welcome!
-
-* [star7th/showdoc](https://github.com/star7th/showdoc) - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
-
-* [metowolf/TencentMusicApi](https://github.com/metowolf/TencentMusicApi) - QQ 音乐 API，PHP 版
-
-* [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
-
-* [rodber/chevereto-free](https://github.com/rodber/chevereto-free) - 👉 Go to chevereto/chevereto for newer Chevereto releases. Self-hosted image sharing software, your own Flickr/Imgur with your very own rules.
-
-* [PocketMine/PocketMine-MP](https://github.com/PocketMine/PocketMine-MP) - Legacy PocketMine-MP repository. Head to https://github.com/pmmp for up to date software.
-
-* [LoeiFy/Diaspora](https://github.com/LoeiFy/Diaspora) - Diaspora - A WordPress theme
-
-* [AlxMedia/blogrow](https://github.com/AlxMedia/blogrow) - Blogrow WordPress Theme
-
-* [marlonfan/qiniu-typecho-file](https://github.com/marlonfan/qiniu-typecho-file) - typecho中使用七牛作为存储
-
-* [chakhsu/lpisme](https://github.com/chakhsu/lpisme) - Lpisme,  A Typecho Theme
-
-* [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
-
-* [hoohack/zhihuSpider](https://github.com/hoohack/zhihuSpider) - A zhihu Spider.Just for fun.
-
-* [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The 𝘥𝘦 𝘧𝘢𝘤𝘵𝘰 standard, self hosted, powerful and customizable, URL shortener in PHP
-
-* [zgq354/APlayer-Typecho-Plugin](https://github.com/zgq354/APlayer-Typecho-Plugin) - APlayer Typecho 音乐插件
-
-* [jiangmuzi/sisome](https://github.com/jiangmuzi/sisome) - 基于Typecho内核的社区系统
 
 ## Rich Text Format
 
