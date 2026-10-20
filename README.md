@@ -54,6 +54,8 @@
 
 ## TypeScript
 
+* [Ikaleio/lm-detector](https://github.com/Ikaleio/lm-detector) - Model fingerprint detection with a shared Web and Bun CLI reference bank
+
 * [corrinehu/dsh-workbuddy-connect](https://github.com/corrinehu/dsh-workbuddy-connect) - 将 WorkBuddy 桌面 App 包含的模型自动接入 DeepSeek Harness，零配置使用。Bring the models in the WorkBuddy desktop app into DeepSeek Harness with zero configuration.
 
 * [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market) - The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场
@@ -193,6 +195,8 @@
 * [dreamhunter2333/cloudflare\_temp\_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
 
 * [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
+
+* [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) - Moe counter badge with multiple themes! - 多种风格可选的萌萌计数器
 
 * [yiliansource/party-js](https://github.com/yiliansource/party-js) - A JavaScript library to brighten up your user's site experience with visual effects!
 
@@ -420,6 +424,8 @@
 
 * [laobubu/HyperMD](https://github.com/laobubu/HyperMD) - A WYSIWYG Markdown Editor for browsers. Break the Wall between writing and previewing.
 
+* [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
+
 * [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 
 * [dofy/learn-vim](https://github.com/dofy/learn-vim) - Learning Vim. A Hands-On Tutorial of Vim.
@@ -510,7 +516,7 @@
 
 * [oneincase/webwallgl](https://github.com/oneincase/webwallgl) - WebWallGL — 浏览器端 Wallpaper Engine 壁纸渲染核心：场景 / 网页 / 视频壁纸全支持，附场景编辑器，npm / CDN（MIT）｜ WebGL2 rendering core that plays Wallpaper Engine wallpapers in the browser: scene / web / video wallpapers + scene editor (npm / CDN, MIT)
 
-* [vinvcn/mattpocock-skills-zh-CN](https://github.com/vinvcn/mattpocock-skills-zh-CN) - 这是 mattpocock/skills 的简体中文本地化版本。
+* [vinvcn/mattpocock-skills-zh-CN](https://github.com/vinvcn/mattpocock-skills-zh-CN) - Matt Pocock skills 的简体中文本地化：人工审核每一次更新，定期同步上游，支持 Claude、Codex 和 DSH 插件。
 
 * [arraypress/waveform-player](https://github.com/arraypress/waveform-player) - Lightweight, customizable audio player with waveform visualization
 
@@ -577,8 +583,6 @@
 * [metowolf/qqwry.dat](https://github.com/metowolf/qqwry.dat) - 纯真 IP 数据库同步仓库（2026 年持续更新中）
 
 * [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
-
-* [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) - Moe counter badge with multiple themes! - 多种风格可选的萌萌计数器
 
 * [gaotianliuyun/gao](https://github.com/gaotianliuyun/gao) - FongMi影视和tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。
 
@@ -1010,8 +1014,6 @@
 
 * [DIYgod/APlayer](https://github.com/DIYgod/APlayer) - :lollipop: Wow, such a beautiful HTML5 music player
 
-* [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
-
 * [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
 
 * [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
@@ -1160,7 +1162,7 @@
 
 * [FireRedTeam/FireRed-OpenStoryline](https://github.com/FireRedTeam/FireRed-OpenStoryline) - FireRed-OpenStoryline is an AI video editing agent that transforms manual editing into intention-driven directing through natural language interaction, LLM-powered planning, and precise tool orchestration. It facilitates transparent, human-in-the-loop creation with reusable Style Skills for consistent, professional storytelling.
 
-* [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.
+* [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord https://discord.gg/VuxzM8mtf
 
 * [cft0808/edict](https://github.com/cft0808/edict) - 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails
 
