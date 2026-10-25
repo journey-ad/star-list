@@ -336,6 +336,8 @@
 
 * [SolidZORO/zpix-pixel-font](https://github.com/SolidZORO/zpix-pixel-font) - Zpix (最像素) is a pixel font (中文像素字体), supporting English, Chinese (Simplified + Traditional) and Japanese.
 
+* [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
+
 * [BGmi/BGmi](https://github.com/BGmi/BGmi) - \[looking for maintainers] BGmi is a cli tool with Web UI for subscribed bangumi.
 
 * [Jack-Cherish/python-spider](https://github.com/Jack-Cherish/python-spider) - :rainbow:Python3网络爬虫实战：淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说下载、音乐电影下载等
@@ -2039,8 +2041,6 @@
 * [tnfe/awesome-blackmagic](https://github.com/tnfe/awesome-blackmagic) - 🎭 ♠♥奇技淫巧 💠黑魔法大集合♦♣ 👺
 
 * [jiangfengming/webpack-and-spa-guide](https://github.com/jiangfengming/webpack-and-spa-guide) - Webpack 4 和单页应用入门
-
-* [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 
 * [xitu/gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
 
