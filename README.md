@@ -674,8 +674,6 @@
 
 * [journey-ad/telerelay](https://github.com/journey-ad/telerelay) - Telegram relay bot with regex/keyword filtering and a built-in Web dashboard. / 基于正则与关键字过滤的 Telegram 智能转发机器人，自带 Web 管理面板
 
-* [Bush2021/chrome\_installer](https://github.com/Bush2021/chrome_installer) - Auto-updated Google Chrome offline installers for Windows (Stable/Beta/Dev/Canary, x86/x64/ARM64) with direct links and SHA-256, via GitHub Actions
-
 * [tombcato/clash-ip-checker](https://github.com/tombcato/clash-ip-checker) - 🤖Automated node IP risk checking and tagging tool for Clash (适用于 Clash 代理的自动化节点 IP 风险检查并重命名标记工具)
 
 * [Th3w33knd/reVCDOS](https://github.com/Th3w33knd/reVCDOS) - Web-based port running in browser via WebAssembly.
@@ -1767,6 +1765,8 @@
 * [AlliotTech/cloudflared\_proxy](https://github.com/AlliotTech/cloudflared_proxy) - Cloudflare Tunnel client (formerly Argo Tunnel) ,support proxy. https://blog.alliot.tech/post/cloudflare-tunnel-proxy-support   fork from :https://github.com/cloudflare/cloudflared/pull/1020 https://github.com/Asutorufa
 
 * [krau/SaveAny-Bot](https://github.com/krau/SaveAny-Bot) - Save Any Telegram File to Anywhere 📂 (Alist, Disk, Webdav, S3, Rclone...) . Support restrict saving content and files beyond telegram.
+
+* [Bush2021/chrome\_installer](https://github.com/Bush2021/chrome_installer) - Auto-updated Google Chrome offline installers for Windows (Stable/Beta/Dev/Canary, x86/x64/ARM64) with direct links and SHA-256, via GitHub Actions
 
 * [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 
