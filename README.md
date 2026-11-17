@@ -895,8 +895,6 @@
 
 * [sunnyyoung/WeChatTweak](https://github.com/sunnyyoung/WeChatTweak) - A command-line tool for tweaking WeChat - 首款微信 macOS 客户端撤回拦截与多开 🔨
 
-* [jackhumbert/let\_there\_be\_flight](https://github.com/jackhumbert/let_there_be_flight) - A flight mod for Cyberpunk 2077
-
 * [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
 
 * [Finb/Bark](https://github.com/Finb/Bark) - Bark is an iOS App which allows you to push custom notifications to your iPhone
@@ -2170,6 +2168,8 @@
 * [fevrax/navicat-keygen](https://github.com/fevrax/navicat-keygen) - Navicat Premium 15 linux 安装与激活 ArchLinux  备份已经被删除的 navicat-keygen 项目！
 
 * [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
+
+* [jackhumbert/let\_there\_be\_flight](https://github.com/jackhumbert/let_there_be_flight) - A flight mod for Cyberpunk 2077
 
 * [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 
