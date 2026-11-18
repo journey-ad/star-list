@@ -97,7 +97,7 @@
 
 * [DavidHDev/canvas-ui](https://github.com/DavidHDev/canvas-ui) - A library of creative canvas components. Real HTML with WebGL effects running over it. React, Vue, Svelte, vanilla.
 
-* [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
+* [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.
 
 * [jacklilyhello/WeFlow](https://github.com/jacklilyhello/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用
 
@@ -135,7 +135,7 @@
 
 * [srizzon/git-city](https://github.com/srizzon/git-city) - Your GitHub profile as a 3D pixel art building in an interactive city
 
-* [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
+* [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - Your own always-on AI assistant: self-hosted, open source, lightweight. Each agent runs in its own container on your machine, on the harness you choose (Claude Code, Codex, Cursor, OpenCode). Talk to it from Slack, WhatsApp, Telegram, Discord and more.
 
 * [biggerstar/wedecode](https://github.com/biggerstar/wedecode) - 全自动化，微信小程序反编译 wxapkg 包 源代码还原工具, 线上代码安全审计，支持 Windows, Macos, Linux
 
@@ -1873,7 +1873,7 @@
 
 * [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - A reliable coding agent for complex software engineering tasks.
 
-* [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
+* [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.
 
 * [black-ant/Ant-Browser](https://github.com/black-ant/Ant-Browser) - 指纹浏览器
 
@@ -2219,7 +2219,7 @@
 
 * [jxlpzqc/TMSpeech](https://github.com/jxlpzqc/TMSpeech) - 腾讯会议摸鱼工具
 
-* [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users
+* [sourcegit-org/sourcegit](https://github.com/sourcegit-org/sourcegit) - Windows/macOS/Linux GUI client for GIT users
 
 * [PinchToDebug/EverythingQuickSearch](https://github.com/PinchToDebug/EverythingQuickSearch) -
 
