@@ -256,7 +256,7 @@
 
 * [DeanChensj/jiangshan-map](https://github.com/DeanChensj/jiangshan-map) - 江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes
 
-* [akiralereal/iptv](https://github.com/akiralereal/iptv) - 开箱即有 800+ 可稳定流畅播放频道的自托管 IPTV 直播源管理与分发系统，聚合了央视频、咪咕、央视、卫视、凤凰卫视、亚太、国际、地方台、体育赛事、抖音、bilibli、斗鱼、虎牙、百视通、NBA、足球、体育直播、红果短剧等，以及自定义抓取源和订阅，并提供 EPG 节目单与聚合功能；另外还自带 GUI 可视化管理后台，支持 Docker Compose 或 Node.js 运行，适合 NAS 与家庭服务器。
+* [akiralereal/iptv](https://github.com/akiralereal/iptv) - 开箱即有 800+ 可稳定流畅播放频道的自托管 IPTV 直播源管理与分发系统，聚合了央视频、咪咕、央视、卫视、凤凰卫视、亚太、国际、地方台、体育赛事、抖音、bilibli、斗鱼、虎牙、百视通、NBA、足球、体育直播等，以及自定义抓取源和订阅，并提供 EPG 节目单与聚合功能；另外还自带 GUI 可视化管理后台，支持 Docker、Node.js 等平台运行，适合 NAS 与家庭服务器。
 
 * [Minglink/dsh-infinite-gen-5](https://github.com/Minglink/dsh-infinite-gen-5) - DeepSeek Harness 最强逆向工具（无限五代）     求 Star 收藏 ⭐欢迎大家提交项目的改进
 
