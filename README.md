@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-* [Go](#go)
 * [Rust](#rust)
+* [Go](#go)
 * [JavaScript](#javascript)
 * [TypeScript](#typescript)
 * [Shell](#shell)
@@ -51,6 +51,90 @@
 * [QML](#qml)
 * [Matlab](#matlab)
 * [LiveScript](#livescript)
+
+## Rust
+
+* [newdee/magpie](https://github.com/newdee/magpie) - Spotlight-style local search for everything you saved and forgot: GitHub stars, local files, images, and bookmarks. Privacy-first, no full-disk scanning, fully on-device.
+
+* [journey-ad/M5CardputerZero-FlightClub](https://github.com/journey-ad/M5CardputerZero-FlightClub) - 驾驶战机穿越虫洞，到达世界的另一端，从地表飞向宇宙，再驶向星球降落。自由探索、竞速、金币冲刺与空战，支持 Cardputer Zero 体感操控。
+
+* [journey-ad/M5CardputerZero-CardBili](https://github.com/journey-ad/M5CardputerZero-CardBili) - 适用于 M5Stack CardputerZero 的非官方 BiliBili 客户端，支持热门、推荐、动态、视频、弹幕、直播等
+
+* [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
+
+* [storytold/craft-anything](https://github.com/storytold/craft-anything) - Craft Anything: understand how any software works, and craft your own.
+
+* [changexbc/workbuddy-switch](https://github.com/changexbc/workbuddy-switch) - WorkBuddy、CodeBuddy  账号切换，支持积分到期监控、积分统计与 Token 统计，agent 状态悬浮窗。
+
+* [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source photo editor written from scratch in pure Rust
+
+* [naim94a/lumen](https://github.com/naim94a/lumen) - A private Lumina server for IDA Pro
+
+* [t8y2/dbx](https://github.com/t8y2/dbx) - 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。
+
+* [remorses/gpuix](https://github.com/remorses/gpuix) - Node.js & Bun bindings for Zed’s GPUI. Build memory efficient native apps with React or Solid.js
+
+* [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+
+* [bigsaltyfishes/wallpaper-engine-for-macos](https://github.com/bigsaltyfishes/wallpaper-engine-for-macos) - An opensource implemetation of Wallpaper Engine for macOS.
+
+* [waywallen/waywallen](https://github.com/waywallen/waywallen) - Wallpaper Manager for Linux
+
+* [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
+
+* [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) - A batteries-included framework for building web apps
+
+* [lvzhenbo/115-plus-desktop](https://github.com/lvzhenbo/115-plus-desktop) - 115+ 是一个基于 115 网盘开放平台的第三方开源桌面客户端
+
+* [microsoft/RustTraining](https://github.com/microsoft/RustTraining) - Beginner, advanced, expert level Rust training material
+
+* [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
+
+* [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
+
+* [qaz741wsd856/warden-worker](https://github.com/qaz741wsd856/warden-worker) - A Bitwarden-compatible server for Cloudflare Workers
+
+* [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io
+
+* [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
+
+* [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
+
+* [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
+
+* [napi-rs/node-rs](https://github.com/napi-rs/node-rs) - Node.js bindings ❤️ Rust crates
+
+* [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+
+* [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) - 🦀 Rust based dynamic DNS (DDNS) updater for Cloudflare
+
+* [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
+
+* [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
+
+* [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
+
+* [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
+
+* [tw93/Pake](https://github.com/tw93/Pake) - Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.
+
+* [chinuno-usami/ava\_dash](https://github.com/chinuno-usami/ava_dash) -
+
+* [gwy15/danmu2ass](https://github.com/gwy15/danmu2ass) - 将哔哩哔哩的 弹幕 转化为 ass 字幕文件，实时预览
+
+* [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+
+* [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+
+* [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
+
+* [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
+
+* [majimboo/mviewer](https://github.com/majimboo/mviewer) - Rust-native MView viewer, converter, and glTF exporter for Marmoset .mview scenes
+
+* [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+
+* [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 
 ## Go
 
@@ -163,88 +247,6 @@
 * [fanpei91/torsniff](https://github.com/fanpei91/torsniff) - torsniff - a sniffer that sniffs torrents from BitTorrent network
 
 * [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
-
-## Rust
-
-* [journey-ad/M5CardputerZero-FlightClub](https://github.com/journey-ad/M5CardputerZero-FlightClub) - 驾驶战机穿越虫洞，到达世界的另一端，从地表飞向宇宙，再驶向星球降落。自由探索、竞速、金币冲刺与空战，支持 Cardputer Zero 体感操控。
-
-* [journey-ad/M5CardputerZero-CardBili](https://github.com/journey-ad/M5CardputerZero-CardBili) - 适用于 M5Stack CardputerZero 的非官方 BiliBili 客户端，支持热门、推荐、动态、视频、弹幕、直播等
-
-* [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
-
-* [storytold/craft-anything](https://github.com/storytold/craft-anything) - Craft Anything: understand how any software works, and craft your own.
-
-* [changexbc/workbuddy-switch](https://github.com/changexbc/workbuddy-switch) - WorkBuddy、CodeBuddy  账号切换，支持积分到期监控、积分统计与 Token 统计，agent 状态悬浮窗。
-
-* [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source photo editor written from scratch in pure Rust
-
-* [naim94a/lumen](https://github.com/naim94a/lumen) - A private Lumina server for IDA Pro
-
-* [t8y2/dbx](https://github.com/t8y2/dbx) - 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。
-
-* [remorses/gpuix](https://github.com/remorses/gpuix) - Node.js & Bun bindings for Zed’s GPUI. Build memory efficient native apps with React or Solid.js
-
-* [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-
-* [bigsaltyfishes/wallpaper-engine-for-macos](https://github.com/bigsaltyfishes/wallpaper-engine-for-macos) - An opensource implemetation of Wallpaper Engine for macOS.
-
-* [waywallen/waywallen](https://github.com/waywallen/waywallen) - Wallpaper Manager for Linux
-
-* [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
-
-* [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) - A batteries-included framework for building web apps
-
-* [lvzhenbo/115-plus-desktop](https://github.com/lvzhenbo/115-plus-desktop) - 115+ 是一个基于 115 网盘开放平台的第三方开源桌面客户端
-
-* [microsoft/RustTraining](https://github.com/microsoft/RustTraining) - Beginner, advanced, expert level Rust training material
-
-* [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
-
-* [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
-
-* [qaz741wsd856/warden-worker](https://github.com/qaz741wsd856/warden-worker) - A Bitwarden-compatible server for Cloudflare Workers
-
-* [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io
-
-* [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
-
-* [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 | Cross-platform clipboard management tool
-
-* [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
-
-* [napi-rs/node-rs](https://github.com/napi-rs/node-rs) - Node.js bindings ❤️ Rust crates
-
-* [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-
-* [timothymiller/cloudflare-ddns](https://github.com/timothymiller/cloudflare-ddns) - 🦀 Rust based dynamic DNS (DDNS) updater for Cloudflare
-
-* [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
-
-* [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
-
-* [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
-
-* [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
-
-* [tw93/Pake](https://github.com/tw93/Pake) - Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.
-
-* [chinuno-usami/ava\_dash](https://github.com/chinuno-usami/ava_dash) -
-
-* [gwy15/danmu2ass](https://github.com/gwy15/danmu2ass) - 将哔哩哔哩的 弹幕 转化为 ass 字幕文件，实时预览
-
-* [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-
-* [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
-
-* [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
-
-* [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
-
-* [majimboo/mviewer](https://github.com/majimboo/mviewer) - Rust-native MView viewer, converter, and glTF exporter for Marmoset .mview scenes
-
-* [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-
-* [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 
 ## JavaScript
 
@@ -2106,7 +2108,7 @@
 
 ## Kotlin
 
-* [YuKongA/ghostlock-app](https://github.com/YuKongA/ghostlock-app) - GhostLock One-Tap Execution App (CVE-2026-43499)
+* [LSPosed/LSPrivilege](https://github.com/LSPosed/LSPrivilege) -
 
 * [tsunehimatoi/psd2live](https://github.com/tsunehimatoi/psd2live) - Turn layered PSDs into editable Live2D models — automatic rigging, mesh/deformer generation, physics, animation, and .cmo3/ .moc3 export.
 
