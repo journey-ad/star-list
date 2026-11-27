@@ -1502,7 +1502,7 @@
 
 * [skywind3000/ECDICT](https://github.com/skywind3000/ECDICT) - Free English to Chinese Dictionary Database
 
-* [mvdctop/Movie\_Data\_Capture](https://github.com/mvdctop/Movie_Data_Capture) - The AI local media metadata crawler
+* [mvdctop/Movie\_Data\_Capture](https://github.com/mvdctop/Movie_Data_Capture) - MDC - The AI local media metadata crawler
 
 * [SolidZORO/zpix-pixel-font](https://github.com/SolidZORO/zpix-pixel-font) - Zpix (最像素) is a pixel font (中文像素字体), supporting English, Chinese (Simplified + Traditional) and Japanese.
 
